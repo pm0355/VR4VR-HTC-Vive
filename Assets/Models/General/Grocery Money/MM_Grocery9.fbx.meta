@@ -1,0 +1,1461 @@
+fileFormatVersion: 2
+guid: 2cfb0ba8abe53c641905a0c87a5e5dbe
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Alarm_Bar_1
+    100002: Alarm_Bar_2
+    100004: ATM
+    100006: babySeat
+    100008: Bag1
+    100010: Bag1 1
+    100012: Bag2
+    100014: Bag2 1
+    100016: Bag3
+    100018: Bag3 1
+    100020: Baskets
+    100022: BB___Retail___ATM1:Store___ATM
+    100024: BB___Retail___ATM1:Store___ATM_pivot
+    100026: BB___Retail___Convenience_Shelves2:Cereal_Box_06_pivot
+    100028: BB___Retail___Convenience_Shelves2:Cookie_Box_00_pivot
+    100030: BB___Retail___Convenience_Shelves2:Cookie_Box_02_pivot
+    100032: BB___Retail___Convenience_Shelves2:Cookie_Box_04_pivot
+    100034: BB___Retail___Convenience_Shelves3:Cereal_Box_42_pivot
+    100036: BB___Retail___Convenience_Shelves3:Pringles_Tube_02
+    100038: BB___Retail___Convenience_Shelves3:Pringles_Tube_09
+    100040: BB___Retail___Grocery_Shelves___Chips_02:ChipsBag___27
+    100042: BB___Retail___Grocery_Shelves___Chips_02:ChipsBag___29
+    100044: BB___Retail___Grocery_Shelves___Soup_02:VCT___Grocery___Box___Soup___03
+    100046: BB___Retail___Grocery_Shelves___Soup_02:VCT___Grocery___Can___Soup___366
+    100048: BB___Retail___Grocery_Shelves___Soup_02:VCT___Grocery___Can___Soup___440
+    100050: BB___Retail___Grocery_Shelves___Soup_02:VCT___Grocery___Can___Soup___576
+    100052: BB___Retail___Meat_Counter_02:Jar___Cocktail03
+    100054: BB___Retail___Meat_Counter_02:Spices___16_pivot
+    100056: BB___Retail___Pop_Boxes1:Pop_Box_420
+    100058: BB___Retail___Pop_Boxes1:Pop_Box_92
+    100060: BB___Retail___Printer_Paper_Display1:Paper_Box___182
+    100062: BB___Retail___Printer_Paper_Display1:Paper_Box___236
+    100064: Billboard1
+    100066: Billboard2
+    100068: Billboards
+    100070: BlueBags
+    100072: BlueBags1
+    100074: Cart1
+    100076: Cart1 1
+    100078: Cart1 2
+    100080: Cart1 3
+    100082: Cart1 4
+    100084: Cart1 5
+    100086: Cart14
+    100088: Cart14 1
+    100090: Cart14 2
+    100092: Cart15
+    100094: Cart15 1
+    100096: Cart15 2
+    100098: Cart16
+    100100: Cart16 1
+    100102: Cart16 2
+    100104: Cart17
+    100106: Cart17 1
+    100108: Cart17 2
+    100110: Cart18
+    100112: Cart18 1
+    100114: Cart18 2
+    100116: Cart19
+    100118: Cart20
+    100120: Cart21
+    100122: Cart22
+    100124: Cart23
+    100126: Cart3
+    100128: Cart3 1
+    100130: Cart3 2
+    100132: CartGroup
+    100134: CartGroup1
+    100136: CartGroup2
+    100138: CartGroup3
+    100140: CartL11
+    100142: CartL12
+    100144: Cash_Register_1
+    100146: Cash_Register_2
+    100148: CashiersAll
+    100150: Ceiling
+    100152: ceiling:polySurface13165
+    100154: Cereal_Box_06_pivot
+    100156: Cereal_Box_06_pivot1
+    100158: ChipsBag___27
+    100160: ChipsBag___28
+    100162: ChipsBag___29
+    100164: ChipsBag___29 1
+    100166: Cookie_Box_00_pivot
+    100168: Cookie_Box_00_pivot1
+    100170: Cookie_Box_00_pivot2
+    100172: Cookie_Box_00_pivot3
+    100174: Cookie_Box_00_pivot4
+    100176: Cookie_Box_02_pivot
+    100178: Cookie_Box_04_pivot
+    100180: Cookie_Box_04_pivot1
+    100182: door
+    100184: Floor
+    100186: floor
+    100188: Freezer1
+    100190: Freezer2
+    100192: Freezer3
+    100194: Freezers
+    100196: giftCards
+    100198: Grocery____Basket
+    100200: Grocery____CheckOutLane
+    100202: Grocery____CheckOutLane 1
+    100204: Grocery____Cooler_End_Cap
+    100206: Grocery____POS_Candy_01
+    100208: Grocery____POS_Candy_01 1
+    100210: Grocery____POS_Candy_02
+    100212: Grocery____POS_Candy_02 1
+    100214: Grocery____POS_Candy_03
+    100216: Grocery____POS_Candy_03 1
+    100218: Grocery____POS_Magazine_Rack_01
+    100220: Grocery____POS_Magazine_Rack_02
+    100222: Grocery____POS_Magazines
+    100224: Grocery____POS_Magazines 1
+    100226: GroceryFinal4_0006:polySurface15973
+    100228: GroceryFinal4_0006:polySurface15974
+    100230: GroceryFinal4_0006:polySurface15976
+    100232: GroceryFinal4_0006:polySurface15977
+    100234: GroceryFinal4_0006:polySurface15978
+    100236: GroceryFinal4_0006:polySurface15983
+    100238: GroceryFinal4_0006:polySurface15984
+    100240: GroceryFinal4_0006:polySurface15986
+    100242: GroceryFinal4_0006:polySurface15987
+    100244: GroceryFinal4_0006:polySurface15989
+    100246: GroceryFinal4_0006:polySurface15990
+    100248: GroceryFinal4_0006:polySurface15995
+    100250: GroceryFinal4_0006:polySurface16012
+    100252: GroceryFinal4_0006:polySurface16013
+    100254: GroceryFinal4_0006:polySurface16014
+    100256: GroceryFinal4_0006:polySurface16016
+    100258: GroceryFinal4_0006:polySurface16017
+    100260: GroceryFinal4_0006:polySurface16019
+    100262: GroceryFinal4_0006:polySurface16020
+    100264: GroceryFinal4_0006:polySurface16022
+    100266: GroceryFinal4_0006:polySurface16023
+    100268: GroceryFinal4_0006:polySurface16025
+    100270: GroceryFinal4_0006:polySurface16026
+    100272: GroceryFinal4_0006:polySurface16028
+    100274: GroceryFinal4_0006:polySurface16029
+    100276: GroceryFinal4_0006:polySurface16048
+    100278: GroceryFinal4_0006:polySurface16049
+    100280: GroceryFinal4_0006:polySurface16072
+    100282: GroceryFinal4_0006:polySurface16073
+    100284: GroceryFinal4_0006:polySurface16081
+    100286: GroceryFinal4_0006:polySurface16082
+    100288: group22
+    100290: group23
+    100292: group26
+    100294: group27
+    100296: group28
+    100298: group30
+    100300: group31
+    100302: group31 1
+    100304: group32
+    100306: group35
+    100308: group36
+    100310: Line1_Carts
+    100312: Line2_Cart
+    100314: Line3_Cart
+    100316: //RootNode
+    100318: pCube1
+    100320: pCube1 1
+    100322: pCube2
+    100324: pCube2 1
+    100326: pCube5
+    100328: pCube5 1
+    100330: pCube6
+    100332: pCylinder1
+    100334: pCylinder2
+    100336: pCylinder3
+    100338: pCylinder3 1
+    100340: pCylinder4
+    100342: pCylinder5
+    100344: pCylinder8
+    100346: pCylinder9
+    100348: polySurface13426
+    100350: polySurface13427
+    100352: polySurface14516
+    100354: polySurface14517
+    100356: polySurface14518
+    100358: polySurface16111
+    100360: polySurface16112
+    100362: polySurface16346
+    100364: polySurface16348
+    100366: polySurface16349
+    100368: polySurface16349 1
+    100370: polySurface16350
+    100372: polySurface16350 1
+    100374: polySurface16351
+    100376: polySurface16351 1
+    100378: polySurface16352
+    100380: polySurface16352 1
+    100382: polySurface16353
+    100384: polySurface16353 1
+    100386: polySurface16354
+    100388: polySurface16354 1
+    100390: polySurface16355
+    100392: polySurface16356
+    100394: polySurface16357
+    100396: polySurface16357 1
+    100398: polySurface16358
+    100400: polySurface16358 1
+    100402: polySurface16359
+    100404: polySurface16359 1
+    100406: polySurface16360
+    100408: polySurface16360 1
+    100410: polySurface16363
+    100412: polySurface16363 1
+    100414: polySurface16364
+    100416: polySurface16364 1
+    100418: polySurface16365
+    100420: polySurface16365 1
+    100422: polySurface16366
+    100424: polySurface16366 1
+    100426: polySurface16367
+    100428: polySurface16367 1
+    100430: polySurface16368
+    100432: polySurface16368 1
+    100434: polySurface16369
+    100436: polySurface16369 1
+    100438: polySurface16370
+    100440: polySurface16370 1
+    100442: polySurface16371
+    100444: polySurface16371 1
+    100446: polySurface16372
+    100448: polySurface16372 1
+    100450: polySurface16373
+    100452: polySurface16373 1
+    100454: polySurface16374
+    100456: polySurface16374 1
+    100458: polySurface16375
+    100460: polySurface16375 1
+    100462: polySurface16376
+    100464: polySurface16376 1
+    100466: polySurface16377
+    100468: polySurface16377 1
+    100470: polySurface16378
+    100472: polySurface16378 1
+    100474: polySurface16379
+    100476: polySurface16379 1
+    100478: polySurface16380
+    100480: polySurface16380 1
+    100482: polySurface16381
+    100484: polySurface16381 1
+    100486: polySurface16382
+    100488: polySurface16382 1
+    100490: polySurface16383
+    100492: polySurface16383 1
+    100494: polySurface16384
+    100496: polySurface16384 1
+    100498: polySurface16385
+    100500: polySurface16385 1
+    100502: polySurface16386
+    100504: polySurface16386 1
+    100506: polySurface16387
+    100508: polySurface16387 1
+    100510: polySurface16388
+    100512: polySurface16388 1
+    100514: polySurface16389
+    100516: polySurface16389 1
+    100518: polySurface16390
+    100520: polySurface16390 1
+    100522: polySurface16391
+    100524: polySurface16391 1
+    100526: polySurface16392
+    100528: polySurface16392 1
+    100530: polySurface16393
+    100532: polySurface16393 1
+    100534: polySurface16396
+    100536: polySurface16396 1
+    100538: polySurface16397
+    100540: polySurface16397 1
+    100542: polySurface16398
+    100544: polySurface16398 1
+    100546: polySurface16401
+    100548: polySurface16402
+    100550: polySurface16404
+    100552: polySurface16408
+    100554: polySurface16409
+    100556: polySurface16410
+    100558: polySurface16411
+    100560: polySurface16412
+    100562: polySurface16413
+    100564: polySurface16414
+    100566: polySurface16415
+    100568: polySurface16415 1
+    100570: polySurface16416
+    100572: polySurface16416 1
+    100574: Pop_Box_420
+    100576: Pop_Box_421
+    100578: Pop_Box_421 1
+    100580: Pop_Box_422
+    100582: Pop_Box_422 1
+    100584: Pop_Box_424
+    100586: Pop_Box_425
+    100588: Pop_Box_426
+    100590: Pop_Box_428
+    100592: Pop_Box_92
+    100594: Pop_Box_92 1
+    100596: pPlane1
+    100598: Pringles_Tube_02
+    100600: pSphere1
+    100602: pTorus1
+    100604: pTorus2
+    100606: transform4574
+    100608: transform4574 1
+    100610: transform4575
+    100612: transform4576
+    100614: transform4576 1
+    100616: transform4577
+    100618: transform4577 1
+    100620: transform4578
+    100622: transform4578 1
+    100624: trashBin
+    100626: VCT___Grocery___Box___Soup___03
+    100628: Vending_Machine_1
+    100630: Vending_Machine_2
+    100632: Vending_Machines
+    100634: yellowTrashBin:polySurface5
+    400000: Alarm_Bar_1
+    400002: Alarm_Bar_2
+    400004: ATM
+    400006: babySeat
+    400008: Bag1
+    400010: Bag1 1
+    400012: Bag2
+    400014: Bag2 1
+    400016: Bag3
+    400018: Bag3 1
+    400020: Baskets
+    400022: BB___Retail___ATM1:Store___ATM
+    400024: BB___Retail___ATM1:Store___ATM_pivot
+    400026: BB___Retail___Convenience_Shelves2:Cereal_Box_06_pivot
+    400028: BB___Retail___Convenience_Shelves2:Cookie_Box_00_pivot
+    400030: BB___Retail___Convenience_Shelves2:Cookie_Box_02_pivot
+    400032: BB___Retail___Convenience_Shelves2:Cookie_Box_04_pivot
+    400034: BB___Retail___Convenience_Shelves3:Cereal_Box_42_pivot
+    400036: BB___Retail___Convenience_Shelves3:Pringles_Tube_02
+    400038: BB___Retail___Convenience_Shelves3:Pringles_Tube_09
+    400040: BB___Retail___Grocery_Shelves___Chips_02:ChipsBag___27
+    400042: BB___Retail___Grocery_Shelves___Chips_02:ChipsBag___29
+    400044: BB___Retail___Grocery_Shelves___Soup_02:VCT___Grocery___Box___Soup___03
+    400046: BB___Retail___Grocery_Shelves___Soup_02:VCT___Grocery___Can___Soup___366
+    400048: BB___Retail___Grocery_Shelves___Soup_02:VCT___Grocery___Can___Soup___440
+    400050: BB___Retail___Grocery_Shelves___Soup_02:VCT___Grocery___Can___Soup___576
+    400052: BB___Retail___Meat_Counter_02:Jar___Cocktail03
+    400054: BB___Retail___Meat_Counter_02:Spices___16_pivot
+    400056: BB___Retail___Pop_Boxes1:Pop_Box_420
+    400058: BB___Retail___Pop_Boxes1:Pop_Box_92
+    400060: BB___Retail___Printer_Paper_Display1:Paper_Box___182
+    400062: BB___Retail___Printer_Paper_Display1:Paper_Box___236
+    400064: Billboard1
+    400066: Billboard2
+    400068: Billboards
+    400070: BlueBags
+    400072: BlueBags1
+    400074: Cart1
+    400076: Cart1 1
+    400078: Cart1 2
+    400080: Cart1 3
+    400082: Cart1 4
+    400084: Cart1 5
+    400086: Cart14
+    400088: Cart14 1
+    400090: Cart14 2
+    400092: Cart15
+    400094: Cart15 1
+    400096: Cart15 2
+    400098: Cart16
+    400100: Cart16 1
+    400102: Cart16 2
+    400104: Cart17
+    400106: Cart17 1
+    400108: Cart17 2
+    400110: Cart18
+    400112: Cart18 1
+    400114: Cart18 2
+    400116: Cart19
+    400118: Cart20
+    400120: Cart21
+    400122: Cart22
+    400124: Cart23
+    400126: Cart3
+    400128: Cart3 1
+    400130: Cart3 2
+    400132: CartGroup
+    400134: CartGroup1
+    400136: CartGroup2
+    400138: CartGroup3
+    400140: CartL11
+    400142: CartL12
+    400144: Cash_Register_1
+    400146: Cash_Register_2
+    400148: CashiersAll
+    400150: Ceiling
+    400152: ceiling:polySurface13165
+    400154: Cereal_Box_06_pivot
+    400156: Cereal_Box_06_pivot1
+    400158: ChipsBag___27
+    400160: ChipsBag___28
+    400162: ChipsBag___29
+    400164: ChipsBag___29 1
+    400166: Cookie_Box_00_pivot
+    400168: Cookie_Box_00_pivot1
+    400170: Cookie_Box_00_pivot2
+    400172: Cookie_Box_00_pivot3
+    400174: Cookie_Box_00_pivot4
+    400176: Cookie_Box_02_pivot
+    400178: Cookie_Box_04_pivot
+    400180: Cookie_Box_04_pivot1
+    400182: door
+    400184: Floor
+    400186: floor
+    400188: Freezer1
+    400190: Freezer2
+    400192: Freezer3
+    400194: Freezers
+    400196: giftCards
+    400198: Grocery____Basket
+    400200: Grocery____CheckOutLane
+    400202: Grocery____CheckOutLane 1
+    400204: Grocery____Cooler_End_Cap
+    400206: Grocery____POS_Candy_01
+    400208: Grocery____POS_Candy_01 1
+    400210: Grocery____POS_Candy_02
+    400212: Grocery____POS_Candy_02 1
+    400214: Grocery____POS_Candy_03
+    400216: Grocery____POS_Candy_03 1
+    400218: Grocery____POS_Magazine_Rack_01
+    400220: Grocery____POS_Magazine_Rack_02
+    400222: Grocery____POS_Magazines
+    400224: Grocery____POS_Magazines 1
+    400226: GroceryFinal4_0006:polySurface15973
+    400228: GroceryFinal4_0006:polySurface15974
+    400230: GroceryFinal4_0006:polySurface15976
+    400232: GroceryFinal4_0006:polySurface15977
+    400234: GroceryFinal4_0006:polySurface15978
+    400236: GroceryFinal4_0006:polySurface15983
+    400238: GroceryFinal4_0006:polySurface15984
+    400240: GroceryFinal4_0006:polySurface15986
+    400242: GroceryFinal4_0006:polySurface15987
+    400244: GroceryFinal4_0006:polySurface15989
+    400246: GroceryFinal4_0006:polySurface15990
+    400248: GroceryFinal4_0006:polySurface15995
+    400250: GroceryFinal4_0006:polySurface16012
+    400252: GroceryFinal4_0006:polySurface16013
+    400254: GroceryFinal4_0006:polySurface16014
+    400256: GroceryFinal4_0006:polySurface16016
+    400258: GroceryFinal4_0006:polySurface16017
+    400260: GroceryFinal4_0006:polySurface16019
+    400262: GroceryFinal4_0006:polySurface16020
+    400264: GroceryFinal4_0006:polySurface16022
+    400266: GroceryFinal4_0006:polySurface16023
+    400268: GroceryFinal4_0006:polySurface16025
+    400270: GroceryFinal4_0006:polySurface16026
+    400272: GroceryFinal4_0006:polySurface16028
+    400274: GroceryFinal4_0006:polySurface16029
+    400276: GroceryFinal4_0006:polySurface16048
+    400278: GroceryFinal4_0006:polySurface16049
+    400280: GroceryFinal4_0006:polySurface16072
+    400282: GroceryFinal4_0006:polySurface16073
+    400284: GroceryFinal4_0006:polySurface16081
+    400286: GroceryFinal4_0006:polySurface16082
+    400288: group22
+    400290: group23
+    400292: group26
+    400294: group27
+    400296: group28
+    400298: group30
+    400300: group31
+    400302: group31 1
+    400304: group32
+    400306: group35
+    400308: group36
+    400310: Line1_Carts
+    400312: Line2_Cart
+    400314: Line3_Cart
+    400316: //RootNode
+    400318: pCube1
+    400320: pCube1 1
+    400322: pCube2
+    400324: pCube2 1
+    400326: pCube5
+    400328: pCube5 1
+    400330: pCube6
+    400332: pCylinder1
+    400334: pCylinder2
+    400336: pCylinder3
+    400338: pCylinder3 1
+    400340: pCylinder4
+    400342: pCylinder5
+    400344: pCylinder8
+    400346: pCylinder9
+    400348: polySurface13426
+    400350: polySurface13427
+    400352: polySurface14516
+    400354: polySurface14517
+    400356: polySurface14518
+    400358: polySurface16111
+    400360: polySurface16112
+    400362: polySurface16346
+    400364: polySurface16348
+    400366: polySurface16349
+    400368: polySurface16349 1
+    400370: polySurface16350
+    400372: polySurface16350 1
+    400374: polySurface16351
+    400376: polySurface16351 1
+    400378: polySurface16352
+    400380: polySurface16352 1
+    400382: polySurface16353
+    400384: polySurface16353 1
+    400386: polySurface16354
+    400388: polySurface16354 1
+    400390: polySurface16355
+    400392: polySurface16356
+    400394: polySurface16357
+    400396: polySurface16357 1
+    400398: polySurface16358
+    400400: polySurface16358 1
+    400402: polySurface16359
+    400404: polySurface16359 1
+    400406: polySurface16360
+    400408: polySurface16360 1
+    400410: polySurface16363
+    400412: polySurface16363 1
+    400414: polySurface16364
+    400416: polySurface16364 1
+    400418: polySurface16365
+    400420: polySurface16365 1
+    400422: polySurface16366
+    400424: polySurface16366 1
+    400426: polySurface16367
+    400428: polySurface16367 1
+    400430: polySurface16368
+    400432: polySurface16368 1
+    400434: polySurface16369
+    400436: polySurface16369 1
+    400438: polySurface16370
+    400440: polySurface16370 1
+    400442: polySurface16371
+    400444: polySurface16371 1
+    400446: polySurface16372
+    400448: polySurface16372 1
+    400450: polySurface16373
+    400452: polySurface16373 1
+    400454: polySurface16374
+    400456: polySurface16374 1
+    400458: polySurface16375
+    400460: polySurface16375 1
+    400462: polySurface16376
+    400464: polySurface16376 1
+    400466: polySurface16377
+    400468: polySurface16377 1
+    400470: polySurface16378
+    400472: polySurface16378 1
+    400474: polySurface16379
+    400476: polySurface16379 1
+    400478: polySurface16380
+    400480: polySurface16380 1
+    400482: polySurface16381
+    400484: polySurface16381 1
+    400486: polySurface16382
+    400488: polySurface16382 1
+    400490: polySurface16383
+    400492: polySurface16383 1
+    400494: polySurface16384
+    400496: polySurface16384 1
+    400498: polySurface16385
+    400500: polySurface16385 1
+    400502: polySurface16386
+    400504: polySurface16386 1
+    400506: polySurface16387
+    400508: polySurface16387 1
+    400510: polySurface16388
+    400512: polySurface16388 1
+    400514: polySurface16389
+    400516: polySurface16389 1
+    400518: polySurface16390
+    400520: polySurface16390 1
+    400522: polySurface16391
+    400524: polySurface16391 1
+    400526: polySurface16392
+    400528: polySurface16392 1
+    400530: polySurface16393
+    400532: polySurface16393 1
+    400534: polySurface16396
+    400536: polySurface16396 1
+    400538: polySurface16397
+    400540: polySurface16397 1
+    400542: polySurface16398
+    400544: polySurface16398 1
+    400546: polySurface16401
+    400548: polySurface16402
+    400550: polySurface16404
+    400552: polySurface16408
+    400554: polySurface16409
+    400556: polySurface16410
+    400558: polySurface16411
+    400560: polySurface16412
+    400562: polySurface16413
+    400564: polySurface16414
+    400566: polySurface16415
+    400568: polySurface16415 1
+    400570: polySurface16416
+    400572: polySurface16416 1
+    400574: Pop_Box_420
+    400576: Pop_Box_421
+    400578: Pop_Box_421 1
+    400580: Pop_Box_422
+    400582: Pop_Box_422 1
+    400584: Pop_Box_424
+    400586: Pop_Box_425
+    400588: Pop_Box_426
+    400590: Pop_Box_428
+    400592: Pop_Box_92
+    400594: Pop_Box_92 1
+    400596: pPlane1
+    400598: Pringles_Tube_02
+    400600: pSphere1
+    400602: pTorus1
+    400604: pTorus2
+    400606: transform4574
+    400608: transform4574 1
+    400610: transform4575
+    400612: transform4576
+    400614: transform4576 1
+    400616: transform4577
+    400618: transform4577 1
+    400620: transform4578
+    400622: transform4578 1
+    400624: trashBin
+    400626: VCT___Grocery___Box___Soup___03
+    400628: Vending_Machine_1
+    400630: Vending_Machine_2
+    400632: Vending_Machines
+    400634: yellowTrashBin:polySurface5
+    2300000: BB___Retail___ATM1:Store___ATM_pivot
+    2300002: BB___Retail___Convenience_Shelves2:Cereal_Box_06_pivot
+    2300004: BB___Retail___Convenience_Shelves2:Cookie_Box_00_pivot
+    2300006: BB___Retail___Convenience_Shelves2:Cookie_Box_02_pivot
+    2300008: BB___Retail___Convenience_Shelves2:Cookie_Box_04_pivot
+    2300010: BB___Retail___Convenience_Shelves3:Cereal_Box_42_pivot
+    2300012: BB___Retail___Convenience_Shelves3:Pringles_Tube_02
+    2300014: BB___Retail___Convenience_Shelves3:Pringles_Tube_09
+    2300016: BB___Retail___Grocery_Shelves___Chips_02:ChipsBag___27
+    2300018: BB___Retail___Grocery_Shelves___Chips_02:ChipsBag___29
+    2300020: BB___Retail___Grocery_Shelves___Soup_02:VCT___Grocery___Box___Soup___03
+    2300022: BB___Retail___Grocery_Shelves___Soup_02:VCT___Grocery___Can___Soup___366
+    2300024: BB___Retail___Grocery_Shelves___Soup_02:VCT___Grocery___Can___Soup___440
+    2300026: BB___Retail___Grocery_Shelves___Soup_02:VCT___Grocery___Can___Soup___576
+    2300028: BB___Retail___Meat_Counter_02:Jar___Cocktail03
+    2300030: BB___Retail___Meat_Counter_02:Spices___16_pivot
+    2300032: BB___Retail___Pop_Boxes1:Pop_Box_420
+    2300034: BB___Retail___Pop_Boxes1:Pop_Box_92
+    2300036: BB___Retail___Printer_Paper_Display1:Paper_Box___182
+    2300038: BB___Retail___Printer_Paper_Display1:Paper_Box___236
+    2300040: Billboard1
+    2300042: Billboard2
+    2300044: Cart1 1
+    2300046: Cart1 2
+    2300048: Cart1 3
+    2300050: Cart1 4
+    2300052: Cart1 5
+    2300054: Cart14
+    2300056: Cart14 1
+    2300058: Cart14 2
+    2300060: Cart15
+    2300062: Cart15 1
+    2300064: Cart15 2
+    2300066: Cart16
+    2300068: Cart16 1
+    2300070: Cart16 2
+    2300072: Cart17
+    2300074: Cart17 1
+    2300076: Cart17 2
+    2300078: Cart18
+    2300080: Cart18 1
+    2300082: Cart18 2
+    2300084: Cart19
+    2300086: Cart20
+    2300088: Cart21
+    2300090: Cart22
+    2300092: Cart23
+    2300094: Cart3
+    2300096: Cart3 1
+    2300098: Cart3 2
+    2300100: ceiling:polySurface13165
+    2300102: Cereal_Box_06_pivot
+    2300104: Cereal_Box_06_pivot1
+    2300106: ChipsBag___27
+    2300108: ChipsBag___28
+    2300110: ChipsBag___29
+    2300112: ChipsBag___29 1
+    2300114: Cookie_Box_00_pivot
+    2300116: Cookie_Box_00_pivot1
+    2300118: Cookie_Box_00_pivot2
+    2300120: Cookie_Box_00_pivot3
+    2300122: Cookie_Box_00_pivot4
+    2300124: Cookie_Box_02_pivot
+    2300126: Cookie_Box_04_pivot
+    2300128: Cookie_Box_04_pivot1
+    2300130: floor
+    2300132: Grocery____POS_Candy_01
+    2300134: Grocery____POS_Candy_01 1
+    2300136: Grocery____POS_Candy_02
+    2300138: Grocery____POS_Candy_02 1
+    2300140: Grocery____POS_Candy_03
+    2300142: Grocery____POS_Candy_03 1
+    2300144: Grocery____POS_Magazine_Rack_01
+    2300146: Grocery____POS_Magazine_Rack_02
+    2300148: Grocery____POS_Magazines
+    2300150: Grocery____POS_Magazines 1
+    2300152: GroceryFinal4_0006:polySurface15973
+    2300154: GroceryFinal4_0006:polySurface15974
+    2300156: GroceryFinal4_0006:polySurface15976
+    2300158: GroceryFinal4_0006:polySurface15977
+    2300160: GroceryFinal4_0006:polySurface15978
+    2300162: GroceryFinal4_0006:polySurface15983
+    2300164: GroceryFinal4_0006:polySurface15984
+    2300166: GroceryFinal4_0006:polySurface15986
+    2300168: GroceryFinal4_0006:polySurface15987
+    2300170: GroceryFinal4_0006:polySurface15989
+    2300172: GroceryFinal4_0006:polySurface15990
+    2300174: GroceryFinal4_0006:polySurface15995
+    2300176: GroceryFinal4_0006:polySurface16012
+    2300178: GroceryFinal4_0006:polySurface16013
+    2300180: GroceryFinal4_0006:polySurface16014
+    2300182: GroceryFinal4_0006:polySurface16016
+    2300184: GroceryFinal4_0006:polySurface16017
+    2300186: GroceryFinal4_0006:polySurface16019
+    2300188: GroceryFinal4_0006:polySurface16020
+    2300190: GroceryFinal4_0006:polySurface16022
+    2300192: GroceryFinal4_0006:polySurface16023
+    2300194: GroceryFinal4_0006:polySurface16025
+    2300196: GroceryFinal4_0006:polySurface16026
+    2300198: GroceryFinal4_0006:polySurface16028
+    2300200: GroceryFinal4_0006:polySurface16029
+    2300202: GroceryFinal4_0006:polySurface16048
+    2300204: GroceryFinal4_0006:polySurface16049
+    2300206: GroceryFinal4_0006:polySurface16072
+    2300208: GroceryFinal4_0006:polySurface16073
+    2300210: GroceryFinal4_0006:polySurface16081
+    2300212: GroceryFinal4_0006:polySurface16082
+    2300214: pCube1
+    2300216: pCube1 1
+    2300218: pCube2
+    2300220: pCube2 1
+    2300222: pCube5
+    2300224: pCube5 1
+    2300226: pCube6
+    2300228: pCylinder1
+    2300230: pCylinder2
+    2300232: pCylinder3
+    2300234: pCylinder3 1
+    2300236: pCylinder4
+    2300238: pCylinder5
+    2300240: pCylinder8
+    2300242: pCylinder9
+    2300244: polySurface13426
+    2300246: polySurface13427
+    2300248: polySurface14516
+    2300250: polySurface14517
+    2300252: polySurface14518
+    2300254: polySurface16111
+    2300256: polySurface16112
+    2300258: polySurface16346
+    2300260: polySurface16348
+    2300262: polySurface16349
+    2300264: polySurface16349 1
+    2300266: polySurface16350
+    2300268: polySurface16350 1
+    2300270: polySurface16351
+    2300272: polySurface16351 1
+    2300274: polySurface16352
+    2300276: polySurface16352 1
+    2300278: polySurface16353
+    2300280: polySurface16353 1
+    2300282: polySurface16354
+    2300284: polySurface16354 1
+    2300286: polySurface16355
+    2300288: polySurface16356
+    2300290: polySurface16357
+    2300292: polySurface16357 1
+    2300294: polySurface16358
+    2300296: polySurface16358 1
+    2300298: polySurface16359
+    2300300: polySurface16359 1
+    2300302: polySurface16360
+    2300304: polySurface16360 1
+    2300306: polySurface16363
+    2300308: polySurface16363 1
+    2300310: polySurface16364
+    2300312: polySurface16364 1
+    2300314: polySurface16365
+    2300316: polySurface16365 1
+    2300318: polySurface16366
+    2300320: polySurface16366 1
+    2300322: polySurface16367
+    2300324: polySurface16367 1
+    2300326: polySurface16368
+    2300328: polySurface16368 1
+    2300330: polySurface16369
+    2300332: polySurface16369 1
+    2300334: polySurface16370
+    2300336: polySurface16370 1
+    2300338: polySurface16371
+    2300340: polySurface16371 1
+    2300342: polySurface16372
+    2300344: polySurface16372 1
+    2300346: polySurface16373
+    2300348: polySurface16373 1
+    2300350: polySurface16374
+    2300352: polySurface16374 1
+    2300354: polySurface16375
+    2300356: polySurface16375 1
+    2300358: polySurface16376
+    2300360: polySurface16376 1
+    2300362: polySurface16377
+    2300364: polySurface16377 1
+    2300366: polySurface16378
+    2300368: polySurface16378 1
+    2300370: polySurface16379
+    2300372: polySurface16379 1
+    2300374: polySurface16380
+    2300376: polySurface16380 1
+    2300378: polySurface16381
+    2300380: polySurface16381 1
+    2300382: polySurface16382
+    2300384: polySurface16382 1
+    2300386: polySurface16383
+    2300388: polySurface16383 1
+    2300390: polySurface16384
+    2300392: polySurface16384 1
+    2300394: polySurface16385
+    2300396: polySurface16385 1
+    2300398: polySurface16386
+    2300400: polySurface16386 1
+    2300402: polySurface16387
+    2300404: polySurface16387 1
+    2300406: polySurface16388
+    2300408: polySurface16388 1
+    2300410: polySurface16389
+    2300412: polySurface16389 1
+    2300414: polySurface16390
+    2300416: polySurface16390 1
+    2300418: polySurface16391
+    2300420: polySurface16391 1
+    2300422: polySurface16392
+    2300424: polySurface16392 1
+    2300426: polySurface16393
+    2300428: polySurface16393 1
+    2300430: polySurface16396
+    2300432: polySurface16396 1
+    2300434: polySurface16397
+    2300436: polySurface16397 1
+    2300438: polySurface16398
+    2300440: polySurface16398 1
+    2300442: polySurface16401
+    2300444: polySurface16402
+    2300446: polySurface16404
+    2300448: polySurface16408
+    2300450: polySurface16409
+    2300452: polySurface16410
+    2300454: polySurface16411
+    2300456: polySurface16412
+    2300458: polySurface16413
+    2300460: polySurface16414
+    2300462: polySurface16415
+    2300464: polySurface16415 1
+    2300466: polySurface16416
+    2300468: polySurface16416 1
+    2300470: Pop_Box_420
+    2300472: Pop_Box_421
+    2300474: Pop_Box_421 1
+    2300476: Pop_Box_422
+    2300478: Pop_Box_422 1
+    2300480: Pop_Box_424
+    2300482: Pop_Box_425
+    2300484: Pop_Box_426
+    2300486: Pop_Box_428
+    2300488: Pop_Box_92
+    2300490: Pop_Box_92 1
+    2300492: pPlane1
+    2300494: Pringles_Tube_02
+    2300496: pSphere1
+    2300498: pTorus1
+    2300500: pTorus2
+    2300502: VCT___Grocery___Box___Soup___03
+    2300504: Vending_Machine_1
+    2300506: Vending_Machine_2
+    2300508: yellowTrashBin:polySurface5
+    3300000: BB___Retail___ATM1:Store___ATM_pivot
+    3300002: BB___Retail___Convenience_Shelves2:Cereal_Box_06_pivot
+    3300004: BB___Retail___Convenience_Shelves2:Cookie_Box_00_pivot
+    3300006: BB___Retail___Convenience_Shelves2:Cookie_Box_02_pivot
+    3300008: BB___Retail___Convenience_Shelves2:Cookie_Box_04_pivot
+    3300010: BB___Retail___Convenience_Shelves3:Cereal_Box_42_pivot
+    3300012: BB___Retail___Convenience_Shelves3:Pringles_Tube_02
+    3300014: BB___Retail___Convenience_Shelves3:Pringles_Tube_09
+    3300016: BB___Retail___Grocery_Shelves___Chips_02:ChipsBag___27
+    3300018: BB___Retail___Grocery_Shelves___Chips_02:ChipsBag___29
+    3300020: BB___Retail___Grocery_Shelves___Soup_02:VCT___Grocery___Box___Soup___03
+    3300022: BB___Retail___Grocery_Shelves___Soup_02:VCT___Grocery___Can___Soup___366
+    3300024: BB___Retail___Grocery_Shelves___Soup_02:VCT___Grocery___Can___Soup___440
+    3300026: BB___Retail___Grocery_Shelves___Soup_02:VCT___Grocery___Can___Soup___576
+    3300028: BB___Retail___Meat_Counter_02:Jar___Cocktail03
+    3300030: BB___Retail___Meat_Counter_02:Spices___16_pivot
+    3300032: BB___Retail___Pop_Boxes1:Pop_Box_420
+    3300034: BB___Retail___Pop_Boxes1:Pop_Box_92
+    3300036: BB___Retail___Printer_Paper_Display1:Paper_Box___182
+    3300038: BB___Retail___Printer_Paper_Display1:Paper_Box___236
+    3300040: Billboard1
+    3300042: Billboard2
+    3300044: Cart1 1
+    3300046: Cart1 2
+    3300048: Cart1 3
+    3300050: Cart1 4
+    3300052: Cart1 5
+    3300054: Cart14
+    3300056: Cart14 1
+    3300058: Cart14 2
+    3300060: Cart15
+    3300062: Cart15 1
+    3300064: Cart15 2
+    3300066: Cart16
+    3300068: Cart16 1
+    3300070: Cart16 2
+    3300072: Cart17
+    3300074: Cart17 1
+    3300076: Cart17 2
+    3300078: Cart18
+    3300080: Cart18 1
+    3300082: Cart18 2
+    3300084: Cart19
+    3300086: Cart20
+    3300088: Cart21
+    3300090: Cart22
+    3300092: Cart23
+    3300094: Cart3
+    3300096: Cart3 1
+    3300098: Cart3 2
+    3300100: ceiling:polySurface13165
+    3300102: Cereal_Box_06_pivot
+    3300104: Cereal_Box_06_pivot1
+    3300106: ChipsBag___27
+    3300108: ChipsBag___28
+    3300110: ChipsBag___29
+    3300112: ChipsBag___29 1
+    3300114: Cookie_Box_00_pivot
+    3300116: Cookie_Box_00_pivot1
+    3300118: Cookie_Box_00_pivot2
+    3300120: Cookie_Box_00_pivot3
+    3300122: Cookie_Box_00_pivot4
+    3300124: Cookie_Box_02_pivot
+    3300126: Cookie_Box_04_pivot
+    3300128: Cookie_Box_04_pivot1
+    3300130: floor
+    3300132: Grocery____POS_Candy_01
+    3300134: Grocery____POS_Candy_01 1
+    3300136: Grocery____POS_Candy_02
+    3300138: Grocery____POS_Candy_02 1
+    3300140: Grocery____POS_Candy_03
+    3300142: Grocery____POS_Candy_03 1
+    3300144: Grocery____POS_Magazine_Rack_01
+    3300146: Grocery____POS_Magazine_Rack_02
+    3300148: Grocery____POS_Magazines
+    3300150: Grocery____POS_Magazines 1
+    3300152: GroceryFinal4_0006:polySurface15973
+    3300154: GroceryFinal4_0006:polySurface15974
+    3300156: GroceryFinal4_0006:polySurface15976
+    3300158: GroceryFinal4_0006:polySurface15977
+    3300160: GroceryFinal4_0006:polySurface15978
+    3300162: GroceryFinal4_0006:polySurface15983
+    3300164: GroceryFinal4_0006:polySurface15984
+    3300166: GroceryFinal4_0006:polySurface15986
+    3300168: GroceryFinal4_0006:polySurface15987
+    3300170: GroceryFinal4_0006:polySurface15989
+    3300172: GroceryFinal4_0006:polySurface15990
+    3300174: GroceryFinal4_0006:polySurface15995
+    3300176: GroceryFinal4_0006:polySurface16012
+    3300178: GroceryFinal4_0006:polySurface16013
+    3300180: GroceryFinal4_0006:polySurface16014
+    3300182: GroceryFinal4_0006:polySurface16016
+    3300184: GroceryFinal4_0006:polySurface16017
+    3300186: GroceryFinal4_0006:polySurface16019
+    3300188: GroceryFinal4_0006:polySurface16020
+    3300190: GroceryFinal4_0006:polySurface16022
+    3300192: GroceryFinal4_0006:polySurface16023
+    3300194: GroceryFinal4_0006:polySurface16025
+    3300196: GroceryFinal4_0006:polySurface16026
+    3300198: GroceryFinal4_0006:polySurface16028
+    3300200: GroceryFinal4_0006:polySurface16029
+    3300202: GroceryFinal4_0006:polySurface16048
+    3300204: GroceryFinal4_0006:polySurface16049
+    3300206: GroceryFinal4_0006:polySurface16072
+    3300208: GroceryFinal4_0006:polySurface16073
+    3300210: GroceryFinal4_0006:polySurface16081
+    3300212: GroceryFinal4_0006:polySurface16082
+    3300214: pCube1
+    3300216: pCube1 1
+    3300218: pCube2
+    3300220: pCube2 1
+    3300222: pCube5
+    3300224: pCube5 1
+    3300226: pCube6
+    3300228: pCylinder1
+    3300230: pCylinder2
+    3300232: pCylinder3
+    3300234: pCylinder3 1
+    3300236: pCylinder4
+    3300238: pCylinder5
+    3300240: pCylinder8
+    3300242: pCylinder9
+    3300244: polySurface13426
+    3300246: polySurface13427
+    3300248: polySurface14516
+    3300250: polySurface14517
+    3300252: polySurface14518
+    3300254: polySurface16111
+    3300256: polySurface16112
+    3300258: polySurface16346
+    3300260: polySurface16348
+    3300262: polySurface16349
+    3300264: polySurface16349 1
+    3300266: polySurface16350
+    3300268: polySurface16350 1
+    3300270: polySurface16351
+    3300272: polySurface16351 1
+    3300274: polySurface16352
+    3300276: polySurface16352 1
+    3300278: polySurface16353
+    3300280: polySurface16353 1
+    3300282: polySurface16354
+    3300284: polySurface16354 1
+    3300286: polySurface16355
+    3300288: polySurface16356
+    3300290: polySurface16357
+    3300292: polySurface16357 1
+    3300294: polySurface16358
+    3300296: polySurface16358 1
+    3300298: polySurface16359
+    3300300: polySurface16359 1
+    3300302: polySurface16360
+    3300304: polySurface16360 1
+    3300306: polySurface16363
+    3300308: polySurface16363 1
+    3300310: polySurface16364
+    3300312: polySurface16364 1
+    3300314: polySurface16365
+    3300316: polySurface16365 1
+    3300318: polySurface16366
+    3300320: polySurface16366 1
+    3300322: polySurface16367
+    3300324: polySurface16367 1
+    3300326: polySurface16368
+    3300328: polySurface16368 1
+    3300330: polySurface16369
+    3300332: polySurface16369 1
+    3300334: polySurface16370
+    3300336: polySurface16370 1
+    3300338: polySurface16371
+    3300340: polySurface16371 1
+    3300342: polySurface16372
+    3300344: polySurface16372 1
+    3300346: polySurface16373
+    3300348: polySurface16373 1
+    3300350: polySurface16374
+    3300352: polySurface16374 1
+    3300354: polySurface16375
+    3300356: polySurface16375 1
+    3300358: polySurface16376
+    3300360: polySurface16376 1
+    3300362: polySurface16377
+    3300364: polySurface16377 1
+    3300366: polySurface16378
+    3300368: polySurface16378 1
+    3300370: polySurface16379
+    3300372: polySurface16379 1
+    3300374: polySurface16380
+    3300376: polySurface16380 1
+    3300378: polySurface16381
+    3300380: polySurface16381 1
+    3300382: polySurface16382
+    3300384: polySurface16382 1
+    3300386: polySurface16383
+    3300388: polySurface16383 1
+    3300390: polySurface16384
+    3300392: polySurface16384 1
+    3300394: polySurface16385
+    3300396: polySurface16385 1
+    3300398: polySurface16386
+    3300400: polySurface16386 1
+    3300402: polySurface16387
+    3300404: polySurface16387 1
+    3300406: polySurface16388
+    3300408: polySurface16388 1
+    3300410: polySurface16389
+    3300412: polySurface16389 1
+    3300414: polySurface16390
+    3300416: polySurface16390 1
+    3300418: polySurface16391
+    3300420: polySurface16391 1
+    3300422: polySurface16392
+    3300424: polySurface16392 1
+    3300426: polySurface16393
+    3300428: polySurface16393 1
+    3300430: polySurface16396
+    3300432: polySurface16396 1
+    3300434: polySurface16397
+    3300436: polySurface16397 1
+    3300438: polySurface16398
+    3300440: polySurface16398 1
+    3300442: polySurface16401
+    3300444: polySurface16402
+    3300446: polySurface16404
+    3300448: polySurface16408
+    3300450: polySurface16409
+    3300452: polySurface16410
+    3300454: polySurface16411
+    3300456: polySurface16412
+    3300458: polySurface16413
+    3300460: polySurface16414
+    3300462: polySurface16415
+    3300464: polySurface16415 1
+    3300466: polySurface16416
+    3300468: polySurface16416 1
+    3300470: Pop_Box_420
+    3300472: Pop_Box_421
+    3300474: Pop_Box_421 1
+    3300476: Pop_Box_422
+    3300478: Pop_Box_422 1
+    3300480: Pop_Box_424
+    3300482: Pop_Box_425
+    3300484: Pop_Box_426
+    3300486: Pop_Box_428
+    3300488: Pop_Box_92
+    3300490: Pop_Box_92 1
+    3300492: pPlane1
+    3300494: Pringles_Tube_02
+    3300496: pSphere1
+    3300498: pTorus1
+    3300500: pTorus2
+    3300502: VCT___Grocery___Box___Soup___03
+    3300504: Vending_Machine_1
+    3300506: Vending_Machine_2
+    3300508: yellowTrashBin:polySurface5
+    4300000: floor
+    4300002: ceiling:polySurface13165
+    4300004: polySurface13426
+    4300006: polySurface13427
+    4300008: polySurface16111
+    4300010: polySurface16112
+    4300012: polySurface16349
+    4300014: polySurface16350
+    4300016: polySurface16351
+    4300018: polySurface16352
+    4300020: polySurface16353
+    4300022: polySurface16359
+    4300024: polySurface16360
+    4300026: polySurface16363
+    4300028: polySurface16364
+    4300030: polySurface16365
+    4300032: polySurface16371
+    4300034: polySurface16372
+    4300036: polySurface16373
+    4300038: polySurface16374
+    4300040: polySurface16375
+    4300042: polySurface16376
+    4300044: polySurface16377
+    4300046: polySurface16378
+    4300048: polySurface16379
+    4300050: polySurface16382
+    4300052: polySurface16383
+    4300054: polySurface16384
+    4300056: polySurface16385
+    4300058: polySurface16386
+    4300060: polySurface16387
+    4300062: polySurface16388
+    4300064: polySurface16389
+    4300066: polySurface16390
+    4300068: polySurface16391
+    4300070: polySurface16392
+    4300072: polySurface16393
+    4300074: polySurface16396
+    4300076: polySurface16397
+    4300078: polySurface16398
+    4300080: polySurface16404
+    4300082: polySurface16358
+    4300084: polySurface16354
+    4300086: polySurface16357
+    4300088: polySurface16380
+    4300090: polySurface16381
+    4300092: polySurface16367
+    4300094: polySurface16366
+    4300096: polySurface16369
+    4300098: polySurface16368
+    4300100: polySurface16370
+    4300102: Grocery____POS_Candy_03
+    4300104: Grocery____POS_Candy_01
+    4300106: Grocery____POS_Candy_02
+    4300108: Grocery____POS_Magazines
+    4300110: polySurface16415
+    4300112: polySurface16416
+    4300114: pCylinder3
+    4300116: polySurface16349
+    4300118: polySurface16350
+    4300120: polySurface16351
+    4300122: polySurface16352
+    4300124: polySurface16353
+    4300126: polySurface16359
+    4300128: polySurface16360
+    4300130: polySurface16363
+    4300132: polySurface16364
+    4300134: polySurface16365
+    4300136: polySurface16366
+    4300138: polySurface16367
+    4300140: polySurface16368
+    4300142: polySurface16369
+    4300144: polySurface16370
+    4300146: polySurface16371
+    4300148: polySurface16372
+    4300150: polySurface16373
+    4300152: polySurface16374
+    4300154: polySurface16375
+    4300156: polySurface16376
+    4300158: polySurface16377
+    4300160: polySurface16378
+    4300162: polySurface16379
+    4300164: polySurface16382
+    4300166: polySurface16383
+    4300168: polySurface16384
+    4300170: polySurface16385
+    4300172: polySurface16386
+    4300174: polySurface16387
+    4300176: polySurface16388
+    4300178: polySurface16389
+    4300180: polySurface16390
+    4300182: polySurface16391
+    4300184: polySurface16392
+    4300186: polySurface16393
+    4300188: polySurface16396
+    4300190: polySurface16397
+    4300192: polySurface16398
+    4300194: polySurface16401
+    4300196: polySurface16402
+    4300198: polySurface16354
+    4300200: polySurface16358
+    4300202: polySurface16357
+    4300204: polySurface16355
+    4300206: polySurface16356
+    4300208: polySurface16380
+    4300210: polySurface16381
+    4300212: polySurface16415
+    4300214: polySurface16416
+    4300216: pCylinder3
+    4300218: Grocery____POS_Candy_03
+    4300220: Grocery____POS_Candy_01
+    4300222: Grocery____POS_Candy_02
+    4300224: Grocery____POS_Magazines
+    4300226: polySurface16408
+    4300228: polySurface16409
+    4300230: polySurface16410
+    4300232: polySurface16411
+    4300234: polySurface16412
+    4300236: polySurface16413
+    4300238: polySurface16414
+    4300240: Grocery____POS_Magazine_Rack_01
+    4300242: Grocery____POS_Magazine_Rack_02
+    4300244: yellowTrashBin:polySurface5
+    4300246: polySurface16346
+    4300248: polySurface16348
+    4300250: pCylinder1
+    4300252: pCylinder2
+    4300254: GroceryFinal4_0006:polySurface16073
+    4300256: GroceryFinal4_0006:polySurface16072
+    4300258: GroceryFinal4_0006:polySurface16029
+    4300260: GroceryFinal4_0006:polySurface16028
+    4300262: GroceryFinal4_0006:polySurface16026
+    4300264: GroceryFinal4_0006:polySurface16025
+    4300266: GroceryFinal4_0006:polySurface16014
+    4300268: GroceryFinal4_0006:polySurface16013
+    4300270: GroceryFinal4_0006:polySurface15995
+    4300272: GroceryFinal4_0006:polySurface16082
+    4300274: GroceryFinal4_0006:polySurface16081
+    4300276: GroceryFinal4_0006:polySurface16023
+    4300278: GroceryFinal4_0006:polySurface16022
+    4300280: GroceryFinal4_0006:polySurface16020
+    4300282: GroceryFinal4_0006:polySurface16019
+    4300284: GroceryFinal4_0006:polySurface16017
+    4300286: GroceryFinal4_0006:polySurface16016
+    4300288: GroceryFinal4_0006:polySurface16012
+    4300290: GroceryFinal4_0006:polySurface15973
+    4300292: GroceryFinal4_0006:polySurface15974
+    4300294: GroceryFinal4_0006:polySurface15976
+    4300296: GroceryFinal4_0006:polySurface15977
+    4300298: GroceryFinal4_0006:polySurface15978
+    4300300: GroceryFinal4_0006:polySurface15983
+    4300302: GroceryFinal4_0006:polySurface15984
+    4300304: GroceryFinal4_0006:polySurface15986
+    4300306: GroceryFinal4_0006:polySurface15987
+    4300308: GroceryFinal4_0006:polySurface15989
+    4300310: GroceryFinal4_0006:polySurface15990
+    4300312: GroceryFinal4_0006:polySurface16048
+    4300314: GroceryFinal4_0006:polySurface16049
+    4300316: Cart3
+    4300318: Cart14
+    4300320: Cart15
+    4300322: Cart16
+    4300324: Cart17
+    4300326: Cart18
+    4300328: Cart22
+    4300330: Cart3
+    4300332: Cart14
+    4300334: Cart15
+    4300336: Cart16
+    4300338: Cart17
+    4300340: Cart18
+    4300342: Cart19
+    4300344: Cart20
+    4300346: Cart21
+    4300348: Cart3
+    4300350: Cart14
+    4300352: Cart15
+    4300354: Cart16
+    4300356: Cart17
+    4300358: Cart18
+    4300360: Cart23
+    4300362: polySurface14516
+    4300364: polySurface14517
+    4300366: polySurface14518
+    4300368: BB___Retail___ATM1:Store___ATM_pivot
+    4300370: Cart1
+    4300372: BB___Retail___Convenience_Shelves2:Cookie_Box_04_pivot
+    4300374: BB___Retail___Convenience_Shelves2:Cookie_Box_00_pivot
+    4300376: BB___Retail___Convenience_Shelves2:Cookie_Box_02_pivot
+    4300378: BB___Retail___Convenience_Shelves2:Cereal_Box_06_pivot
+    4300380: BB___Retail___Grocery_Shelves___Chips_02:ChipsBag___29
+    4300382: BB___Retail___Grocery_Shelves___Chips_02:ChipsBag___27
+    4300384: BB___Retail___Pop_Boxes1:Pop_Box_420
+    4300386: BB___Retail___Pop_Boxes1:Pop_Box_92
+    4300388: Pop_Box_92
+    4300390: Pop_Box_421
+    4300392: Pop_Box_420
+    4300394: Pop_Box_422
+    4300396: pCube2
+    4300398: pCube1
+    4300400: pCube5
+    4300402: pCube2
+    4300404: pCube1
+    4300406: pCube5
+    4300408: Billboard1
+    4300410: Billboard2
+    4300412: Vending_Machine_1
+    4300414: Vending_Machine_2
+    4300416: Cart1
+    4300418: Cookie_Box_04_pivot
+    4300420: Cookie_Box_00_pivot
+    4300422: Cereal_Box_06_pivot
+    4300424: Cookie_Box_04_pivot1
+    4300426: Cookie_Box_00_pivot1
+    4300428: Cereal_Box_06_pivot1
+    4300430: Cookie_Box_00_pivot2
+    4300432: Cookie_Box_00_pivot3
+    4300434: Cookie_Box_02_pivot
+    4300436: Cookie_Box_00_pivot4
+    4300438: Cart1
+    4300440: Cart1
+    4300442: ChipsBag___27
+    4300444: Pop_Box_92
+    4300446: Pop_Box_421
+    4300448: Pop_Box_422
+    4300450: Pop_Box_424
+    4300452: Pop_Box_425
+    4300454: Pop_Box_426
+    4300456: ChipsBag___28
+    4300458: ChipsBag___29
+    4300460: Pop_Box_428
+    4300462: Cart1
+    4300464: BB___Retail___Grocery_Shelves___Soup_02:VCT___Grocery___Box___Soup___03
+    4300466: BB___Retail___Grocery_Shelves___Soup_02:VCT___Grocery___Can___Soup___366
+    4300468: BB___Retail___Grocery_Shelves___Soup_02:VCT___Grocery___Can___Soup___440
+    4300470: BB___Retail___Grocery_Shelves___Soup_02:VCT___Grocery___Can___Soup___576
+    4300472: VCT___Grocery___Box___Soup___03
+    4300474: BB___Retail___Convenience_Shelves3:Pringles_Tube_02
+    4300476: BB___Retail___Convenience_Shelves3:Cereal_Box_42_pivot
+    4300478: BB___Retail___Convenience_Shelves3:Pringles_Tube_09
+    4300480: Pringles_Tube_02
+    4300482: BB___Retail___Meat_Counter_02:Jar___Cocktail03
+    4300484: BB___Retail___Meat_Counter_02:Spices___16_pivot
+    4300486: BB___Retail___Printer_Paper_Display1:Paper_Box___182
+    4300488: BB___Retail___Printer_Paper_Display1:Paper_Box___236
+    4300490: pCylinder4
+    4300492: pPlane1
+    4300494: pSphere1
+    4300496: pTorus1
+    4300498: pCylinder5
+    4300500: pCube6
+    4300502: ChipsBag___29
+    4300504: pCylinder8
+    4300506: pCylinder9
+    4300508: pTorus2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 

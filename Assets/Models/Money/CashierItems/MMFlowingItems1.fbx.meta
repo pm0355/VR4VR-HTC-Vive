@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 7bb083b30781f2844b343fcb7d08a9df
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Item11
+    100002: item12
+    100004: Item13
+    100006: Item14
+    100008: Item15
+    100010: Item16
+    100012: ItemGroup1
+    100014: //RootNode
+    400000: Item11
+    400002: item12
+    400004: Item13
+    400006: Item14
+    400008: Item15
+    400010: Item16
+    400012: ItemGroup1
+    400014: //RootNode
+    2300000: Item11
+    2300002: item12
+    2300004: Item13
+    2300006: Item14
+    2300008: Item15
+    2300010: Item16
+    3300000: Item11
+    3300002: item12
+    3300004: Item13
+    3300006: Item14
+    3300008: Item15
+    3300010: Item16
+    4300000: Item11
+    4300002: Item13
+    4300004: Item14
+    4300006: Item15
+    4300008: Item16
+    4300010: item12
+    7400000: Take 001
+    7400002: Take 002
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 1439
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ItemGroup1
+        weight: 1
+      - path: ItemGroup1/Item11
+        weight: 1
+      - path: ItemGroup1/item12
+        weight: 1
+      - path: ItemGroup1/Item13
+        weight: 1
+      - path: ItemGroup1/Item14
+        weight: 1
+      - path: ItemGroup1/Item15
+        weight: 1
+      - path: ItemGroup1/Item16
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Take 002
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 1439
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: .583333313
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ItemGroup1
+        weight: 1
+      - path: ItemGroup1/Item11
+        weight: 1
+      - path: ItemGroup1/item12
+        weight: 1
+      - path: ItemGroup1/Item13
+        weight: 1
+      - path: ItemGroup1/Item14
+        weight: 1
+      - path: ItemGroup1/Item15
+        weight: 1
+      - path: ItemGroup1/Item16
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,736 @@
+fileFormatVersion: 2
+guid: 95e21991dba10fd44a0040b0db728865
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Cashier1 1
+    100002: Cashier1_Unity:BrowInnerL
+    100004: Cashier1_Unity:BrowInnerR
+    100006: Cashier1_Unity:BrowOuterL
+    100008: Cashier1_Unity:BrowOuterR
+    100010: Cashier1_Unity:CheekL
+    100012: Cashier1_Unity:CheekR
+    100014: Cashier1_Unity:H_DDS_LowRes
+    100016: Cashier1_Unity:Head
+    100018: Cashier1_Unity:HeadEnd
+    100020: Cashier1_Unity:Hips
+    100022: Cashier1_Unity:Jaw
+    100024: Cashier1_Unity:l_L_eye
+    100026: Cashier1_Unity:l_L_gland
+    100028: Cashier1_Unity:l_R_eye
+    100030: Cashier1_Unity:l_R_gland
+    100032: Cashier1_Unity:l_TeethDown
+    100034: Cashier1_Unity:l_TeethUp
+    100036: Cashier1_Unity:l_wig
+    100038: Cashier1_Unity:LeftArm
+    100040: Cashier1_Unity:LeftEye
+    100042: Cashier1_Unity:LeftFingerBase
+    100044: Cashier1_Unity:LeftFoot
+    100046: Cashier1_Unity:LeftForeArm
+    100048: Cashier1_Unity:LeftHand
+    100050: Cashier1_Unity:LeftHandIndex1
+    100052: Cashier1_Unity:LeftHandIndex2
+    100054: Cashier1_Unity:LeftHandIndex3
+    100056: Cashier1_Unity:LeftHandIndex4
+    100058: Cashier1_Unity:LeftHandMiddle1
+    100060: Cashier1_Unity:LeftHandMiddle2
+    100062: Cashier1_Unity:LeftHandMiddle3
+    100064: Cashier1_Unity:LeftHandMiddle4
+    100066: Cashier1_Unity:LeftHandPinky1
+    100068: Cashier1_Unity:LeftHandPinky2
+    100070: Cashier1_Unity:LeftHandPinky3
+    100072: Cashier1_Unity:LeftHandPinky4
+    100074: Cashier1_Unity:LeftHandRing1
+    100076: Cashier1_Unity:LeftHandRing2
+    100078: Cashier1_Unity:LeftHandRing3
+    100080: Cashier1_Unity:LeftHandRing4
+    100082: Cashier1_Unity:LeftHandThumb1
+    100084: Cashier1_Unity:LeftHandThumb2
+    100086: Cashier1_Unity:LeftHandThumb3
+    100088: Cashier1_Unity:LeftHandThumb4
+    100090: Cashier1_Unity:LeftLeg
+    100092: Cashier1_Unity:LeftShoulder
+    100094: Cashier1_Unity:LeftToeBase
+    100096: Cashier1_Unity:LeftToeEnd
+    100098: Cashier1_Unity:LeftUpLeg
+    100100: Cashier1_Unity:LipCornerL
+    100102: Cashier1_Unity:LipCornerR
+    100104: Cashier1_Unity:LipLowerL
+    100106: Cashier1_Unity:LipLowerR
+    100108: Cashier1_Unity:LipUpperL
+    100110: Cashier1_Unity:LipUpperR
+    100112: Cashier1_Unity:LowerLidL
+    100114: Cashier1_Unity:LowerLidR
+    100116: Cashier1_Unity:master
+    100118: Cashier1_Unity:Neck
+    100120: Cashier1_Unity:Nostrils
+    100122: Cashier1_Unity:Reference
+    100124: Cashier1_Unity:RightArm
+    100126: Cashier1_Unity:RightEye
+    100128: Cashier1_Unity:RightFingerBase
+    100130: Cashier1_Unity:RightFoot
+    100132: Cashier1_Unity:RightForeArm
+    100134: Cashier1_Unity:RightHand
+    100136: Cashier1_Unity:RightHandIndex1
+    100138: Cashier1_Unity:RightHandIndex2
+    100140: Cashier1_Unity:RightHandIndex3
+    100142: Cashier1_Unity:RightHandIndex4
+    100144: Cashier1_Unity:RightHandMiddle1
+    100146: Cashier1_Unity:RightHandMiddle2
+    100148: Cashier1_Unity:RightHandMiddle3
+    100150: Cashier1_Unity:RightHandMiddle4
+    100152: Cashier1_Unity:RightHandPinky1
+    100154: Cashier1_Unity:RightHandPinky2
+    100156: Cashier1_Unity:RightHandPinky3
+    100158: Cashier1_Unity:RightHandPinky4
+    100160: Cashier1_Unity:RightHandRing1
+    100162: Cashier1_Unity:RightHandRing2
+    100164: Cashier1_Unity:RightHandRing3
+    100166: Cashier1_Unity:RightHandRing4
+    100168: Cashier1_Unity:RightHandThumb1
+    100170: Cashier1_Unity:RightHandThumb2
+    100172: Cashier1_Unity:RightHandThumb3
+    100174: Cashier1_Unity:RightHandThumb4
+    100176: Cashier1_Unity:RightLeg
+    100178: Cashier1_Unity:RightShoulder
+    100180: Cashier1_Unity:RightToeBase
+    100182: Cashier1_Unity:RightToeEnd
+    100184: Cashier1_Unity:RightUpLeg
+    100186: Cashier1_Unity:Spine
+    100188: Cashier1_Unity:Spine1
+    100190: Cashier1_Unity:Spine2
+    100192: Cashier1_Unity:TongueF
+    100194: Cashier1_Unity:TongueR
+    100196: Cashier1_Unity:UpperLidL
+    100198: Cashier1_Unity:UpperLidR
+    100200: //RootNode
+    400000: Cashier1 1
+    400002: Cashier1_Unity:BrowInnerL
+    400004: Cashier1_Unity:BrowInnerR
+    400006: Cashier1_Unity:BrowOuterL
+    400008: Cashier1_Unity:BrowOuterR
+    400010: Cashier1_Unity:CheekL
+    400012: Cashier1_Unity:CheekR
+    400014: Cashier1_Unity:H_DDS_LowRes
+    400016: Cashier1_Unity:Head
+    400018: Cashier1_Unity:HeadEnd
+    400020: Cashier1_Unity:Hips
+    400022: Cashier1_Unity:Jaw
+    400024: Cashier1_Unity:l_L_eye
+    400026: Cashier1_Unity:l_L_gland
+    400028: Cashier1_Unity:l_R_eye
+    400030: Cashier1_Unity:l_R_gland
+    400032: Cashier1_Unity:l_TeethDown
+    400034: Cashier1_Unity:l_TeethUp
+    400036: Cashier1_Unity:l_wig
+    400038: Cashier1_Unity:LeftArm
+    400040: Cashier1_Unity:LeftEye
+    400042: Cashier1_Unity:LeftFingerBase
+    400044: Cashier1_Unity:LeftFoot
+    400046: Cashier1_Unity:LeftForeArm
+    400048: Cashier1_Unity:LeftHand
+    400050: Cashier1_Unity:LeftHandIndex1
+    400052: Cashier1_Unity:LeftHandIndex2
+    400054: Cashier1_Unity:LeftHandIndex3
+    400056: Cashier1_Unity:LeftHandIndex4
+    400058: Cashier1_Unity:LeftHandMiddle1
+    400060: Cashier1_Unity:LeftHandMiddle2
+    400062: Cashier1_Unity:LeftHandMiddle3
+    400064: Cashier1_Unity:LeftHandMiddle4
+    400066: Cashier1_Unity:LeftHandPinky1
+    400068: Cashier1_Unity:LeftHandPinky2
+    400070: Cashier1_Unity:LeftHandPinky3
+    400072: Cashier1_Unity:LeftHandPinky4
+    400074: Cashier1_Unity:LeftHandRing1
+    400076: Cashier1_Unity:LeftHandRing2
+    400078: Cashier1_Unity:LeftHandRing3
+    400080: Cashier1_Unity:LeftHandRing4
+    400082: Cashier1_Unity:LeftHandThumb1
+    400084: Cashier1_Unity:LeftHandThumb2
+    400086: Cashier1_Unity:LeftHandThumb3
+    400088: Cashier1_Unity:LeftHandThumb4
+    400090: Cashier1_Unity:LeftLeg
+    400092: Cashier1_Unity:LeftShoulder
+    400094: Cashier1_Unity:LeftToeBase
+    400096: Cashier1_Unity:LeftToeEnd
+    400098: Cashier1_Unity:LeftUpLeg
+    400100: Cashier1_Unity:LipCornerL
+    400102: Cashier1_Unity:LipCornerR
+    400104: Cashier1_Unity:LipLowerL
+    400106: Cashier1_Unity:LipLowerR
+    400108: Cashier1_Unity:LipUpperL
+    400110: Cashier1_Unity:LipUpperR
+    400112: Cashier1_Unity:LowerLidL
+    400114: Cashier1_Unity:LowerLidR
+    400116: Cashier1_Unity:master
+    400118: Cashier1_Unity:Neck
+    400120: Cashier1_Unity:Nostrils
+    400122: Cashier1_Unity:Reference
+    400124: Cashier1_Unity:RightArm
+    400126: Cashier1_Unity:RightEye
+    400128: Cashier1_Unity:RightFingerBase
+    400130: Cashier1_Unity:RightFoot
+    400132: Cashier1_Unity:RightForeArm
+    400134: Cashier1_Unity:RightHand
+    400136: Cashier1_Unity:RightHandIndex1
+    400138: Cashier1_Unity:RightHandIndex2
+    400140: Cashier1_Unity:RightHandIndex3
+    400142: Cashier1_Unity:RightHandIndex4
+    400144: Cashier1_Unity:RightHandMiddle1
+    400146: Cashier1_Unity:RightHandMiddle2
+    400148: Cashier1_Unity:RightHandMiddle3
+    400150: Cashier1_Unity:RightHandMiddle4
+    400152: Cashier1_Unity:RightHandPinky1
+    400154: Cashier1_Unity:RightHandPinky2
+    400156: Cashier1_Unity:RightHandPinky3
+    400158: Cashier1_Unity:RightHandPinky4
+    400160: Cashier1_Unity:RightHandRing1
+    400162: Cashier1_Unity:RightHandRing2
+    400164: Cashier1_Unity:RightHandRing3
+    400166: Cashier1_Unity:RightHandRing4
+    400168: Cashier1_Unity:RightHandThumb1
+    400170: Cashier1_Unity:RightHandThumb2
+    400172: Cashier1_Unity:RightHandThumb3
+    400174: Cashier1_Unity:RightHandThumb4
+    400176: Cashier1_Unity:RightLeg
+    400178: Cashier1_Unity:RightShoulder
+    400180: Cashier1_Unity:RightToeBase
+    400182: Cashier1_Unity:RightToeEnd
+    400184: Cashier1_Unity:RightUpLeg
+    400186: Cashier1_Unity:Spine
+    400188: Cashier1_Unity:Spine1
+    400190: Cashier1_Unity:Spine2
+    400192: Cashier1_Unity:TongueF
+    400194: Cashier1_Unity:TongueR
+    400196: Cashier1_Unity:UpperLidL
+    400198: Cashier1_Unity:UpperLidR
+    400200: //RootNode
+    4300000: Cashier1_Unity:l_TeethUp
+    4300002: Cashier1_Unity:l_L_gland
+    4300004: Cashier1_Unity:l_L_eye
+    4300006: Cashier1_Unity:l_R_gland
+    4300008: Cashier1_Unity:l_R_eye
+    4300010: Cashier1_Unity:l_wig
+    4300012: Cashier1_Unity:H_DDS_LowRes
+    4300014: Cashier1_Unity:l_TeethDown
+    7400000: Take 001
+    7400002: Take 002
+    9500000: //RootNode
+    13700000: Cashier1_Unity:H_DDS_LowRes
+    13700002: Cashier1_Unity:l_L_eye
+    13700004: Cashier1_Unity:l_L_gland
+    13700006: Cashier1_Unity:l_R_eye
+    13700008: Cashier1_Unity:l_R_gland
+    13700010: Cashier1_Unity:l_TeethDown
+    13700012: Cashier1_Unity:l_TeethUp
+    13700014: Cashier1_Unity:l_wig
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 239
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cashier1 1
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:H_DDS_LowRes
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:l_L_eye
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:l_L_gland
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:l_R_eye
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:l_R_gland
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:l_TeethDown
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:l_TeethUp
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:l_wig
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:LeftUpLeg
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:LeftUpLeg/Cashier1_Unity:LeftLeg
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:LeftUpLeg/Cashier1_Unity:LeftLeg/Cashier1_Unity:LeftFoot
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:LeftUpLeg/Cashier1_Unity:LeftLeg/Cashier1_Unity:LeftFoot/Cashier1_Unity:LeftToeBase
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:LeftUpLeg/Cashier1_Unity:LeftLeg/Cashier1_Unity:LeftFoot/Cashier1_Unity:LeftToeBase/Cashier1_Unity:LeftToeEnd
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:RightUpLeg
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:RightUpLeg/Cashier1_Unity:RightLeg
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:RightUpLeg/Cashier1_Unity:RightLeg/Cashier1_Unity:RightFoot
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:RightUpLeg/Cashier1_Unity:RightLeg/Cashier1_Unity:RightFoot/Cashier1_Unity:RightToeBase
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:RightUpLeg/Cashier1_Unity:RightLeg/Cashier1_Unity:RightFoot/Cashier1_Unity:RightToeBase/Cashier1_Unity:RightToeEnd
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:LeftShoulder
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:LeftShoulder/Cashier1_Unity:LeftArm
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:LeftShoulder/Cashier1_Unity:LeftArm/Cashier1_Unity:LeftForeArm
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:LeftShoulder/Cashier1_Unity:LeftArm/Cashier1_Unity:LeftForeArm/Cashier1_Unity:LeftHand
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:LeftShoulder/Cashier1_Unity:LeftArm/Cashier1_Unity:LeftForeArm/Cashier1_Unity:LeftHand/Cashier1_Unity:LeftFingerBase
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:LeftShoulder/Cashier1_Unity:LeftArm/Cashier1_Unity:LeftForeArm/Cashier1_Unity:LeftHand/Cashier1_Unity:LeftFingerBase/Cashier1_Unity:LeftHandIndex1
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:LeftShoulder/Cashier1_Unity:LeftArm/Cashier1_Unity:LeftForeArm/Cashier1_Unity:LeftHand/Cashier1_Unity:LeftFingerBase/Cashier1_Unity:LeftHandIndex1/Cashier1_Unity:LeftHandIndex2
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:LeftShoulder/Cashier1_Unity:LeftArm/Cashier1_Unity:LeftForeArm/Cashier1_Unity:LeftHand/Cashier1_Unity:LeftFingerBase/Cashier1_Unity:LeftHandIndex1/Cashier1_Unity:LeftHandIndex2/Cashier1_Unity:LeftHandIndex3
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:LeftShoulder/Cashier1_Unity:LeftArm/Cashier1_Unity:LeftForeArm/Cashier1_Unity:LeftHand/Cashier1_Unity:LeftFingerBase/Cashier1_Unity:LeftHandIndex1/Cashier1_Unity:LeftHandIndex2/Cashier1_Unity:LeftHandIndex3/Cashier1_Unity:LeftHandIndex4
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:LeftShoulder/Cashier1_Unity:LeftArm/Cashier1_Unity:LeftForeArm/Cashier1_Unity:LeftHand/Cashier1_Unity:LeftFingerBase/Cashier1_Unity:LeftHandMiddle1
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:LeftShoulder/Cashier1_Unity:LeftArm/Cashier1_Unity:LeftForeArm/Cashier1_Unity:LeftHand/Cashier1_Unity:LeftFingerBase/Cashier1_Unity:LeftHandMiddle1/Cashier1_Unity:LeftHandMiddle2
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:LeftShoulder/Cashier1_Unity:LeftArm/Cashier1_Unity:LeftForeArm/Cashier1_Unity:LeftHand/Cashier1_Unity:LeftFingerBase/Cashier1_Unity:LeftHandMiddle1/Cashier1_Unity:LeftHandMiddle2/Cashier1_Unity:LeftHandMiddle3
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:LeftShoulder/Cashier1_Unity:LeftArm/Cashier1_Unity:LeftForeArm/Cashier1_Unity:LeftHand/Cashier1_Unity:LeftFingerBase/Cashier1_Unity:LeftHandMiddle1/Cashier1_Unity:LeftHandMiddle2/Cashier1_Unity:LeftHandMiddle3/Cashier1_Unity:LeftHandMiddle4
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:LeftShoulder/Cashier1_Unity:LeftArm/Cashier1_Unity:LeftForeArm/Cashier1_Unity:LeftHand/Cashier1_Unity:LeftFingerBase/Cashier1_Unity:LeftHandPinky1
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:LeftShoulder/Cashier1_Unity:LeftArm/Cashier1_Unity:LeftForeArm/Cashier1_Unity:LeftHand/Cashier1_Unity:LeftFingerBase/Cashier1_Unity:LeftHandPinky1/Cashier1_Unity:LeftHandPinky2
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:LeftShoulder/Cashier1_Unity:LeftArm/Cashier1_Unity:LeftForeArm/Cashier1_Unity:LeftHand/Cashier1_Unity:LeftFingerBase/Cashier1_Unity:LeftHandPinky1/Cashier1_Unity:LeftHandPinky2/Cashier1_Unity:LeftHandPinky3
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:LeftShoulder/Cashier1_Unity:LeftArm/Cashier1_Unity:LeftForeArm/Cashier1_Unity:LeftHand/Cashier1_Unity:LeftFingerBase/Cashier1_Unity:LeftHandPinky1/Cashier1_Unity:LeftHandPinky2/Cashier1_Unity:LeftHandPinky3/Cashier1_Unity:LeftHandPinky4
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:LeftShoulder/Cashier1_Unity:LeftArm/Cashier1_Unity:LeftForeArm/Cashier1_Unity:LeftHand/Cashier1_Unity:LeftFingerBase/Cashier1_Unity:LeftHandRing1
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:LeftShoulder/Cashier1_Unity:LeftArm/Cashier1_Unity:LeftForeArm/Cashier1_Unity:LeftHand/Cashier1_Unity:LeftFingerBase/Cashier1_Unity:LeftHandRing1/Cashier1_Unity:LeftHandRing2
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:LeftShoulder/Cashier1_Unity:LeftArm/Cashier1_Unity:LeftForeArm/Cashier1_Unity:LeftHand/Cashier1_Unity:LeftFingerBase/Cashier1_Unity:LeftHandRing1/Cashier1_Unity:LeftHandRing2/Cashier1_Unity:LeftHandRing3
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:LeftShoulder/Cashier1_Unity:LeftArm/Cashier1_Unity:LeftForeArm/Cashier1_Unity:LeftHand/Cashier1_Unity:LeftFingerBase/Cashier1_Unity:LeftHandRing1/Cashier1_Unity:LeftHandRing2/Cashier1_Unity:LeftHandRing3/Cashier1_Unity:LeftHandRing4
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:LeftShoulder/Cashier1_Unity:LeftArm/Cashier1_Unity:LeftForeArm/Cashier1_Unity:LeftHand/Cashier1_Unity:LeftFingerBase/Cashier1_Unity:LeftHandThumb1
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:LeftShoulder/Cashier1_Unity:LeftArm/Cashier1_Unity:LeftForeArm/Cashier1_Unity:LeftHand/Cashier1_Unity:LeftFingerBase/Cashier1_Unity:LeftHandThumb1/Cashier1_Unity:LeftHandThumb2
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:LeftShoulder/Cashier1_Unity:LeftArm/Cashier1_Unity:LeftForeArm/Cashier1_Unity:LeftHand/Cashier1_Unity:LeftFingerBase/Cashier1_Unity:LeftHandThumb1/Cashier1_Unity:LeftHandThumb2/Cashier1_Unity:LeftHandThumb3
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:LeftShoulder/Cashier1_Unity:LeftArm/Cashier1_Unity:LeftForeArm/Cashier1_Unity:LeftHand/Cashier1_Unity:LeftFingerBase/Cashier1_Unity:LeftHandThumb1/Cashier1_Unity:LeftHandThumb2/Cashier1_Unity:LeftHandThumb3/Cashier1_Unity:LeftHandThumb4
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:Neck
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:Neck/Cashier1_Unity:Head
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:Neck/Cashier1_Unity:Head/Cashier1_Unity:BrowInnerL
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:Neck/Cashier1_Unity:Head/Cashier1_Unity:BrowInnerR
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:Neck/Cashier1_Unity:Head/Cashier1_Unity:BrowOuterL
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:Neck/Cashier1_Unity:Head/Cashier1_Unity:BrowOuterR
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:Neck/Cashier1_Unity:Head/Cashier1_Unity:CheekL
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:Neck/Cashier1_Unity:Head/Cashier1_Unity:CheekR
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:Neck/Cashier1_Unity:Head/Cashier1_Unity:HeadEnd
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:Neck/Cashier1_Unity:Head/Cashier1_Unity:Jaw
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:Neck/Cashier1_Unity:Head/Cashier1_Unity:Jaw/Cashier1_Unity:LipLowerL
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:Neck/Cashier1_Unity:Head/Cashier1_Unity:Jaw/Cashier1_Unity:LipLowerR
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:Neck/Cashier1_Unity:Head/Cashier1_Unity:Jaw/Cashier1_Unity:TongueR
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:Neck/Cashier1_Unity:Head/Cashier1_Unity:Jaw/Cashier1_Unity:TongueR/Cashier1_Unity:TongueF
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:Neck/Cashier1_Unity:Head/Cashier1_Unity:LeftEye
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:Neck/Cashier1_Unity:Head/Cashier1_Unity:LipCornerL
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:Neck/Cashier1_Unity:Head/Cashier1_Unity:LipCornerR
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:Neck/Cashier1_Unity:Head/Cashier1_Unity:LipUpperL
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:Neck/Cashier1_Unity:Head/Cashier1_Unity:LipUpperR
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:Neck/Cashier1_Unity:Head/Cashier1_Unity:LowerLidL
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:Neck/Cashier1_Unity:Head/Cashier1_Unity:LowerLidR
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:Neck/Cashier1_Unity:Head/Cashier1_Unity:Nostrils
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:Neck/Cashier1_Unity:Head/Cashier1_Unity:RightEye
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:Neck/Cashier1_Unity:Head/Cashier1_Unity:UpperLidL
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:Neck/Cashier1_Unity:Head/Cashier1_Unity:UpperLidR
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:RightShoulder
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:RightShoulder/Cashier1_Unity:RightArm
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:RightShoulder/Cashier1_Unity:RightArm/Cashier1_Unity:RightForeArm
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:RightShoulder/Cashier1_Unity:RightArm/Cashier1_Unity:RightForeArm/Cashier1_Unity:RightHand
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:RightShoulder/Cashier1_Unity:RightArm/Cashier1_Unity:RightForeArm/Cashier1_Unity:RightHand/Cashier1_Unity:RightFingerBase
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:RightShoulder/Cashier1_Unity:RightArm/Cashier1_Unity:RightForeArm/Cashier1_Unity:RightHand/Cashier1_Unity:RightFingerBase/Cashier1_Unity:RightHandIndex1
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:RightShoulder/Cashier1_Unity:RightArm/Cashier1_Unity:RightForeArm/Cashier1_Unity:RightHand/Cashier1_Unity:RightFingerBase/Cashier1_Unity:RightHandIndex1/Cashier1_Unity:RightHandIndex2
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:RightShoulder/Cashier1_Unity:RightArm/Cashier1_Unity:RightForeArm/Cashier1_Unity:RightHand/Cashier1_Unity:RightFingerBase/Cashier1_Unity:RightHandIndex1/Cashier1_Unity:RightHandIndex2/Cashier1_Unity:RightHandIndex3
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:RightShoulder/Cashier1_Unity:RightArm/Cashier1_Unity:RightForeArm/Cashier1_Unity:RightHand/Cashier1_Unity:RightFingerBase/Cashier1_Unity:RightHandIndex1/Cashier1_Unity:RightHandIndex2/Cashier1_Unity:RightHandIndex3/Cashier1_Unity:RightHandIndex4
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:RightShoulder/Cashier1_Unity:RightArm/Cashier1_Unity:RightForeArm/Cashier1_Unity:RightHand/Cashier1_Unity:RightFingerBase/Cashier1_Unity:RightHandMiddle1
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:RightShoulder/Cashier1_Unity:RightArm/Cashier1_Unity:RightForeArm/Cashier1_Unity:RightHand/Cashier1_Unity:RightFingerBase/Cashier1_Unity:RightHandMiddle1/Cashier1_Unity:RightHandMiddle2
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:RightShoulder/Cashier1_Unity:RightArm/Cashier1_Unity:RightForeArm/Cashier1_Unity:RightHand/Cashier1_Unity:RightFingerBase/Cashier1_Unity:RightHandMiddle1/Cashier1_Unity:RightHandMiddle2/Cashier1_Unity:RightHandMiddle3
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:RightShoulder/Cashier1_Unity:RightArm/Cashier1_Unity:RightForeArm/Cashier1_Unity:RightHand/Cashier1_Unity:RightFingerBase/Cashier1_Unity:RightHandMiddle1/Cashier1_Unity:RightHandMiddle2/Cashier1_Unity:RightHandMiddle3/Cashier1_Unity:RightHandMiddle4
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:RightShoulder/Cashier1_Unity:RightArm/Cashier1_Unity:RightForeArm/Cashier1_Unity:RightHand/Cashier1_Unity:RightFingerBase/Cashier1_Unity:RightHandPinky1
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:RightShoulder/Cashier1_Unity:RightArm/Cashier1_Unity:RightForeArm/Cashier1_Unity:RightHand/Cashier1_Unity:RightFingerBase/Cashier1_Unity:RightHandPinky1/Cashier1_Unity:RightHandPinky2
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:RightShoulder/Cashier1_Unity:RightArm/Cashier1_Unity:RightForeArm/Cashier1_Unity:RightHand/Cashier1_Unity:RightFingerBase/Cashier1_Unity:RightHandPinky1/Cashier1_Unity:RightHandPinky2/Cashier1_Unity:RightHandPinky3
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:RightShoulder/Cashier1_Unity:RightArm/Cashier1_Unity:RightForeArm/Cashier1_Unity:RightHand/Cashier1_Unity:RightFingerBase/Cashier1_Unity:RightHandPinky1/Cashier1_Unity:RightHandPinky2/Cashier1_Unity:RightHandPinky3/Cashier1_Unity:RightHandPinky4
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:RightShoulder/Cashier1_Unity:RightArm/Cashier1_Unity:RightForeArm/Cashier1_Unity:RightHand/Cashier1_Unity:RightFingerBase/Cashier1_Unity:RightHandRing1
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:RightShoulder/Cashier1_Unity:RightArm/Cashier1_Unity:RightForeArm/Cashier1_Unity:RightHand/Cashier1_Unity:RightFingerBase/Cashier1_Unity:RightHandRing1/Cashier1_Unity:RightHandRing2
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:RightShoulder/Cashier1_Unity:RightArm/Cashier1_Unity:RightForeArm/Cashier1_Unity:RightHand/Cashier1_Unity:RightFingerBase/Cashier1_Unity:RightHandRing1/Cashier1_Unity:RightHandRing2/Cashier1_Unity:RightHandRing3
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:RightShoulder/Cashier1_Unity:RightArm/Cashier1_Unity:RightForeArm/Cashier1_Unity:RightHand/Cashier1_Unity:RightFingerBase/Cashier1_Unity:RightHandRing1/Cashier1_Unity:RightHandRing2/Cashier1_Unity:RightHandRing3/Cashier1_Unity:RightHandRing4
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:RightShoulder/Cashier1_Unity:RightArm/Cashier1_Unity:RightForeArm/Cashier1_Unity:RightHand/Cashier1_Unity:RightFingerBase/Cashier1_Unity:RightHandThumb1
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:RightShoulder/Cashier1_Unity:RightArm/Cashier1_Unity:RightForeArm/Cashier1_Unity:RightHand/Cashier1_Unity:RightFingerBase/Cashier1_Unity:RightHandThumb1/Cashier1_Unity:RightHandThumb2
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:RightShoulder/Cashier1_Unity:RightArm/Cashier1_Unity:RightForeArm/Cashier1_Unity:RightHand/Cashier1_Unity:RightFingerBase/Cashier1_Unity:RightHandThumb1/Cashier1_Unity:RightHandThumb2/Cashier1_Unity:RightHandThumb3
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:RightShoulder/Cashier1_Unity:RightArm/Cashier1_Unity:RightForeArm/Cashier1_Unity:RightHand/Cashier1_Unity:RightFingerBase/Cashier1_Unity:RightHandThumb1/Cashier1_Unity:RightHandThumb2/Cashier1_Unity:RightHandThumb3/Cashier1_Unity:RightHandThumb4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Take 002
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 239
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: .5
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cashier1 1
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:H_DDS_LowRes
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:l_L_eye
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:l_L_gland
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:l_R_eye
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:l_R_gland
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:l_TeethDown
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:l_TeethUp
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:l_wig
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:LeftUpLeg
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:LeftUpLeg/Cashier1_Unity:LeftLeg
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:LeftUpLeg/Cashier1_Unity:LeftLeg/Cashier1_Unity:LeftFoot
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:LeftUpLeg/Cashier1_Unity:LeftLeg/Cashier1_Unity:LeftFoot/Cashier1_Unity:LeftToeBase
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:LeftUpLeg/Cashier1_Unity:LeftLeg/Cashier1_Unity:LeftFoot/Cashier1_Unity:LeftToeBase/Cashier1_Unity:LeftToeEnd
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:RightUpLeg
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:RightUpLeg/Cashier1_Unity:RightLeg
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:RightUpLeg/Cashier1_Unity:RightLeg/Cashier1_Unity:RightFoot
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:RightUpLeg/Cashier1_Unity:RightLeg/Cashier1_Unity:RightFoot/Cashier1_Unity:RightToeBase
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:RightUpLeg/Cashier1_Unity:RightLeg/Cashier1_Unity:RightFoot/Cashier1_Unity:RightToeBase/Cashier1_Unity:RightToeEnd
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:LeftShoulder
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:LeftShoulder/Cashier1_Unity:LeftArm
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:LeftShoulder/Cashier1_Unity:LeftArm/Cashier1_Unity:LeftForeArm
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:LeftShoulder/Cashier1_Unity:LeftArm/Cashier1_Unity:LeftForeArm/Cashier1_Unity:LeftHand
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:LeftShoulder/Cashier1_Unity:LeftArm/Cashier1_Unity:LeftForeArm/Cashier1_Unity:LeftHand/Cashier1_Unity:LeftFingerBase
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:LeftShoulder/Cashier1_Unity:LeftArm/Cashier1_Unity:LeftForeArm/Cashier1_Unity:LeftHand/Cashier1_Unity:LeftFingerBase/Cashier1_Unity:LeftHandIndex1
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:LeftShoulder/Cashier1_Unity:LeftArm/Cashier1_Unity:LeftForeArm/Cashier1_Unity:LeftHand/Cashier1_Unity:LeftFingerBase/Cashier1_Unity:LeftHandIndex1/Cashier1_Unity:LeftHandIndex2
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:LeftShoulder/Cashier1_Unity:LeftArm/Cashier1_Unity:LeftForeArm/Cashier1_Unity:LeftHand/Cashier1_Unity:LeftFingerBase/Cashier1_Unity:LeftHandIndex1/Cashier1_Unity:LeftHandIndex2/Cashier1_Unity:LeftHandIndex3
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:LeftShoulder/Cashier1_Unity:LeftArm/Cashier1_Unity:LeftForeArm/Cashier1_Unity:LeftHand/Cashier1_Unity:LeftFingerBase/Cashier1_Unity:LeftHandIndex1/Cashier1_Unity:LeftHandIndex2/Cashier1_Unity:LeftHandIndex3/Cashier1_Unity:LeftHandIndex4
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:LeftShoulder/Cashier1_Unity:LeftArm/Cashier1_Unity:LeftForeArm/Cashier1_Unity:LeftHand/Cashier1_Unity:LeftFingerBase/Cashier1_Unity:LeftHandMiddle1
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:LeftShoulder/Cashier1_Unity:LeftArm/Cashier1_Unity:LeftForeArm/Cashier1_Unity:LeftHand/Cashier1_Unity:LeftFingerBase/Cashier1_Unity:LeftHandMiddle1/Cashier1_Unity:LeftHandMiddle2
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:LeftShoulder/Cashier1_Unity:LeftArm/Cashier1_Unity:LeftForeArm/Cashier1_Unity:LeftHand/Cashier1_Unity:LeftFingerBase/Cashier1_Unity:LeftHandMiddle1/Cashier1_Unity:LeftHandMiddle2/Cashier1_Unity:LeftHandMiddle3
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:LeftShoulder/Cashier1_Unity:LeftArm/Cashier1_Unity:LeftForeArm/Cashier1_Unity:LeftHand/Cashier1_Unity:LeftFingerBase/Cashier1_Unity:LeftHandMiddle1/Cashier1_Unity:LeftHandMiddle2/Cashier1_Unity:LeftHandMiddle3/Cashier1_Unity:LeftHandMiddle4
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:LeftShoulder/Cashier1_Unity:LeftArm/Cashier1_Unity:LeftForeArm/Cashier1_Unity:LeftHand/Cashier1_Unity:LeftFingerBase/Cashier1_Unity:LeftHandPinky1
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:LeftShoulder/Cashier1_Unity:LeftArm/Cashier1_Unity:LeftForeArm/Cashier1_Unity:LeftHand/Cashier1_Unity:LeftFingerBase/Cashier1_Unity:LeftHandPinky1/Cashier1_Unity:LeftHandPinky2
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:LeftShoulder/Cashier1_Unity:LeftArm/Cashier1_Unity:LeftForeArm/Cashier1_Unity:LeftHand/Cashier1_Unity:LeftFingerBase/Cashier1_Unity:LeftHandPinky1/Cashier1_Unity:LeftHandPinky2/Cashier1_Unity:LeftHandPinky3
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:LeftShoulder/Cashier1_Unity:LeftArm/Cashier1_Unity:LeftForeArm/Cashier1_Unity:LeftHand/Cashier1_Unity:LeftFingerBase/Cashier1_Unity:LeftHandPinky1/Cashier1_Unity:LeftHandPinky2/Cashier1_Unity:LeftHandPinky3/Cashier1_Unity:LeftHandPinky4
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:LeftShoulder/Cashier1_Unity:LeftArm/Cashier1_Unity:LeftForeArm/Cashier1_Unity:LeftHand/Cashier1_Unity:LeftFingerBase/Cashier1_Unity:LeftHandRing1
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:LeftShoulder/Cashier1_Unity:LeftArm/Cashier1_Unity:LeftForeArm/Cashier1_Unity:LeftHand/Cashier1_Unity:LeftFingerBase/Cashier1_Unity:LeftHandRing1/Cashier1_Unity:LeftHandRing2
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:LeftShoulder/Cashier1_Unity:LeftArm/Cashier1_Unity:LeftForeArm/Cashier1_Unity:LeftHand/Cashier1_Unity:LeftFingerBase/Cashier1_Unity:LeftHandRing1/Cashier1_Unity:LeftHandRing2/Cashier1_Unity:LeftHandRing3
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:LeftShoulder/Cashier1_Unity:LeftArm/Cashier1_Unity:LeftForeArm/Cashier1_Unity:LeftHand/Cashier1_Unity:LeftFingerBase/Cashier1_Unity:LeftHandRing1/Cashier1_Unity:LeftHandRing2/Cashier1_Unity:LeftHandRing3/Cashier1_Unity:LeftHandRing4
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:LeftShoulder/Cashier1_Unity:LeftArm/Cashier1_Unity:LeftForeArm/Cashier1_Unity:LeftHand/Cashier1_Unity:LeftFingerBase/Cashier1_Unity:LeftHandThumb1
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:LeftShoulder/Cashier1_Unity:LeftArm/Cashier1_Unity:LeftForeArm/Cashier1_Unity:LeftHand/Cashier1_Unity:LeftFingerBase/Cashier1_Unity:LeftHandThumb1/Cashier1_Unity:LeftHandThumb2
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:LeftShoulder/Cashier1_Unity:LeftArm/Cashier1_Unity:LeftForeArm/Cashier1_Unity:LeftHand/Cashier1_Unity:LeftFingerBase/Cashier1_Unity:LeftHandThumb1/Cashier1_Unity:LeftHandThumb2/Cashier1_Unity:LeftHandThumb3
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:LeftShoulder/Cashier1_Unity:LeftArm/Cashier1_Unity:LeftForeArm/Cashier1_Unity:LeftHand/Cashier1_Unity:LeftFingerBase/Cashier1_Unity:LeftHandThumb1/Cashier1_Unity:LeftHandThumb2/Cashier1_Unity:LeftHandThumb3/Cashier1_Unity:LeftHandThumb4
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:Neck
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:Neck/Cashier1_Unity:Head
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:Neck/Cashier1_Unity:Head/Cashier1_Unity:BrowInnerL
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:Neck/Cashier1_Unity:Head/Cashier1_Unity:BrowInnerR
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:Neck/Cashier1_Unity:Head/Cashier1_Unity:BrowOuterL
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:Neck/Cashier1_Unity:Head/Cashier1_Unity:BrowOuterR
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:Neck/Cashier1_Unity:Head/Cashier1_Unity:CheekL
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:Neck/Cashier1_Unity:Head/Cashier1_Unity:CheekR
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:Neck/Cashier1_Unity:Head/Cashier1_Unity:HeadEnd
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:Neck/Cashier1_Unity:Head/Cashier1_Unity:Jaw
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:Neck/Cashier1_Unity:Head/Cashier1_Unity:Jaw/Cashier1_Unity:LipLowerL
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:Neck/Cashier1_Unity:Head/Cashier1_Unity:Jaw/Cashier1_Unity:LipLowerR
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:Neck/Cashier1_Unity:Head/Cashier1_Unity:Jaw/Cashier1_Unity:TongueR
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:Neck/Cashier1_Unity:Head/Cashier1_Unity:Jaw/Cashier1_Unity:TongueR/Cashier1_Unity:TongueF
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:Neck/Cashier1_Unity:Head/Cashier1_Unity:LeftEye
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:Neck/Cashier1_Unity:Head/Cashier1_Unity:LipCornerL
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:Neck/Cashier1_Unity:Head/Cashier1_Unity:LipCornerR
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:Neck/Cashier1_Unity:Head/Cashier1_Unity:LipUpperL
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:Neck/Cashier1_Unity:Head/Cashier1_Unity:LipUpperR
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:Neck/Cashier1_Unity:Head/Cashier1_Unity:LowerLidL
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:Neck/Cashier1_Unity:Head/Cashier1_Unity:LowerLidR
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:Neck/Cashier1_Unity:Head/Cashier1_Unity:Nostrils
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:Neck/Cashier1_Unity:Head/Cashier1_Unity:RightEye
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:Neck/Cashier1_Unity:Head/Cashier1_Unity:UpperLidL
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:Neck/Cashier1_Unity:Head/Cashier1_Unity:UpperLidR
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:RightShoulder
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:RightShoulder/Cashier1_Unity:RightArm
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:RightShoulder/Cashier1_Unity:RightArm/Cashier1_Unity:RightForeArm
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:RightShoulder/Cashier1_Unity:RightArm/Cashier1_Unity:RightForeArm/Cashier1_Unity:RightHand
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:RightShoulder/Cashier1_Unity:RightArm/Cashier1_Unity:RightForeArm/Cashier1_Unity:RightHand/Cashier1_Unity:RightFingerBase
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:RightShoulder/Cashier1_Unity:RightArm/Cashier1_Unity:RightForeArm/Cashier1_Unity:RightHand/Cashier1_Unity:RightFingerBase/Cashier1_Unity:RightHandIndex1
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:RightShoulder/Cashier1_Unity:RightArm/Cashier1_Unity:RightForeArm/Cashier1_Unity:RightHand/Cashier1_Unity:RightFingerBase/Cashier1_Unity:RightHandIndex1/Cashier1_Unity:RightHandIndex2
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:RightShoulder/Cashier1_Unity:RightArm/Cashier1_Unity:RightForeArm/Cashier1_Unity:RightHand/Cashier1_Unity:RightFingerBase/Cashier1_Unity:RightHandIndex1/Cashier1_Unity:RightHandIndex2/Cashier1_Unity:RightHandIndex3
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:RightShoulder/Cashier1_Unity:RightArm/Cashier1_Unity:RightForeArm/Cashier1_Unity:RightHand/Cashier1_Unity:RightFingerBase/Cashier1_Unity:RightHandIndex1/Cashier1_Unity:RightHandIndex2/Cashier1_Unity:RightHandIndex3/Cashier1_Unity:RightHandIndex4
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:RightShoulder/Cashier1_Unity:RightArm/Cashier1_Unity:RightForeArm/Cashier1_Unity:RightHand/Cashier1_Unity:RightFingerBase/Cashier1_Unity:RightHandMiddle1
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:RightShoulder/Cashier1_Unity:RightArm/Cashier1_Unity:RightForeArm/Cashier1_Unity:RightHand/Cashier1_Unity:RightFingerBase/Cashier1_Unity:RightHandMiddle1/Cashier1_Unity:RightHandMiddle2
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:RightShoulder/Cashier1_Unity:RightArm/Cashier1_Unity:RightForeArm/Cashier1_Unity:RightHand/Cashier1_Unity:RightFingerBase/Cashier1_Unity:RightHandMiddle1/Cashier1_Unity:RightHandMiddle2/Cashier1_Unity:RightHandMiddle3
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:RightShoulder/Cashier1_Unity:RightArm/Cashier1_Unity:RightForeArm/Cashier1_Unity:RightHand/Cashier1_Unity:RightFingerBase/Cashier1_Unity:RightHandMiddle1/Cashier1_Unity:RightHandMiddle2/Cashier1_Unity:RightHandMiddle3/Cashier1_Unity:RightHandMiddle4
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:RightShoulder/Cashier1_Unity:RightArm/Cashier1_Unity:RightForeArm/Cashier1_Unity:RightHand/Cashier1_Unity:RightFingerBase/Cashier1_Unity:RightHandPinky1
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:RightShoulder/Cashier1_Unity:RightArm/Cashier1_Unity:RightForeArm/Cashier1_Unity:RightHand/Cashier1_Unity:RightFingerBase/Cashier1_Unity:RightHandPinky1/Cashier1_Unity:RightHandPinky2
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:RightShoulder/Cashier1_Unity:RightArm/Cashier1_Unity:RightForeArm/Cashier1_Unity:RightHand/Cashier1_Unity:RightFingerBase/Cashier1_Unity:RightHandPinky1/Cashier1_Unity:RightHandPinky2/Cashier1_Unity:RightHandPinky3
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:RightShoulder/Cashier1_Unity:RightArm/Cashier1_Unity:RightForeArm/Cashier1_Unity:RightHand/Cashier1_Unity:RightFingerBase/Cashier1_Unity:RightHandPinky1/Cashier1_Unity:RightHandPinky2/Cashier1_Unity:RightHandPinky3/Cashier1_Unity:RightHandPinky4
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:RightShoulder/Cashier1_Unity:RightArm/Cashier1_Unity:RightForeArm/Cashier1_Unity:RightHand/Cashier1_Unity:RightFingerBase/Cashier1_Unity:RightHandRing1
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:RightShoulder/Cashier1_Unity:RightArm/Cashier1_Unity:RightForeArm/Cashier1_Unity:RightHand/Cashier1_Unity:RightFingerBase/Cashier1_Unity:RightHandRing1/Cashier1_Unity:RightHandRing2
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:RightShoulder/Cashier1_Unity:RightArm/Cashier1_Unity:RightForeArm/Cashier1_Unity:RightHand/Cashier1_Unity:RightFingerBase/Cashier1_Unity:RightHandRing1/Cashier1_Unity:RightHandRing2/Cashier1_Unity:RightHandRing3
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:RightShoulder/Cashier1_Unity:RightArm/Cashier1_Unity:RightForeArm/Cashier1_Unity:RightHand/Cashier1_Unity:RightFingerBase/Cashier1_Unity:RightHandRing1/Cashier1_Unity:RightHandRing2/Cashier1_Unity:RightHandRing3/Cashier1_Unity:RightHandRing4
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:RightShoulder/Cashier1_Unity:RightArm/Cashier1_Unity:RightForeArm/Cashier1_Unity:RightHand/Cashier1_Unity:RightFingerBase/Cashier1_Unity:RightHandThumb1
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:RightShoulder/Cashier1_Unity:RightArm/Cashier1_Unity:RightForeArm/Cashier1_Unity:RightHand/Cashier1_Unity:RightFingerBase/Cashier1_Unity:RightHandThumb1/Cashier1_Unity:RightHandThumb2
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:RightShoulder/Cashier1_Unity:RightArm/Cashier1_Unity:RightForeArm/Cashier1_Unity:RightHand/Cashier1_Unity:RightFingerBase/Cashier1_Unity:RightHandThumb1/Cashier1_Unity:RightHandThumb2/Cashier1_Unity:RightHandThumb3
+        weight: 1
+      - path: Cashier1 1/Cashier1_Unity:master/Cashier1_Unity:Reference/Cashier1_Unity:Hips/Cashier1_Unity:Spine/Cashier1_Unity:Spine1/Cashier1_Unity:Spine2/Cashier1_Unity:RightShoulder/Cashier1_Unity:RightArm/Cashier1_Unity:RightForeArm/Cashier1_Unity:RightHand/Cashier1_Unity:RightFingerBase/Cashier1_Unity:RightHandThumb1/Cashier1_Unity:RightHandThumb2/Cashier1_Unity:RightHandThumb3/Cashier1_Unity:RightHandThumb4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

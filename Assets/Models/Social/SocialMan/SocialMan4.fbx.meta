@@ -1,0 +1,1452 @@
+fileFormatVersion: 2
+guid: fbf9bb7643baedf44a169d5bdefd4dec
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: SocialMan_Unity_BrowInnerL
+    100004: SocialMan_Unity_BrowInnerR
+    100006: SocialMan_Unity_BrowOuterL
+    100008: SocialMan_Unity_BrowOuterR
+    100010: SocialMan_Unity_CheekL
+    100012: SocialMan_Unity_CheekR
+    100014: SocialMan_Unity_H_DDS_LowRes
+    100016: SocialMan_Unity_Head
+    100018: SocialMan_Unity_HeadEnd
+    100020: SocialMan_Unity_Hips
+    100022: SocialMan_Unity_Jaw
+    100024: SocialMan_Unity_l_L_eye
+    100026: SocialMan_Unity_l_L_gland
+    100028: SocialMan_Unity_l_R_eye
+    100030: SocialMan_Unity_l_R_gland
+    100032: SocialMan_Unity_l_TeethDown
+    100034: SocialMan_Unity_l_TeethUp
+    100036: SocialMan_Unity_LeftArm
+    100038: SocialMan_Unity_LeftEye
+    100040: SocialMan_Unity_LeftFingerBase
+    100042: SocialMan_Unity_LeftFoot
+    100044: SocialMan_Unity_LeftForeArm
+    100046: SocialMan_Unity_LeftHand
+    100048: SocialMan_Unity_LeftHandIndex1
+    100050: SocialMan_Unity_LeftHandIndex2
+    100052: SocialMan_Unity_LeftHandIndex3
+    100054: SocialMan_Unity_LeftHandIndex4
+    100056: SocialMan_Unity_LeftHandMiddle1
+    100058: SocialMan_Unity_LeftHandMiddle2
+    100060: SocialMan_Unity_LeftHandMiddle3
+    100062: SocialMan_Unity_LeftHandMiddle4
+    100064: SocialMan_Unity_LeftHandPinky1
+    100066: SocialMan_Unity_LeftHandPinky2
+    100068: SocialMan_Unity_LeftHandPinky3
+    100070: SocialMan_Unity_LeftHandPinky4
+    100072: SocialMan_Unity_LeftHandRing1
+    100074: SocialMan_Unity_LeftHandRing2
+    100076: SocialMan_Unity_LeftHandRing3
+    100078: SocialMan_Unity_LeftHandRing4
+    100080: SocialMan_Unity_LeftHandThumb1
+    100082: SocialMan_Unity_LeftHandThumb2
+    100084: SocialMan_Unity_LeftHandThumb3
+    100086: SocialMan_Unity_LeftHandThumb4
+    100088: SocialMan_Unity_LeftLeg
+    100090: SocialMan_Unity_LeftShoulder
+    100092: SocialMan_Unity_LeftToeBase
+    100094: SocialMan_Unity_LeftToeEnd
+    100096: SocialMan_Unity_LeftUpLeg
+    100098: SocialMan_Unity_Lights
+    100100: SocialMan_Unity_LipCornerL
+    100102: SocialMan_Unity_LipCornerR
+    100104: SocialMan_Unity_LipLowerL
+    100106: SocialMan_Unity_LipLowerR
+    100108: SocialMan_Unity_LipUpperL
+    100110: SocialMan_Unity_LipUpperR
+    100112: SocialMan_Unity_LowerLidL
+    100114: SocialMan_Unity_LowerLidR
+    100116: SocialMan_Unity_master
+    100118: SocialMan_Unity_Neck
+    100120: SocialMan_Unity_Nostrils
+    100122: SocialMan_Unity_Reference
+    100124: SocialMan_Unity_RightArm
+    100126: SocialMan_Unity_RightEye
+    100128: SocialMan_Unity_RightFingerBase
+    100130: SocialMan_Unity_RightFoot
+    100132: SocialMan_Unity_RightForeArm
+    100134: SocialMan_Unity_RightHand
+    100136: SocialMan_Unity_RightHandIndex1
+    100138: SocialMan_Unity_RightHandIndex2
+    100140: SocialMan_Unity_RightHandIndex3
+    100142: SocialMan_Unity_RightHandIndex4
+    100144: SocialMan_Unity_RightHandMiddle1
+    100146: SocialMan_Unity_RightHandMiddle2
+    100148: SocialMan_Unity_RightHandMiddle3
+    100150: SocialMan_Unity_RightHandMiddle4
+    100152: SocialMan_Unity_RightHandPinky1
+    100154: SocialMan_Unity_RightHandPinky2
+    100156: SocialMan_Unity_RightHandPinky3
+    100158: SocialMan_Unity_RightHandPinky4
+    100160: SocialMan_Unity_RightHandRing1
+    100162: SocialMan_Unity_RightHandRing2
+    100164: SocialMan_Unity_RightHandRing3
+    100166: SocialMan_Unity_RightHandRing4
+    100168: SocialMan_Unity_RightHandThumb1
+    100170: SocialMan_Unity_RightHandThumb2
+    100172: SocialMan_Unity_RightHandThumb3
+    100174: SocialMan_Unity_RightHandThumb4
+    100176: SocialMan_Unity_RightLeg
+    100178: SocialMan_Unity_RightShoulder
+    100180: SocialMan_Unity_RightToeBase
+    100182: SocialMan_Unity_RightToeEnd
+    100184: SocialMan_Unity_RightUpLeg
+    100186: SocialMan_Unity_Spine
+    100188: SocialMan_Unity_Spine1
+    100190: SocialMan_Unity_Spine2
+    100192: SocialMan_Unity_spotLight2
+    100194: SocialMan_Unity_spotLight3
+    100196: SocialMan_Unity_spotLight4
+    100198: SocialMan_Unity_TongueF
+    100200: SocialMan_Unity_TongueR
+    100202: SocialMan_Unity_UpperLidL
+    100204: SocialMan_Unity_UpperLidR
+    400000: //RootNode
+    400002: SocialMan_Unity_BrowInnerL
+    400004: SocialMan_Unity_BrowInnerR
+    400006: SocialMan_Unity_BrowOuterL
+    400008: SocialMan_Unity_BrowOuterR
+    400010: SocialMan_Unity_CheekL
+    400012: SocialMan_Unity_CheekR
+    400014: SocialMan_Unity_H_DDS_LowRes
+    400016: SocialMan_Unity_Head
+    400018: SocialMan_Unity_HeadEnd
+    400020: SocialMan_Unity_Hips
+    400022: SocialMan_Unity_Jaw
+    400024: SocialMan_Unity_l_L_eye
+    400026: SocialMan_Unity_l_L_gland
+    400028: SocialMan_Unity_l_R_eye
+    400030: SocialMan_Unity_l_R_gland
+    400032: SocialMan_Unity_l_TeethDown
+    400034: SocialMan_Unity_l_TeethUp
+    400036: SocialMan_Unity_LeftArm
+    400038: SocialMan_Unity_LeftEye
+    400040: SocialMan_Unity_LeftFingerBase
+    400042: SocialMan_Unity_LeftFoot
+    400044: SocialMan_Unity_LeftForeArm
+    400046: SocialMan_Unity_LeftHand
+    400048: SocialMan_Unity_LeftHandIndex1
+    400050: SocialMan_Unity_LeftHandIndex2
+    400052: SocialMan_Unity_LeftHandIndex3
+    400054: SocialMan_Unity_LeftHandIndex4
+    400056: SocialMan_Unity_LeftHandMiddle1
+    400058: SocialMan_Unity_LeftHandMiddle2
+    400060: SocialMan_Unity_LeftHandMiddle3
+    400062: SocialMan_Unity_LeftHandMiddle4
+    400064: SocialMan_Unity_LeftHandPinky1
+    400066: SocialMan_Unity_LeftHandPinky2
+    400068: SocialMan_Unity_LeftHandPinky3
+    400070: SocialMan_Unity_LeftHandPinky4
+    400072: SocialMan_Unity_LeftHandRing1
+    400074: SocialMan_Unity_LeftHandRing2
+    400076: SocialMan_Unity_LeftHandRing3
+    400078: SocialMan_Unity_LeftHandRing4
+    400080: SocialMan_Unity_LeftHandThumb1
+    400082: SocialMan_Unity_LeftHandThumb2
+    400084: SocialMan_Unity_LeftHandThumb3
+    400086: SocialMan_Unity_LeftHandThumb4
+    400088: SocialMan_Unity_LeftLeg
+    400090: SocialMan_Unity_LeftShoulder
+    400092: SocialMan_Unity_LeftToeBase
+    400094: SocialMan_Unity_LeftToeEnd
+    400096: SocialMan_Unity_LeftUpLeg
+    400098: SocialMan_Unity_Lights
+    400100: SocialMan_Unity_LipCornerL
+    400102: SocialMan_Unity_LipCornerR
+    400104: SocialMan_Unity_LipLowerL
+    400106: SocialMan_Unity_LipLowerR
+    400108: SocialMan_Unity_LipUpperL
+    400110: SocialMan_Unity_LipUpperR
+    400112: SocialMan_Unity_LowerLidL
+    400114: SocialMan_Unity_LowerLidR
+    400116: SocialMan_Unity_master
+    400118: SocialMan_Unity_Neck
+    400120: SocialMan_Unity_Nostrils
+    400122: SocialMan_Unity_Reference
+    400124: SocialMan_Unity_RightArm
+    400126: SocialMan_Unity_RightEye
+    400128: SocialMan_Unity_RightFingerBase
+    400130: SocialMan_Unity_RightFoot
+    400132: SocialMan_Unity_RightForeArm
+    400134: SocialMan_Unity_RightHand
+    400136: SocialMan_Unity_RightHandIndex1
+    400138: SocialMan_Unity_RightHandIndex2
+    400140: SocialMan_Unity_RightHandIndex3
+    400142: SocialMan_Unity_RightHandIndex4
+    400144: SocialMan_Unity_RightHandMiddle1
+    400146: SocialMan_Unity_RightHandMiddle2
+    400148: SocialMan_Unity_RightHandMiddle3
+    400150: SocialMan_Unity_RightHandMiddle4
+    400152: SocialMan_Unity_RightHandPinky1
+    400154: SocialMan_Unity_RightHandPinky2
+    400156: SocialMan_Unity_RightHandPinky3
+    400158: SocialMan_Unity_RightHandPinky4
+    400160: SocialMan_Unity_RightHandRing1
+    400162: SocialMan_Unity_RightHandRing2
+    400164: SocialMan_Unity_RightHandRing3
+    400166: SocialMan_Unity_RightHandRing4
+    400168: SocialMan_Unity_RightHandThumb1
+    400170: SocialMan_Unity_RightHandThumb2
+    400172: SocialMan_Unity_RightHandThumb3
+    400174: SocialMan_Unity_RightHandThumb4
+    400176: SocialMan_Unity_RightLeg
+    400178: SocialMan_Unity_RightShoulder
+    400180: SocialMan_Unity_RightToeBase
+    400182: SocialMan_Unity_RightToeEnd
+    400184: SocialMan_Unity_RightUpLeg
+    400186: SocialMan_Unity_Spine
+    400188: SocialMan_Unity_Spine1
+    400190: SocialMan_Unity_Spine2
+    400192: SocialMan_Unity_spotLight2
+    400194: SocialMan_Unity_spotLight3
+    400196: SocialMan_Unity_spotLight4
+    400198: SocialMan_Unity_TongueF
+    400200: SocialMan_Unity_TongueR
+    400202: SocialMan_Unity_UpperLidL
+    400204: SocialMan_Unity_UpperLidR
+    4300000: SocialMan_Unity_l_TeethUp
+    4300002: SocialMan_Unity_l_L_gland
+    4300004: SocialMan_Unity_l_L_eye
+    4300006: SocialMan_Unity_l_R_gland
+    4300008: SocialMan_Unity_l_R_eye
+    4300010: SocialMan_Unity_H_DDS_LowRes
+    4300012: SocialMan_Unity_l_TeethDown
+    7400000: IdleTalk1
+    9500000: //RootNode
+    13700000: SocialMan_Unity_H_DDS_LowRes
+    13700002: SocialMan_Unity_l_L_eye
+    13700004: SocialMan_Unity_l_L_gland
+    13700006: SocialMan_Unity_l_R_eye
+    13700008: SocialMan_Unity_l_R_gland
+    13700010: SocialMan_Unity_l_TeethDown
+    13700012: SocialMan_Unity_l_TeethUp
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: IdleTalk1
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 240
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: SocialMan_Unity_H_DDS_LowRes
+        weight: 0
+      - path: SocialMan_Unity_l_L_eye
+        weight: 0
+      - path: SocialMan_Unity_l_L_gland
+        weight: 0
+      - path: SocialMan_Unity_l_R_eye
+        weight: 0
+      - path: SocialMan_Unity_l_R_gland
+        weight: 0
+      - path: SocialMan_Unity_l_TeethDown
+        weight: 0
+      - path: SocialMan_Unity_l_TeethUp
+        weight: 0
+      - path: SocialMan_Unity_Lights
+        weight: 0
+      - path: SocialMan_Unity_Lights/SocialMan_Unity_spotLight2
+        weight: 0
+      - path: SocialMan_Unity_Lights/SocialMan_Unity_spotLight3
+        weight: 0
+      - path: SocialMan_Unity_Lights/SocialMan_Unity_spotLight4
+        weight: 0
+      - path: SocialMan_Unity_master
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_LeftUpLeg
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_LeftUpLeg/SocialMan_Unity_LeftLeg
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_LeftUpLeg/SocialMan_Unity_LeftLeg/SocialMan_Unity_LeftFoot
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_LeftUpLeg/SocialMan_Unity_LeftLeg/SocialMan_Unity_LeftFoot/SocialMan_Unity_LeftToeBase
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_LeftUpLeg/SocialMan_Unity_LeftLeg/SocialMan_Unity_LeftFoot/SocialMan_Unity_LeftToeBase/SocialMan_Unity_LeftToeEnd
+        weight: 0
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_RightUpLeg
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_RightUpLeg/SocialMan_Unity_RightLeg
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_RightUpLeg/SocialMan_Unity_RightLeg/SocialMan_Unity_RightFoot
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_RightUpLeg/SocialMan_Unity_RightLeg/SocialMan_Unity_RightFoot/SocialMan_Unity_RightToeBase
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_RightUpLeg/SocialMan_Unity_RightLeg/SocialMan_Unity_RightFoot/SocialMan_Unity_RightToeBase/SocialMan_Unity_RightToeEnd
+        weight: 0
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_LeftShoulder
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_LeftShoulder/SocialMan_Unity_LeftArm
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_LeftShoulder/SocialMan_Unity_LeftArm/SocialMan_Unity_LeftForeArm
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_LeftShoulder/SocialMan_Unity_LeftArm/SocialMan_Unity_LeftForeArm/SocialMan_Unity_LeftHand
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_LeftShoulder/SocialMan_Unity_LeftArm/SocialMan_Unity_LeftForeArm/SocialMan_Unity_LeftHand/SocialMan_Unity_LeftFingerBase
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_LeftShoulder/SocialMan_Unity_LeftArm/SocialMan_Unity_LeftForeArm/SocialMan_Unity_LeftHand/SocialMan_Unity_LeftFingerBase/SocialMan_Unity_LeftHandIndex1
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_LeftShoulder/SocialMan_Unity_LeftArm/SocialMan_Unity_LeftForeArm/SocialMan_Unity_LeftHand/SocialMan_Unity_LeftFingerBase/SocialMan_Unity_LeftHandIndex1/SocialMan_Unity_LeftHandIndex2
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_LeftShoulder/SocialMan_Unity_LeftArm/SocialMan_Unity_LeftForeArm/SocialMan_Unity_LeftHand/SocialMan_Unity_LeftFingerBase/SocialMan_Unity_LeftHandIndex1/SocialMan_Unity_LeftHandIndex2/SocialMan_Unity_LeftHandIndex3
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_LeftShoulder/SocialMan_Unity_LeftArm/SocialMan_Unity_LeftForeArm/SocialMan_Unity_LeftHand/SocialMan_Unity_LeftFingerBase/SocialMan_Unity_LeftHandIndex1/SocialMan_Unity_LeftHandIndex2/SocialMan_Unity_LeftHandIndex3/SocialMan_Unity_LeftHandIndex4
+        weight: 0
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_LeftShoulder/SocialMan_Unity_LeftArm/SocialMan_Unity_LeftForeArm/SocialMan_Unity_LeftHand/SocialMan_Unity_LeftFingerBase/SocialMan_Unity_LeftHandMiddle1
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_LeftShoulder/SocialMan_Unity_LeftArm/SocialMan_Unity_LeftForeArm/SocialMan_Unity_LeftHand/SocialMan_Unity_LeftFingerBase/SocialMan_Unity_LeftHandMiddle1/SocialMan_Unity_LeftHandMiddle2
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_LeftShoulder/SocialMan_Unity_LeftArm/SocialMan_Unity_LeftForeArm/SocialMan_Unity_LeftHand/SocialMan_Unity_LeftFingerBase/SocialMan_Unity_LeftHandMiddle1/SocialMan_Unity_LeftHandMiddle2/SocialMan_Unity_LeftHandMiddle3
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_LeftShoulder/SocialMan_Unity_LeftArm/SocialMan_Unity_LeftForeArm/SocialMan_Unity_LeftHand/SocialMan_Unity_LeftFingerBase/SocialMan_Unity_LeftHandMiddle1/SocialMan_Unity_LeftHandMiddle2/SocialMan_Unity_LeftHandMiddle3/SocialMan_Unity_LeftHandMiddle4
+        weight: 0
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_LeftShoulder/SocialMan_Unity_LeftArm/SocialMan_Unity_LeftForeArm/SocialMan_Unity_LeftHand/SocialMan_Unity_LeftFingerBase/SocialMan_Unity_LeftHandPinky1
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_LeftShoulder/SocialMan_Unity_LeftArm/SocialMan_Unity_LeftForeArm/SocialMan_Unity_LeftHand/SocialMan_Unity_LeftFingerBase/SocialMan_Unity_LeftHandPinky1/SocialMan_Unity_LeftHandPinky2
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_LeftShoulder/SocialMan_Unity_LeftArm/SocialMan_Unity_LeftForeArm/SocialMan_Unity_LeftHand/SocialMan_Unity_LeftFingerBase/SocialMan_Unity_LeftHandPinky1/SocialMan_Unity_LeftHandPinky2/SocialMan_Unity_LeftHandPinky3
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_LeftShoulder/SocialMan_Unity_LeftArm/SocialMan_Unity_LeftForeArm/SocialMan_Unity_LeftHand/SocialMan_Unity_LeftFingerBase/SocialMan_Unity_LeftHandPinky1/SocialMan_Unity_LeftHandPinky2/SocialMan_Unity_LeftHandPinky3/SocialMan_Unity_LeftHandPinky4
+        weight: 0
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_LeftShoulder/SocialMan_Unity_LeftArm/SocialMan_Unity_LeftForeArm/SocialMan_Unity_LeftHand/SocialMan_Unity_LeftFingerBase/SocialMan_Unity_LeftHandRing1
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_LeftShoulder/SocialMan_Unity_LeftArm/SocialMan_Unity_LeftForeArm/SocialMan_Unity_LeftHand/SocialMan_Unity_LeftFingerBase/SocialMan_Unity_LeftHandRing1/SocialMan_Unity_LeftHandRing2
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_LeftShoulder/SocialMan_Unity_LeftArm/SocialMan_Unity_LeftForeArm/SocialMan_Unity_LeftHand/SocialMan_Unity_LeftFingerBase/SocialMan_Unity_LeftHandRing1/SocialMan_Unity_LeftHandRing2/SocialMan_Unity_LeftHandRing3
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_LeftShoulder/SocialMan_Unity_LeftArm/SocialMan_Unity_LeftForeArm/SocialMan_Unity_LeftHand/SocialMan_Unity_LeftFingerBase/SocialMan_Unity_LeftHandRing1/SocialMan_Unity_LeftHandRing2/SocialMan_Unity_LeftHandRing3/SocialMan_Unity_LeftHandRing4
+        weight: 0
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_LeftShoulder/SocialMan_Unity_LeftArm/SocialMan_Unity_LeftForeArm/SocialMan_Unity_LeftHand/SocialMan_Unity_LeftFingerBase/SocialMan_Unity_LeftHandThumb1
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_LeftShoulder/SocialMan_Unity_LeftArm/SocialMan_Unity_LeftForeArm/SocialMan_Unity_LeftHand/SocialMan_Unity_LeftFingerBase/SocialMan_Unity_LeftHandThumb1/SocialMan_Unity_LeftHandThumb2
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_LeftShoulder/SocialMan_Unity_LeftArm/SocialMan_Unity_LeftForeArm/SocialMan_Unity_LeftHand/SocialMan_Unity_LeftFingerBase/SocialMan_Unity_LeftHandThumb1/SocialMan_Unity_LeftHandThumb2/SocialMan_Unity_LeftHandThumb3
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_LeftShoulder/SocialMan_Unity_LeftArm/SocialMan_Unity_LeftForeArm/SocialMan_Unity_LeftHand/SocialMan_Unity_LeftFingerBase/SocialMan_Unity_LeftHandThumb1/SocialMan_Unity_LeftHandThumb2/SocialMan_Unity_LeftHandThumb3/SocialMan_Unity_LeftHandThumb4
+        weight: 0
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_Neck
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_Neck/SocialMan_Unity_Head
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_Neck/SocialMan_Unity_Head/SocialMan_Unity_BrowInnerL
+        weight: 0
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_Neck/SocialMan_Unity_Head/SocialMan_Unity_BrowInnerR
+        weight: 0
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_Neck/SocialMan_Unity_Head/SocialMan_Unity_BrowOuterL
+        weight: 0
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_Neck/SocialMan_Unity_Head/SocialMan_Unity_BrowOuterR
+        weight: 0
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_Neck/SocialMan_Unity_Head/SocialMan_Unity_CheekL
+        weight: 0
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_Neck/SocialMan_Unity_Head/SocialMan_Unity_CheekR
+        weight: 0
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_Neck/SocialMan_Unity_Head/SocialMan_Unity_HeadEnd
+        weight: 0
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_Neck/SocialMan_Unity_Head/SocialMan_Unity_Jaw
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_Neck/SocialMan_Unity_Head/SocialMan_Unity_Jaw/SocialMan_Unity_LipLowerL
+        weight: 0
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_Neck/SocialMan_Unity_Head/SocialMan_Unity_Jaw/SocialMan_Unity_LipLowerR
+        weight: 0
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_Neck/SocialMan_Unity_Head/SocialMan_Unity_Jaw/SocialMan_Unity_TongueR
+        weight: 0
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_Neck/SocialMan_Unity_Head/SocialMan_Unity_Jaw/SocialMan_Unity_TongueR/SocialMan_Unity_TongueF
+        weight: 0
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_Neck/SocialMan_Unity_Head/SocialMan_Unity_LeftEye
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_Neck/SocialMan_Unity_Head/SocialMan_Unity_LipCornerL
+        weight: 0
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_Neck/SocialMan_Unity_Head/SocialMan_Unity_LipCornerR
+        weight: 0
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_Neck/SocialMan_Unity_Head/SocialMan_Unity_LipUpperL
+        weight: 0
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_Neck/SocialMan_Unity_Head/SocialMan_Unity_LipUpperR
+        weight: 0
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_Neck/SocialMan_Unity_Head/SocialMan_Unity_LowerLidL
+        weight: 0
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_Neck/SocialMan_Unity_Head/SocialMan_Unity_LowerLidR
+        weight: 0
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_Neck/SocialMan_Unity_Head/SocialMan_Unity_Nostrils
+        weight: 0
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_Neck/SocialMan_Unity_Head/SocialMan_Unity_RightEye
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_Neck/SocialMan_Unity_Head/SocialMan_Unity_UpperLidL
+        weight: 0
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_Neck/SocialMan_Unity_Head/SocialMan_Unity_UpperLidR
+        weight: 0
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_RightShoulder
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_RightShoulder/SocialMan_Unity_RightArm
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_RightShoulder/SocialMan_Unity_RightArm/SocialMan_Unity_RightForeArm
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_RightShoulder/SocialMan_Unity_RightArm/SocialMan_Unity_RightForeArm/SocialMan_Unity_RightHand
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_RightShoulder/SocialMan_Unity_RightArm/SocialMan_Unity_RightForeArm/SocialMan_Unity_RightHand/SocialMan_Unity_RightFingerBase
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_RightShoulder/SocialMan_Unity_RightArm/SocialMan_Unity_RightForeArm/SocialMan_Unity_RightHand/SocialMan_Unity_RightFingerBase/SocialMan_Unity_RightHandIndex1
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_RightShoulder/SocialMan_Unity_RightArm/SocialMan_Unity_RightForeArm/SocialMan_Unity_RightHand/SocialMan_Unity_RightFingerBase/SocialMan_Unity_RightHandIndex1/SocialMan_Unity_RightHandIndex2
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_RightShoulder/SocialMan_Unity_RightArm/SocialMan_Unity_RightForeArm/SocialMan_Unity_RightHand/SocialMan_Unity_RightFingerBase/SocialMan_Unity_RightHandIndex1/SocialMan_Unity_RightHandIndex2/SocialMan_Unity_RightHandIndex3
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_RightShoulder/SocialMan_Unity_RightArm/SocialMan_Unity_RightForeArm/SocialMan_Unity_RightHand/SocialMan_Unity_RightFingerBase/SocialMan_Unity_RightHandIndex1/SocialMan_Unity_RightHandIndex2/SocialMan_Unity_RightHandIndex3/SocialMan_Unity_RightHandIndex4
+        weight: 0
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_RightShoulder/SocialMan_Unity_RightArm/SocialMan_Unity_RightForeArm/SocialMan_Unity_RightHand/SocialMan_Unity_RightFingerBase/SocialMan_Unity_RightHandMiddle1
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_RightShoulder/SocialMan_Unity_RightArm/SocialMan_Unity_RightForeArm/SocialMan_Unity_RightHand/SocialMan_Unity_RightFingerBase/SocialMan_Unity_RightHandMiddle1/SocialMan_Unity_RightHandMiddle2
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_RightShoulder/SocialMan_Unity_RightArm/SocialMan_Unity_RightForeArm/SocialMan_Unity_RightHand/SocialMan_Unity_RightFingerBase/SocialMan_Unity_RightHandMiddle1/SocialMan_Unity_RightHandMiddle2/SocialMan_Unity_RightHandMiddle3
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_RightShoulder/SocialMan_Unity_RightArm/SocialMan_Unity_RightForeArm/SocialMan_Unity_RightHand/SocialMan_Unity_RightFingerBase/SocialMan_Unity_RightHandMiddle1/SocialMan_Unity_RightHandMiddle2/SocialMan_Unity_RightHandMiddle3/SocialMan_Unity_RightHandMiddle4
+        weight: 0
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_RightShoulder/SocialMan_Unity_RightArm/SocialMan_Unity_RightForeArm/SocialMan_Unity_RightHand/SocialMan_Unity_RightFingerBase/SocialMan_Unity_RightHandPinky1
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_RightShoulder/SocialMan_Unity_RightArm/SocialMan_Unity_RightForeArm/SocialMan_Unity_RightHand/SocialMan_Unity_RightFingerBase/SocialMan_Unity_RightHandPinky1/SocialMan_Unity_RightHandPinky2
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_RightShoulder/SocialMan_Unity_RightArm/SocialMan_Unity_RightForeArm/SocialMan_Unity_RightHand/SocialMan_Unity_RightFingerBase/SocialMan_Unity_RightHandPinky1/SocialMan_Unity_RightHandPinky2/SocialMan_Unity_RightHandPinky3
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_RightShoulder/SocialMan_Unity_RightArm/SocialMan_Unity_RightForeArm/SocialMan_Unity_RightHand/SocialMan_Unity_RightFingerBase/SocialMan_Unity_RightHandPinky1/SocialMan_Unity_RightHandPinky2/SocialMan_Unity_RightHandPinky3/SocialMan_Unity_RightHandPinky4
+        weight: 0
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_RightShoulder/SocialMan_Unity_RightArm/SocialMan_Unity_RightForeArm/SocialMan_Unity_RightHand/SocialMan_Unity_RightFingerBase/SocialMan_Unity_RightHandRing1
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_RightShoulder/SocialMan_Unity_RightArm/SocialMan_Unity_RightForeArm/SocialMan_Unity_RightHand/SocialMan_Unity_RightFingerBase/SocialMan_Unity_RightHandRing1/SocialMan_Unity_RightHandRing2
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_RightShoulder/SocialMan_Unity_RightArm/SocialMan_Unity_RightForeArm/SocialMan_Unity_RightHand/SocialMan_Unity_RightFingerBase/SocialMan_Unity_RightHandRing1/SocialMan_Unity_RightHandRing2/SocialMan_Unity_RightHandRing3
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_RightShoulder/SocialMan_Unity_RightArm/SocialMan_Unity_RightForeArm/SocialMan_Unity_RightHand/SocialMan_Unity_RightFingerBase/SocialMan_Unity_RightHandRing1/SocialMan_Unity_RightHandRing2/SocialMan_Unity_RightHandRing3/SocialMan_Unity_RightHandRing4
+        weight: 0
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_RightShoulder/SocialMan_Unity_RightArm/SocialMan_Unity_RightForeArm/SocialMan_Unity_RightHand/SocialMan_Unity_RightFingerBase/SocialMan_Unity_RightHandThumb1
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_RightShoulder/SocialMan_Unity_RightArm/SocialMan_Unity_RightForeArm/SocialMan_Unity_RightHand/SocialMan_Unity_RightFingerBase/SocialMan_Unity_RightHandThumb1/SocialMan_Unity_RightHandThumb2
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_RightShoulder/SocialMan_Unity_RightArm/SocialMan_Unity_RightForeArm/SocialMan_Unity_RightHand/SocialMan_Unity_RightFingerBase/SocialMan_Unity_RightHandThumb1/SocialMan_Unity_RightHandThumb2/SocialMan_Unity_RightHandThumb3
+        weight: 1
+      - path: SocialMan_Unity_master/SocialMan_Unity_Reference/SocialMan_Unity_Hips/SocialMan_Unity_Spine/SocialMan_Unity_Spine1/SocialMan_Unity_Spine2/SocialMan_Unity_RightShoulder/SocialMan_Unity_RightArm/SocialMan_Unity_RightForeArm/SocialMan_Unity_RightHand/SocialMan_Unity_RightFingerBase/SocialMan_Unity_RightHandThumb1/SocialMan_Unity_RightHandThumb2/SocialMan_Unity_RightHandThumb3/SocialMan_Unity_RightHandThumb4
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: SocialMan_Unity_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SocialMan_Unity_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SocialMan_Unity_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SocialMan_Unity_LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SocialMan_Unity_RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SocialMan_Unity_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SocialMan_Unity_RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SocialMan_Unity_Spine1
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SocialMan_Unity_Spine2
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SocialMan_Unity_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SocialMan_Unity_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SocialMan_Unity_LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SocialMan_Unity_RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SocialMan_Unity_LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SocialMan_Unity_RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SocialMan_Unity_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SocialMan_Unity_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SocialMan_Unity_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SocialMan_Unity_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SocialMan_Unity_LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SocialMan_Unity_RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SocialMan_Unity_LeftEye
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SocialMan_Unity_RightEye
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SocialMan_Unity_LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SocialMan_Unity_LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SocialMan_Unity_LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SocialMan_Unity_LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SocialMan_Unity_LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SocialMan_Unity_LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SocialMan_Unity_LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SocialMan_Unity_LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SocialMan_Unity_LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SocialMan_Unity_LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SocialMan_Unity_LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SocialMan_Unity_LeftHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SocialMan_Unity_LeftHandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SocialMan_Unity_LeftHandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SocialMan_Unity_LeftHandPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SocialMan_Unity_RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SocialMan_Unity_RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SocialMan_Unity_RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SocialMan_Unity_RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SocialMan_Unity_RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SocialMan_Unity_RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SocialMan_Unity_RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SocialMan_Unity_RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SocialMan_Unity_RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SocialMan_Unity_RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SocialMan_Unity_RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SocialMan_Unity_RightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SocialMan_Unity_RightHandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SocialMan_Unity_RightHandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SocialMan_Unity_RightHandPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: SocialMan4(Clone)
+      position: {x: -1.91152139e-07, y: 0, z: .129483536}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SocialMan_Unity_H_DDS_LowRes
+      position: {x: 1.91152139e-07, y: 0, z: -.129483536}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SocialMan_Unity_l_L_eye
+      position: {x: 1.91152139e-07, y: 0, z: -.129483536}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SocialMan_Unity_l_L_gland
+      position: {x: 1.91152139e-07, y: 0, z: -.129483536}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SocialMan_Unity_l_R_eye
+      position: {x: 1.91152139e-07, y: 0, z: -.129483536}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SocialMan_Unity_l_R_gland
+      position: {x: 1.91152139e-07, y: 0, z: -.129483536}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SocialMan_Unity_l_TeethDown
+      position: {x: 1.91152139e-07, y: 0, z: -.129483536}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SocialMan_Unity_l_TeethUp
+      position: {x: 1.91152139e-07, y: 0, z: -.129483536}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SocialMan_Unity_Lights
+      position: {x: 1.91152139e-07, y: .304799974, z: .0674172565}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SocialMan_Unity_spotLight2
+      position: {x: .935401917, y: 1.08774972, z: .766454518}
+      rotation: {x: -.0291235484, y: .374421746, z: .0117666777, w: .926726341}
+      scale: {x: 9.19260693, y: 9.19260693, z: 9.19260693}
+      transformModified: 1
+    - name: SocialMan_Unity_spotLight3
+      position: {x: -.869823873, y: 1.062783, z: -.901289046}
+      rotation: {x: .00681818509, y: .945311189, z: .0198014472, w: -.325496763}
+      scale: {x: 9.19260693, y: 9.19260693, z: 9.19260693}
+      transformModified: 1
+    - name: SocialMan_Unity_spotLight4
+      position: {x: .469522655, y: 1.1287272, z: -.793097377}
+      rotation: {x: -.0156153673, y: .966671884, z: .0608178414, w: .24819915}
+      scale: {x: 9.19260693, y: 9.19260693, z: 9.19260693}
+      transformModified: 1
+    - name: SocialMan_Unity_master
+      position: {x: 1.91152139e-07, y: 0, z: -.129483536}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SocialMan_Unity_Reference
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SocialMan_Unity_Hips
+      position: {x: -0, y: 1.01585519, z: -.017369628}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SocialMan_Unity_Spine
+      position: {x: -0, y: 1.2380729e-17, z: .045757845}
+      rotation: {x: .5, y: -.5, z: -.5, w: -.5}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SocialMan_Unity_Spine1
+      position: {x: -.0915156901, y: -2.03205653e-17, z: 1.55431224e-17}
+      rotation: {x: 0, y: .0819975957, z: -4.21468478e-08, w: .996632516}
+      scale: {x: .999999881, y: 1, z: .999999881}
+      transformModified: 1
+    - name: SocialMan_Unity_Spine2
+      position: {x: -.110329375, y: -2.41686144e-17, z: 1.55431224e-17}
+      rotation: {x: 5.9930727e-09, y: .00513995206, z: 8.51389572e-08, w: .999986768}
+      scale: {x: 1, y: 1.00000012, z: 1.00000024}
+      transformModified: 1
+    - name: SocialMan_Unity_Neck
+      position: {x: -.280538619, y: -6.63420027e-17, z: -.0992056355}
+      rotation: {x: -2.89166326e-08, y: -.31822297, z: 4.71925343e-09, w: .948015988}
+      scale: {x: .999999881, y: .999999881, z: .999999702}
+      transformModified: 1
+    - name: SocialMan_Unity_Head
+      position: {x: -.101951517, y: -2.27291762e-17, z: 1.77635673e-16}
+      rotation: {x: -3.1610135e-08, y: .234422684, z: -4.21468478e-08, w: .972134829}
+      scale: {x: 1, y: 1, z: .999999881}
+      transformModified: 1
+    - name: SocialMan_Unity_HeadEnd
+      position: {x: -.187102154, y: -4.15450238e-17, z: 1.14248823e-16}
+      rotation: {x: .707106829, y: -.707106829, z: -2.00307066e-16, w: 2.00307066e-16}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SocialMan_Unity_RightEye
+      position: {x: -.051984217, y: -.0316340588, z: -.0670810342}
+      rotation: {x: 0, y: .707106829, z: 0, w: -.707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SocialMan_Unity_Jaw
+      position: {x: -.00411309628, y: -1.60995288e-17, z: -.00683387276}
+      rotation: {x: 6.12323426e-17, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SocialMan_Unity_TongueR
+      position: {x: .0293782037, y: 7.52245183e-19, z: -.025990393}
+      rotation: {x: 6.12323426e-17, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SocialMan_Unity_TongueF
+      position: {x: -0, y: -6.12481252e-18, z: -.0275837034}
+      rotation: {x: 6.12323426e-17, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SocialMan_Unity_LipLowerL
+      position: {x: .0249381773, y: .00956545956, z: -.0931595489}
+      rotation: {x: 0, y: 1, z: 5.16987883e-24, w: 0}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SocialMan_Unity_LipLowerR
+      position: {x: .0249388125, y: -.00956545584, z: -.0931596756}
+      rotation: {x: 6.12323426e-17, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SocialMan_Unity_Nostrils
+      position: {x: -.0121285701, y: -.000228589168, z: -.0928882882}
+      rotation: {x: 6.12323426e-17, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SocialMan_Unity_BrowInnerL
+      position: {x: -.0731294155, y: .0239281002, z: -.0989754945}
+      rotation: {x: 0, y: 1, z: 5.16987883e-24, w: 0}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SocialMan_Unity_LipUpperL
+      position: {x: .0156305805, y: .00577377947, z: -.10747049}
+      rotation: {x: 0, y: 1, z: 5.16987883e-24, w: 0}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SocialMan_Unity_LipUpperR
+      position: {x: .0156323556, y: -.00577378459, z: -.107470959}
+      rotation: {x: 6.12323426e-17, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SocialMan_Unity_LipCornerR
+      position: {x: .0190471187, y: -.0252255071, z: -.0927961543}
+      rotation: {x: 6.12323426e-17, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SocialMan_Unity_LipCornerL
+      position: {x: .0190505814, y: .0252254996, z: -.0927964821}
+      rotation: {x: 0, y: 1, z: 5.16987883e-24, w: 0}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SocialMan_Unity_BrowOuterL
+      position: {x: -.0709394142, y: .0517324992, z: -.0852504894}
+      rotation: {x: 0, y: 1, z: 5.16987883e-24, w: 0}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SocialMan_Unity_BrowInnerR
+      position: {x: -.073131986, y: -.0239280555, z: -.0989753529}
+      rotation: {x: 6.12323426e-17, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SocialMan_Unity_BrowOuterR
+      position: {x: -.0709353313, y: -.0517324582, z: -.0852504596}
+      rotation: {x: 6.12323426e-17, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SocialMan_Unity_UpperLidR
+      position: {x: -.0590171628, y: -.0316340588, z: -.08469899}
+      rotation: {x: 6.12323426e-17, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SocialMan_Unity_LowerLidR
+      position: {x: -.0444479026, y: -.0316340588, z: -.0827920213}
+      rotation: {x: 6.12323426e-17, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SocialMan_Unity_UpperLidL
+      position: {x: -.0575294159, y: .0316340998, z: -.0846984908}
+      rotation: {x: 0, y: 1, z: -5.16987883e-24, w: 0}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SocialMan_Unity_LowerLidL
+      position: {x: -.0444494188, y: .0316340998, z: -.0827924907}
+      rotation: {x: 0, y: 1, z: 5.16987883e-24, w: 0}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SocialMan_Unity_CheekL
+      position: {x: -.0215494167, y: .0410888009, z: -.0910644904}
+      rotation: {x: 0, y: 1, z: 5.16987883e-24, w: 0}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SocialMan_Unity_CheekR
+      position: {x: -.0215475149, y: -.0410887673, z: -.0910642147}
+      rotation: {x: 6.12323426e-17, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SocialMan_Unity_LeftEye
+      position: {x: -.0519794151, y: .0316340998, z: -.0670814887}
+      rotation: {x: 0, y: .707106829, z: 0, w: -.707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SocialMan_Unity_RightShoulder
+      position: {x: -.237728059, y: -.038268093, z: -.0696761534}
+      rotation: {x: .0589734763, y: .0650908425, z: -.758295119, w: -.645967305}
+      scale: {x: 1.00000024, y: 1, z: .999999881}
+      transformModified: 1
+    - name: SocialMan_Unity_RightArm
+      position: {x: -.141089991, y: 2.48650922e-17, z: -6.661338e-18}
+      rotation: {x: .0006730319, y: .0127857085, z: -.104874358, w: .994403124}
+      scale: {x: 1, y: 1.00000024, z: .999999881}
+      transformModified: 1
+    - name: SocialMan_Unity_RightForeArm
+      position: {x: -.266985089, y: 2.84217088e-16, z: 1.60982334e-17}
+      rotation: {x: .000365532702, y: -.0278097652, z: .0393134654, w: .998839855}
+      scale: {x: .999999702, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: SocialMan_Unity_RightHand
+      position: {x: -.244956598, y: 2.84217088e-16, z: -3.68594037e-16}
+      rotation: {x: .00412873505, y: -.02878277, z: -.0717920288, w: .996995687}
+      scale: {x: 1.00000012, y: 1.00000012, z: .999999762}
+      transformModified: 1
+    - name: SocialMan_Unity_RightFingerBase
+      position: {x: -.0228296556, y: -1.06911003e-16, z: 7.2164494e-18}
+      rotation: {x: 5.30949009e-08, y: 1.4047683e-08, z: -9.73758629e-10, w: 1}
+      scale: {x: 1, y: .99999994, z: 1.00000012}
+      transformModified: 1
+    - name: SocialMan_Unity_RightHandMiddle1
+      position: {x: -.0696918443, y: .00146750431, z: -.0122652361}
+      rotation: {x: .00597070623, y: -.0283379294, z: .0593101643, w: .997819483}
+      scale: {x: 1.00000012, y: .999999702, z: .99999994}
+      transformModified: 1
+    - name: SocialMan_Unity_RightHandMiddle2
+      position: {x: -.0485367477, y: 6.54044961e-17, z: 2.19269037e-17}
+      rotation: {x: -.00032536377, y: -.00186412712, z: .0321333371, w: .999481857}
+      scale: {x: 1.00000024, y: 1.00000012, z: 1.00000036}
+      transformModified: 1
+    - name: SocialMan_Unity_RightHandMiddle3
+      position: {x: -.0307609346, y: -3.47063942e-17, z: 2.63677965e-18}
+      rotation: {x: -.000618927414, y: -.00339687662, z: -.0247105528, w: .999688685}
+      scale: {x: .999999642, y: 1, z: .999999642}
+      transformModified: 1
+    - name: SocialMan_Unity_RightHandMiddle4
+      position: {x: -.0263153706, y: 1.11462482e-16, z: 9.02056174e-18}
+      rotation: {x: .0776580051, y: .996739745, z: .00170034333, w: -.0218238886}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SocialMan_Unity_RightHandThumb1
+      position: {x: -.00377754867, y: -.0167984776, z: -.0283775441}
+      rotation: {x: .0447822213, y: -.447929382, z: .0989308059, w: .887449384}
+      scale: {x: 1.00000024, y: .999999762, z: .99999994}
+      transformModified: 1
+    - name: SocialMan_Unity_RightHandThumb2
+      position: {x: -.0218955949, y: -1.44328988e-17, z: -1.52100555e-16}
+      rotation: {x: .0626764819, y: .0319921486, z: -.0132717248, w: .997432768}
+      scale: {x: .999999881, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: SocialMan_Unity_RightHandThumb3
+      position: {x: -.0349119231, y: -3.52495805e-16, z: -4.88498128e-17}
+      rotation: {x: -.0101951556, y: -.0168198962, z: .0366268419, w: .999135435}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: SocialMan_Unity_RightHandThumb4
+      position: {x: -.0332661569, y: 2.44249064e-17, z: -7.32747159e-17}
+      rotation: {x: .190024078, y: .907966375, z: .0765065253, w: -.36556077}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SocialMan_Unity_RightHandPinky1
+      position: {x: -.0621735901, y: -.00848588999, z: .0343301445}
+      rotation: {x: .00456604734, y: -.0278062224, z: .0602426268, w: .997785985}
+      scale: {x: 1.00000012, y: .99999994, z: 1.00000024}
+      transformModified: 1
+    - name: SocialMan_Unity_RightHandPinky2
+      position: {x: -.0380652957, y: 1.91058102e-16, z: -3.13638003e-17}
+      rotation: {x: .00271659391, y: .0191939343, z: .0380788259, w: .999086678}
+      scale: {x: 1, y: .99999994, z: .999999702}
+      transformModified: 1
+    - name: SocialMan_Unity_RightHandPinky3
+      position: {x: -.0205810405, y: -1.61771368e-16, z: -6.93889349e-19}
+      rotation: {x: .00534809195, y: .0338755324, z: -.022099575, w: .999167383}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: SocialMan_Unity_RightHandPinky4
+      position: {x: -.0205617715, y: 3.10303003e-16, z: -1.3877787e-18}
+      rotation: {x: .0671595931, y: .997396588, z: -.00176436175, w: .0262027867}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SocialMan_Unity_RightHandIndex1
+      position: {x: -.0714807883, y: -.00486679701, z: -.0362582095}
+      rotation: {x: -.000280998211, y: -.0135563733, z: .0531068929, w: .998496771}
+      scale: {x: .99999994, y: .999999762, z: .999999881}
+      transformModified: 1
+    - name: SocialMan_Unity_RightHandIndex2
+      position: {x: -.0422993973, y: 8.50730048e-17, z: 6.38378226e-17}
+      rotation: {x: -.00045161476, y: -.00742361182, z: .0399373062, w: .999174595}
+      scale: {x: 1.00000012, y: 1.00000048, z: 1.00000024}
+      transformModified: 1
+    - name: SocialMan_Unity_RightHandIndex3
+      position: {x: -.0246703327, y: -1.05022325e-16, z: 1.36002315e-17}
+      rotation: {x: .00504549081, y: .0404083692, z: .00845370628, w: .999134779}
+      scale: {x: .999999821, y: .999999583, z: .999999821}
+      transformModified: 1
+    - name: SocialMan_Unity_RightHandIndex4
+      position: {x: -.027718069, y: -2.78827391e-16, z: -5.8286707e-18}
+      rotation: {x: .0596312732, y: .998206377, z: -.000316197431, w: .00529303262}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SocialMan_Unity_RightHandRing1
+      position: {x: -.0672860965, y: -.00146750431, z: .0122652361}
+      rotation: {x: .00471073063, y: -.0268503893, z: .0592484549, w: .997870982}
+      scale: {x: 1.00000012, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: SocialMan_Unity_RightHandRing2
+      position: {x: -.0462747477, y: -2.45235692e-17, z: 2.22044592e-17}
+      rotation: {x: -.00154474203, y: -.00557027478, z: .040068835, w: .999180257}
+      scale: {x: 1, y: .999999762, z: .999999762}
+      transformModified: 1
+    - name: SocialMan_Unity_RightHandRing3
+      position: {x: -.0283664931, y: -1.77722415e-16, z: -1.3877787e-18}
+      rotation: {x: .00864885375, y: .0334447026, z: .0152350646, w: .999287009}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: SocialMan_Unity_RightHandRing4
+      position: {x: -.0243310798, y: 8.76460195e-17, z: 1.66880396e-17}
+      rotation: {x: .133748576, y: .991003215, z: -.000654311385, w: .00484808674}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SocialMan_Unity_LeftShoulder
+      position: {x: -.237729967, y: .0382680967, z: -.0696764886}
+      rotation: {x: .758295178, y: .645967245, z: .0589734577, w: .0650908723}
+      scale: {x: 1.00000024, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: SocialMan_Unity_LeftArm
+      position: {x: .141091362, y: 6.04900652e-06, z: -1.08943468e-08}
+      rotation: {x: .0006730319, y: .0127857225, z: -.104874358, w: .994403124}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: SocialMan_Unity_LeftForeArm
+      position: {x: .266985118, y: -4.72663442e-06, z: 3.17132404e-10}
+      rotation: {x: .000365486718, y: -.0278097726, z: .0393134207, w: .998839855}
+      scale: {x: .999999702, y: .999999702, z: 1}
+      transformModified: 1
+    - name: SocialMan_Unity_LeftHand
+      position: {x: .244956195, y: 3.75604418e-06, z: 1.94787724e-08}
+      rotation: {x: .00412950013, y: -.0287826974, z: -.0717699304, w: .996997297}
+      scale: {x: 1.00000024, y: .999999821, z: .999999821}
+      transformModified: 1
+    - name: SocialMan_Unity_LeftFingerBase
+      position: {x: .0228306856, y: -2.89993204e-06, z: -3.48828451e-08}
+      rotation: {x: 1.29308457e-08, y: -4.81229323e-09, z: 9.87344784e-09, w: 1}
+      scale: {x: .999999821, y: .999999821, z: .999999821}
+      transformModified: 1
+    - name: SocialMan_Unity_LeftHandMiddle1
+      position: {x: .0696913972, y: -.00146692642, z: .0122653069}
+      rotation: {x: .00596453529, y: -.0283320043, z: .0593421534, w: .997817814}
+      scale: {x: 1.00000012, y: 1.00000036, z: 1.00000012}
+      transformModified: 1
+    - name: SocialMan_Unity_LeftHandMiddle2
+      position: {x: .0485360175, y: -4.54018709e-06, z: 1.49082613e-08}
+      rotation: {x: -.000325397617, y: -.00186410849, z: .0321333148, w: .999481857}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000024}
+      transformModified: 1
+    - name: SocialMan_Unity_LeftHandMiddle3
+      position: {x: .0307611767, y: -4.46779538e-08, z: -2.05678674e-08}
+      rotation: {x: -.000618918624, y: -.0033968715, z: -.024710549, w: .999688745}
+      scale: {x: .999999821, y: .999999762, z: .999999762}
+      transformModified: 1
+    - name: SocialMan_Unity_LeftHandMiddle4
+      position: {x: .0263161156, y: 4.10829762e-06, z: -1.741547e-08}
+      rotation: {x: .0776580051, y: .996739745, z: .00170034333, w: -.0218238886}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SocialMan_Unity_LeftHandThumb1
+      position: {x: .00327782682, y: .0215400308, z: .028013913}
+      rotation: {x: .595871389, y: .386732936, z: .246738374, w: -.659162521}
+      scale: {x: 1.00000036, y: 1.00000024, z: 1.0000006}
+      transformModified: 1
+    - name: SocialMan_Unity_LeftHandThumb2
+      position: {x: .0218940545, y: -1.26499444e-07, z: -3.16395767e-06}
+      rotation: {x: .0626746938, y: .013381226, z: .0319945328, w: .997431338}
+      scale: {x: .999999762, y: .99999994, z: .999999881}
+      transformModified: 1
+    - name: SocialMan_Unity_LeftHandThumb3
+      position: {x: .0349136069, y: 2.71929935e-07, z: 4.29341617e-06}
+      rotation: {x: -.0101960795, y: -.0366873555, z: -.0168364886, w: .999132931}
+      scale: {x: 1.00000024, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: SocialMan_Unity_LeftHandThumb4
+      position: {x: .0332663395, y: 2.36666651e-07, z: -2.17398384e-08}
+      rotation: {x: -.124123193, y: .587930918, z: .696127474, w: -.39285782}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SocialMan_Unity_LeftHandPinky1
+      position: {x: .0621746182, y: .00848164968, z: -.0343301296}
+      rotation: {x: .00457399059, y: -.0278214347, z: .0601689443, w: .997789979}
+      scale: {x: 1.00000012, y: 1.00000036, z: .99999994}
+      transformModified: 1
+    - name: SocialMan_Unity_LeftHandPinky2
+      position: {x: .038065251, y: 4.95336644e-06, z: -9.31132504e-09}
+      rotation: {x: .00271655456, y: .0191939622, z: .038078744, w: .999086678}
+      scale: {x: .999999821, y: .999999821, z: 1.00000024}
+      transformModified: 1
+    - name: SocialMan_Unity_LeftHandPinky3
+      position: {x: .0205816552, y: 1.72536704e-06, z: -3.01909431e-08}
+      rotation: {x: .0053480831, y: .033875525, z: -.0220995378, w: .999167442}
+      scale: {x: 1, y: 1, z: .999999821}
+      transformModified: 1
+    - name: SocialMan_Unity_LeftHandPinky4
+      position: {x: .0205608364, y: -6.48436162e-06, z: 7.02913994e-08}
+      rotation: {x: .0671595931, y: .997396588, z: -.00176436175, w: .0262027867}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SocialMan_Unity_LeftHandIndex1
+      position: {x: .0714807436, y: .0048687933, z: .0362581275}
+      rotation: {x: -.000281220069, y: -.0135582183, z: .0531008616, w: .998497069}
+      scale: {x: 1.00000012, y: 1.00000036, z: 1}
+      transformModified: 1
+    - name: SocialMan_Unity_LeftHandIndex2
+      position: {x: .0422988608, y: -5.12020051e-07, z: 6.30284376e-08}
+      rotation: {x: -.00045188138, y: -.00741522154, z: .039867539, w: .999177337}
+      scale: {x: .99999994, y: .999999762, z: 1.00000012}
+      transformModified: 1
+    - name: SocialMan_Unity_LeftHandIndex3
+      position: {x: .0246705078, y: 3.1354939e-06, z: -4.51834525e-09}
+      rotation: {x: .0050458177, y: .0404207781, z: .00846307073, w: .999134243}
+      scale: {x: 1.00000024, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: SocialMan_Unity_LeftHandIndex4
+      position: {x: .0277186856, y: 3.56861634e-08, z: 6.01970669e-08}
+      rotation: {x: .0596312732, y: .998206377, z: -.000316197431, w: .00529303262}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SocialMan_Unity_LeftHandRing1
+      position: {x: .0672855452, y: .00146843411, z: -.0122652035}
+      rotation: {x: .00471050898, y: -.0268523935, z: .0592383519, w: .997871518}
+      scale: {x: .999999821, y: 1.00000024, z: 1.00000012}
+      transformModified: 1
+    - name: SocialMan_Unity_LeftHandRing2
+      position: {x: .0462746136, y: -3.71720148e-07, z: 1.79339998e-09}
+      rotation: {x: -.00154465309, y: -.00557425385, z: .0401113108, w: .999178529}
+      scale: {x: 1.00000012, y: 1.00000012, z: .999999821}
+      transformModified: 1
+    - name: SocialMan_Unity_LeftHandRing3
+      position: {x: .0283662453, y: -2.57548641e-06, z: -2.01615524e-08}
+      rotation: {x: .00864887331, y: .0334446989, z: .0152350292, w: .999287069}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: SocialMan_Unity_LeftHandRing4
+      position: {x: .0243306365, y: 2.49356535e-08, z: -6.96274638e-09}
+      rotation: {x: .133748576, y: .991003215, z: -.000654311385, w: .00484808674}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SocialMan_Unity_RightUpLeg
+      position: {x: .0836370513, y: -.0716623515, z: -.0396755226}
+      rotation: {x: .492334545, y: .499202311, z: .507549763, w: -.500796497}
+      scale: {x: .999999523, y: .999999702, z: .999999583}
+      transformModified: 1
+    - name: SocialMan_Unity_RightLeg
+      position: {x: -.434429228, y: 3.55271347e-16, z: 8.881784e-18}
+      rotation: {x: -.000286647613, y: .00959637109, z: .0108520929, w: .999895096}
+      scale: {x: 1.00000012, y: 1.00000024, z: 1.00000048}
+      transformModified: 1
+    - name: SocialMan_Unity_RightFoot
+      position: {x: -.438908339, y: -9.05941971e-16, z: 7.46069849e-16}
+      rotation: {x: -.590296924, y: -.396346301, z: -.396923363, w: .580440402}
+      scale: {x: .999999702, y: .999999762, z: .999999821}
+      transformModified: 1
+    - name: SocialMan_Unity_RightToeBase
+      position: {x: -.167990834, y: -8.881784e-18, z: 4.19109189e-17}
+      rotation: {x: -1.51359885e-08, y: -4.42949393e-08, z: -.0647047013, w: .99790448}
+      scale: {x: .999999762, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: SocialMan_Unity_RightToeEnd
+      position: {x: -.0800998956, y: -3.5527136e-17, z: 3.5527136e-17}
+      rotation: {x: -.100271143, y: -.695884764, z: -.101418816, w: .703849673}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SocialMan_Unity_LeftUpLeg
+      position: {x: -.0836371034, y: -.0716623291, z: -.039675191}
+      rotation: {x: .500796497, y: .507549703, z: -.499202281, w: .492334604}
+      scale: {x: .999999881, y: .999999762, z: .99999994}
+      transformModified: 1
+    - name: SocialMan_Unity_LeftLeg
+      position: {x: .434429646, y: 6.56757635e-08, z: -1.26681465e-08}
+      rotation: {x: -.000286631868, y: .0095964158, z: .010852051, w: .999895096}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: SocialMan_Unity_LeftFoot
+      position: {x: .438907802, y: -5.83062771e-08, z: -1.43691619e-08}
+      rotation: {x: .590296984, y: .396346271, z: .396923393, w: -.580440402}
+      scale: {x: .999999702, y: .999999702, z: 1}
+      transformModified: 1
+    - name: SocialMan_Unity_LeftToeBase
+      position: {x: .167990923, y: 4.27799279e-07, z: 5.66406229e-08}
+      rotation: {x: 5.34709272e-08, y: -1.18532357e-08, z: -.0647046864, w: .99790448}
+      scale: {x: 1, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: SocialMan_Unity_LeftToeEnd
+      position: {x: .0801004171, y: -1.79733718e-07, z: 2.14921805e-08}
+      rotation: {x: -.100271143, y: -.695884764, z: -.101418816, w: .703849673}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,13 @@
+C:\ECB\VRVR_Project\Development\VR4VR\VR4VR\Temp\bin\Debug\Assembly-CSharp.dll
+C:\ECB\VRVR_Project\Development\VR4VR\VR4VR\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\ECB\VRVR_Project\Development\VR4VR\VR4VR\Temp\bin\Debug\MiddleVR_dotNet.dll
+C:\ECB\VRVR_Project\Development\VR4VR\VR4VR\Temp\bin\Debug\MiddleVR_Unity3D.dll
+C:\ECB\VRVR_Project\Development\VR4VR\VR4VR\Temp\bin\Debug\UnityEditor.dll
+C:\ECB\VRVR_Project\Development\VR4VR\VR4VR\Temp\bin\Debug\UnityEngine.dll
+C:\ECB\VRVR_Project\Development\VR4VR\VR4VR\Temp\bin\Debug\Mono.Cecil.dll
+C:\ECB\VRVR_Project\Development\VR4VR\VR4VR\Temp\bin\Debug\nunit.framework.dll
+C:\ECB\VRVR_Project\Development\VR4VR\VR4VR\Temp\bin\Debug\Unity.DataContract.dll
+C:\ECB\VRVR_Project\Development\VR4VR\VR4VR\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\ECB\VRVR_Project\Development\VR4VR\VR4VR\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\ECB\VRVR_Project\Development\VR4VR\VR4VR\obj\Debug\Assembly-CSharp.dll
+C:\ECB\VRVR_Project\Development\VR4VR\VR4VR\obj\Debug\Assembly-CSharp.pdb

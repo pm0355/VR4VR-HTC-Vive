@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: edcc24ec14ebe724f8631acd75be40ad
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: BackLeft
+    100002: BackLeft1
+    100004: Body
+    100006: Body 1
+    100008: front_left_tyre
+    100010: front_left_tyre 1
+    100012: front_left_tyre 2
+    100014: FrontLeft
+    100016: FrontLeft1
+    100018: //RootNode
+    100020: Nissan_1400_Bakkie:body
+    100022: Nissan_1400_Bakkie:body_parts
+    100024: Nissan_1400_Bakkie:canopy
+    100026: Nissan_1400_Bakkie:canopy 1
+    100028: Nissan_1400_Bakkie:exhaust
+    100030: Nissan_1400_Bakkie:front_bumper
+    100032: Nissan_1400_Bakkie:front_diff
+    100034: Nissan_1400_Bakkie:front_left_tyre
+    100036: Nissan_1400_Bakkie:hood
+    100038: Nissan_1400_Bakkie:left_side_bar
+    100040: Nissan_1400_Bakkie:left_side_mirror
+    100042: Nissan_1400_Bakkie:numberplate_rear
+    100044: Nissan_1400_Bakkie:rear_diff
+    100046: Nissan_1400_Bakkie:rear_door
+    100048: Nissan_1400_Bakkie:rear_left_bumper
+    100050: Nissan_1400_Bakkie:rear_right_bumper
+    100052: Nissan_1400_Bakkie:removables
+    100054: Nissan_1400_Bakkie:right_side_bar
+    100056: Nissan_1400_Bakkie:right_side_mirror
+    100058: Nissan_1400_Bakkie:windows_front
+    100060: Nissan_1400_Bakkie:windows_rear
+    100062: polySurface1
+    100064: polySurface10
+    100066: polySurface5
+    100068: polySurface6
+    100070: polySurface7
+    100072: polySurface8
+    100074: polySurface9
+    100076: transform1
+    100078: transform10
+    100080: transform11
+    100082: transform12
+    100084: transform13
+    100086: transform14
+    100088: transform15
+    100090: transform16
+    100092: transform17
+    100094: transform18
+    100096: transform19
+    100098: transform2
+    100100: transform20
+    100102: transform21
+    100104: transform22
+    100106: transform23
+    100108: transform3
+    100110: transform4
+    100112: transform5
+    100114: transform6
+    100116: transform7
+    100118: transform8
+    100120: transform9
+    100122: Wheels
+    400000: BackLeft
+    400002: BackLeft1
+    400004: Body
+    400006: Body 1
+    400008: front_left_tyre
+    400010: front_left_tyre 1
+    400012: front_left_tyre 2
+    400014: FrontLeft
+    400016: FrontLeft1
+    400018: //RootNode
+    400020: Nissan_1400_Bakkie:body
+    400022: Nissan_1400_Bakkie:body_parts
+    400024: Nissan_1400_Bakkie:canopy
+    400026: Nissan_1400_Bakkie:canopy 1
+    400028: Nissan_1400_Bakkie:exhaust
+    400030: Nissan_1400_Bakkie:front_bumper
+    400032: Nissan_1400_Bakkie:front_diff
+    400034: Nissan_1400_Bakkie:front_left_tyre
+    400036: Nissan_1400_Bakkie:hood
+    400038: Nissan_1400_Bakkie:left_side_bar
+    400040: Nissan_1400_Bakkie:left_side_mirror
+    400042: Nissan_1400_Bakkie:numberplate_rear
+    400044: Nissan_1400_Bakkie:rear_diff
+    400046: Nissan_1400_Bakkie:rear_door
+    400048: Nissan_1400_Bakkie:rear_left_bumper
+    400050: Nissan_1400_Bakkie:rear_right_bumper
+    400052: Nissan_1400_Bakkie:removables
+    400054: Nissan_1400_Bakkie:right_side_bar
+    400056: Nissan_1400_Bakkie:right_side_mirror
+    400058: Nissan_1400_Bakkie:windows_front
+    400060: Nissan_1400_Bakkie:windows_rear
+    400062: polySurface1
+    400064: polySurface10
+    400066: polySurface5
+    400068: polySurface6
+    400070: polySurface7
+    400072: polySurface8
+    400074: polySurface9
+    400076: transform1
+    400078: transform10
+    400080: transform11
+    400082: transform12
+    400084: transform13
+    400086: transform14
+    400088: transform15
+    400090: transform16
+    400092: transform17
+    400094: transform18
+    400096: transform19
+    400098: transform2
+    400100: transform20
+    400102: transform21
+    400104: transform22
+    400106: transform23
+    400108: transform3
+    400110: transform4
+    400112: transform5
+    400114: transform6
+    400116: transform7
+    400118: transform8
+    400120: transform9
+    400122: Wheels
+    2300000: BackLeft
+    2300002: BackLeft1
+    2300004: front_left_tyre
+    2300006: front_left_tyre 1
+    2300008: front_left_tyre 2
+    2300010: FrontLeft
+    2300012: FrontLeft1
+    2300014: Nissan_1400_Bakkie:front_left_tyre
+    2300016: polySurface10
+    3300000: BackLeft
+    3300002: BackLeft1
+    3300004: front_left_tyre
+    3300006: front_left_tyre 1
+    3300008: front_left_tyre 2
+    3300010: FrontLeft
+    3300012: FrontLeft1
+    3300014: Nissan_1400_Bakkie:front_left_tyre
+    3300016: polySurface10
+    4300000: FrontLeft
+    4300002: Nissan_1400_Bakkie:front_left_tyre
+    4300004: BackLeft
+    4300006: front_left_tyre
+    4300008: FrontLeft1
+    4300010: front_left_tyre
+    4300012: BackLeft1
+    4300014: front_left_tyre
+    4300016: polySurface10
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .600000024
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 

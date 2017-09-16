@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{5943284A-2B77-0F2B-08C6-0602AC7F21CE}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-CSharp</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+	<BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_4_6_7;UNITY_4_6;UNITY_STANDALONE_WIN;ENABLE_MICROPHONE;ENABLE_TEXTUREID_MAP;ENABLE_UNITYEVENTS;ENABLE_NEW_HIERARCHY ;ENABLE_AUDIO_FMOD;UNITY_STANDALONE;ENABLE_TERRAIN;ENABLE_SUBSTANCE;ENABLE_GENERICS;INCLUDE_IL2CPP;INCLUDE_WP8SUPPORT;ENABLE_MOVIES;ENABLE_WWW;ENABLE_IMAGEEFFECTS;ENABLE_4_6_FEATURES;INCLUDE_WP_BLUE_SUPPORT;ENABLE_WEBCAM;INCLUDE_METROSUPPORT;RENDER_SOFTWARE_CURSOR;ENABLE_NETWORK;ENABLE_PHYSICS;UNITY5_SCRIPTING_IN_UNITY4;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_2D_PHYSICS;ENABLE_SHADOWS;ENABLE_AUDIO;ENABLE_NAVMESH_CARVING;ENABLE_DUCK_TYPING;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_MONO;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_WIN;UNITY_PRO_LICENSE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="System.Xml.Linq" />
+	<Reference Include="UnityEngine">
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\AVProMovieCapture\Scripts\AVProMovieCaptureBase.cs" />
+     <Compile Include="Assets\AVProMovieCapture\Scripts\AVProMovieCaptureCopyPluginWizard.cs" />
+     <Compile Include="Assets\AVProMovieCapture\Scripts\AVProMovieCaptureFromCamera.cs" />
+     <Compile Include="Assets\AVProMovieCapture\Scripts\AVProMovieCaptureFromScene.cs" />
+     <Compile Include="Assets\AVProMovieCapture\Scripts\AVProMovieCaptureFromTexture.cs" />
+     <Compile Include="Assets\AVProMovieCapture\Scripts\AVProMovieCaptureGUI.cs" />
+     <Compile Include="Assets\AVProMovieCapture\Scripts\AVProMovieCapturePlugin.cs" />
+     <Compile Include="Assets\AVProMovieCapture\Scripts\AVProUnityAudioCapture.cs" />
+     <Compile Include="Assets\KinectSDK\KinectScripts\AvatarController.cs" />
+     <Compile Include="Assets\KinectSDK\KinectScripts\Filters\BoneOrientationsConstraint.cs" />
+     <Compile Include="Assets\KinectSDK\KinectScripts\Filters\BoneOrientationsFilter.cs" />
+     <Compile Include="Assets\KinectSDK\KinectScripts\Filters\ClippedLegsFilter.cs" />
+     <Compile Include="Assets\KinectSDK\KinectScripts\Filters\JointPositionsFilter.cs" />
+     <Compile Include="Assets\KinectSDK\KinectScripts\Filters\KinectHelper.cs" />
+     <Compile Include="Assets\KinectSDK\KinectScripts\Filters\SelfIntersectionConstraint.cs" />
+     <Compile Include="Assets\KinectSDK\KinectScripts\Filters\TimedLerp.cs" />
+     <Compile Include="Assets\KinectSDK\KinectScripts\Filters\TrackingStateFilter.cs" />
+     <Compile Include="Assets\KinectSDK\KinectScripts\KinectManager.cs" />
+     <Compile Include="Assets\KinectSDK\KinectScripts\KinectWrapper.cs" />
+     <Compile Include="Assets\MiddleVR\Scripts\Assorted\Cluster\VRApplySharedTransform.cs" />
+     <Compile Include="Assets\MiddleVR\Scripts\Assorted\Cluster\VRClusterObject.cs" />
+     <Compile Include="Assets\MiddleVR\Scripts\Assorted\Cluster\VRShareTransform.cs" />
+     <Compile Include="Assets\MiddleVR\Scripts\Assorted\Interactions\VRActor.cs" />
+     <Compile Include="Assets\MiddleVR\Scripts\Assorted\Interactions\VRAttachToNode.cs" />
+     <Compile Include="Assets\MiddleVR\Scripts\Assorted\Samples\VRActionSample.cs" />
+     <Compile Include="Assets\MiddleVR\Scripts\Assorted\Samples\VRCalibrateTracker.cs" />
+     <Compile Include="Assets\MiddleVR\Scripts\Assorted\Samples\VRCalibrateTrackerYaw.cs" />
+     <Compile Include="Assets\MiddleVR\Scripts\Assorted\Samples\VRFollowNode.cs" />
+     <Compile Include="Assets\MiddleVR\Scripts\Assorted\Samples\VRInteractionTest.cs" />
+     <Compile Include="Assets\MiddleVR\Scripts\Assorted\Samples\VRReceiveBool.cs" />
+     <Compile Include="Assets\MiddleVR\Scripts\Assorted\Samples\VRReceiveEvent.cs" />
+     <Compile Include="Assets\MiddleVR\Scripts\Assorted\Samples\VRReceiveFloat.cs" />
+     <Compile Include="Assets\MiddleVR\Scripts\Assorted\Samples\VRShareBool.cs" />
+     <Compile Include="Assets\MiddleVR\Scripts\Assorted\Samples\VRShareEvent.cs" />
+     <Compile Include="Assets\MiddleVR\Scripts\Assorted\Samples\VRShareFloat.cs" />
+     <Compile Include="Assets\MiddleVR\Scripts\Assorted\Samples\VRVirtualTrackerMapping.cs" />
+     <Compile Include="Assets\MiddleVR\Scripts\Assorted\Samples\VRVirtualTrackerSimulation.cs" />
+     <Compile Include="Assets\MiddleVR\Scripts\Internal\VRCameraCB.cs" />
+     <Compile Include="Assets\MiddleVR\Scripts\Internal\VRManagerPostFrame.cs" />
+     <Compile Include="Assets\MiddleVR\Scripts\Internal\VRManagerScript.cs" />
+     <Compile Include="Assets\MiddleVR\Scripts\Internal\VRRiftCamera.cs" />
+     <Compile Include="Assets\MiddleVR\Scripts\Internal\VRWandInteraction.cs" />
+     <Compile Include="Assets\MiddleVR\Scripts\Internal\VRWandNavigation.cs" />
+     <Compile Include="Assets\Omni\Scripts\ConstantForceEffect.cs" />
+     <Compile Include="Assets\Omni\Scripts\Converter.cs" />
+     <Compile Include="Assets\Omni\Scripts\CustomForceEffect.cs" />
+     <Compile Include="Assets\Omni\Scripts\GenericFunctionsClass.cs" />
+     <Compile Include="Assets\Omni\Scripts\GravityEffect.cs" />
+     <Compile Include="Assets\Omni\Scripts\HapticClassScript.cs" />
+     <Compile Include="Assets\Omni\Scripts\HapticProperties.cs" />
+     <Compile Include="Assets\Omni\Scripts\PluginImport.cs" />
+     <Compile Include="Assets\Photon\Logic\Events\PhotonIncoming.cs" />
+     <Compile Include="Assets\Photon\Logic\Events\PhotonOutgoing.cs" />
+     <Compile Include="Assets\Photon\Logic\Internal\Event Args\PhotonEventArgs.cs" />
+     <Compile Include="Assets\Photon\Logic\Internal\Event Args\PhotonPropertyEventArgs.cs" />
+     <Compile Include="Assets\Photon\Logic\Internal\Extension\Extension.cs" />
+     <Compile Include="Assets\Photon\Logic\Internal\Lifecycle.cs" />
+     <Compile Include="Assets\Photon\Logic\Internal\PhotonDebug.cs" />
+     <Compile Include="Assets\Photon\Logic\Internal\PhotonLocator.cs" />
+     <Compile Include="Assets\Photon\Logic\Internal\PhotonLogic.cs" />
+     <Compile Include="Assets\Photon\Logic\Internal\PhotonNetwork.cs" />
+     <Compile Include="Assets\Photon\Logic\Internal\PhotonSettings.cs" />
+     <Compile Include="Assets\Photon\Logic\PhotonConnect.cs" />
+     <Compile Include="Assets\Photon\Photon Realtime\LoadBalancing\Extensions.cs" />
+     <Compile Include="Assets\Photon\Photon Realtime\LoadBalancing\FriendInfo.cs" />
+     <Compile Include="Assets\Photon\Photon Realtime\LoadBalancing\LoadBalancingClient.cs" />
+     <Compile Include="Assets\Photon\Photon Realtime\LoadBalancing\LoadBalancingPeer.cs" />
+     <Compile Include="Assets\Photon\Photon Realtime\LoadBalancing\Player.cs" />
+     <Compile Include="Assets\Photon\Photon Realtime\LoadBalancing\Room.cs" />
+     <Compile Include="Assets\Photon\Photon Realtime\LoadBalancing\RoomInfo.cs" />
+     <Compile Include="Assets\Scripts\Cautiousness\automaticDoorS.cs" />
+     <Compile Include="Assets\Scripts\Cautiousness\carMovementS.cs" />
+     <Compile Include="Assets\Scripts\Cautiousness\carS.cs" />
+     <Compile Include="Assets\Scripts\Cautiousness\cautiousnessAnimationS.cs" />
+     <Compile Include="Assets\Scripts\Cautiousness\cautiousnessManagerS.cs" />
+     <Compile Include="Assets\Scripts\Cautiousness\cautiousnessVisualManagerS.cs" />
+     <Compile Include="Assets\Scripts\Cautiousness\collisionCheckerS.cs" />
+     <Compile Include="Assets\Scripts\Cautiousness\lowObstacleS.cs" />
+     <Compile Include="Assets\Scripts\Cautiousness\parkingCarS.cs" />
+     <Compile Include="Assets\Scripts\Cautiousness\pedestrianS.cs" />
+     <Compile Include="Assets\Scripts\Cautiousness\trafficManagerS.cs" />
+     <Compile Include="Assets\Scripts\Cleaning\IndicatableS.cs" />
+     <Compile Include="Assets\Scripts\Cleaning\animatableS.cs" />
+     <Compile Include="Assets\Scripts\Cleaning\animationsS.cs" />
+     <Compile Include="Assets\Scripts\Cleaning\cleaningManagerS.cs" />
+     <Compile Include="Assets\Scripts\Cleaning\dirtPileS.cs" />
+     <Compile Include="Assets\Scripts\Cleaning\dirtyBinEmptyingAreaS.cs" />
+     <Compile Include="Assets\Scripts\Cleaning\dirtyBinS.cs" />
+     <Compile Include="Assets\Scripts\Cleaning\distributerS.cs" />
+     <Compile Include="Assets\Scripts\Cleaning\dryDirtS.cs" />
+     <Compile Include="Assets\Scripts\Cleaning\hudS.cs" />
+     <Compile Include="Assets\Scripts\Cleaning\litterCollectingAnimationS.cs" />
+     <Compile Include="Assets\Scripts\Cleaning\litterS.cs" />
+     <Compile Include="Assets\Scripts\Cleaning\mopAttacherS.cs" />
+     <Compile Include="Assets\Scripts\Cleaning\mopCleanerS.cs" />
+     <Compile Include="Assets\Scripts\Cleaning\moppingAnimationS.cs" />
+     <Compile Include="Assets\Scripts\Cleaning\randomObjectsS.cs" />
+     <Compile Include="Assets\Scripts\Cleaning\smallTrashBinS.cs" />
+     <Compile Include="Assets\Scripts\Cleaning\trackedMopCleanerS.cs" />
+     <Compile Include="Assets\Scripts\Cleaning\trackedVacuumCleanerS.cs" />
+     <Compile Include="Assets\Scripts\Cleaning\vacuumAnimationS.cs" />
+     <Compile Include="Assets\Scripts\Cleaning\vacuumCleanerAttacherS.cs" />
+     <Compile Include="Assets\Scripts\Cleaning\vacuumCleanerS.cs" />
+     <Compile Include="Assets\Scripts\Cleaning\wetDirtS.cs" />
+     <Compile Include="Assets\Scripts\Distracters\butterflyS.cs" />
+     <Compile Include="Assets\Scripts\Distracters\coworkersS.cs" />
+     <Compile Include="Assets\Scripts\Distracters\dogBarkingDistracterS.cs" />
+     <Compile Include="Assets\Scripts\Distracters\fanS.cs" />
+     <Compile Include="Assets\Scripts\Distracters\fireTruckS.cs" />
+     <Compile Include="Assets\Scripts\Distracters\fireworksS.cs" />
+     <Compile Include="Assets\Scripts\Distracters\forkliftS.cs" />
+     <Compile Include="Assets\Scripts\Distracters\groceryAlarmDistracterS.cs" />
+     <Compile Include="Assets\Scripts\Distracters\helicopterS.cs" />
+     <Compile Include="Assets\Scripts\Distracters\nightTimeDistracterS.cs" />
+     <Compile Include="Assets\Scripts\Distracters\onlySoundDistracterS.cs" />
+     <Compile Include="Assets\Scripts\Distracters\onlyTimeDistracterS.cs" />
+     <Compile Include="Assets\Scripts\Distracters\planePassingDistracterS.cs" />
+     <Compile Include="Assets\Scripts\Distracters\truckAlarmDistracterS.cs" />
+     <Compile Include="Assets\Scripts\GeneralScripts\CameraAndUI\cameraPosS.cs" />
+     <Compile Include="Assets\Scripts\GeneralScripts\CameraAndUI\userInterfaceS.cs" />
+     <Compile Include="Assets\Scripts\GeneralScripts\Character\Grasp\graspReleaserS.cs" />
+     <Compile Include="Assets\Scripts\GeneralScripts\Character\Grasp\graspableS.cs" />
+     <Compile Include="Assets\Scripts\GeneralScripts\Character\Grasp\grasperS.cs" />
+     <Compile Include="Assets\Scripts\GeneralScripts\Character\Hold\handModelS.cs" />
+     <Compile Include="Assets\Scripts\GeneralScripts\Character\Hold\holdableS.cs" />
+     <Compile Include="Assets\Scripts\GeneralScripts\Character\Hold\leftHandHolderS.cs" />
+     <Compile Include="Assets\Scripts\GeneralScripts\Character\Hold\rightHandHolderS.cs" />
+     <Compile Include="Assets\Scripts\GeneralScripts\Character\Movement\borderWarningS.cs" />
+     <Compile Include="Assets\Scripts\GeneralScripts\Character\Movement\characterS.cs" />
+     <Compile Include="Assets\Scripts\GeneralScripts\Character\Movement\followBodyS.cs" />
+     <Compile Include="Assets\Scripts\GeneralScripts\Character\Movement\followVRS.cs" />
+     <Compile Include="Assets\Scripts\GeneralScripts\Character\Movement\walkInPlaceS.cs" />
+     <Compile Include="Assets\Scripts\GeneralScripts\KinectHands\Drag\dragableS.cs" />
+     <Compile Include="Assets\Scripts\GeneralScripts\KinectHands\Drag\handDragerS.cs" />
+     <Compile Include="Assets\Scripts\GeneralScripts\KinectHands\Movement\KinectHandsS.cs" />
+     <Compile Include="Assets\Scripts\GeneralScripts\distracterManagerS.cs" />
+     <Compile Include="Assets\Scripts\GeneralScripts\generalManagerS.cs" />
+     <Compile Include="Assets\Scripts\GeneralScripts\inputS.cs" />
+     <Compile Include="Assets\Scripts\GeneralScripts\kinectS.cs" />
+     <Compile Include="Assets\Scripts\GeneralScripts\networkManagerS.cs" />
+     <Compile Include="Assets\Scripts\GeneralScripts\recorderManagerS.cs" />
+     <Compile Include="Assets\Scripts\GeneralScripts\saverS.cs" />
+     <Compile Include="Assets\Scripts\GeneralScripts\timerS.cs" />
+     <Compile Include="Assets\Scripts\GeneralScripts\vrS.cs" />
+     <Compile Include="Assets\Scripts\Loading\itemManagerS.cs" />
+     <Compile Include="Assets\Scripts\Loading\loadingBoxManagerS.cs" />
+     <Compile Include="Assets\Scripts\Loading\loadingBoxS.cs" />
+     <Compile Include="Assets\Scripts\Loading\loadingCursorS.cs" />
+     <Compile Include="Assets\Scripts\Loading\loadingItemS.cs" />
+     <Compile Include="Assets\Scripts\Loading\loadingManagerS.cs" />
+     <Compile Include="Assets\Scripts\Loading\loadingVisualManagerS.cs" />
+     <Compile Include="Assets\Scripts\Money\angryCustomerS.cs" />
+     <Compile Include="Assets\Scripts\Money\moneyManagerS.cs" />
+     <Compile Include="Assets\Scripts\Money\moneySupervisorAnimationS.cs" />
+     <Compile Include="Assets\Scripts\Money\moneyVisualManagerS.cs" />
+     <Compile Include="Assets\Scripts\Money\otherCharacterControlS.cs" />
+     <Compile Include="Assets\Scripts\Money\otherCharactersS.cs" />
+     <Compile Include="Assets\Scripts\Money\otherCustomersS.cs" />
+     <Compile Include="Assets\Scripts\Shelving\boxManagerS.cs" />
+     <Compile Include="Assets\Scripts\Shelving\boxS.cs" />
+     <Compile Include="Assets\Scripts\Shelving\deliveryAreaS.cs" />
+     <Compile Include="Assets\Scripts\Shelving\otherBoxesS.cs" />
+     <Compile Include="Assets\Scripts\Shelving\shelfLevelS.cs" />
+     <Compile Include="Assets\Scripts\Shelving\shelvingAnimationS.cs" />
+     <Compile Include="Assets\Scripts\Shelving\shelvingManagerS.cs" />
+     <Compile Include="Assets\Scripts\Shelving\shelvingTutorialBoxesS.cs" />
+     <Compile Include="Assets\Scripts\Shelving\shelvingVisualManagerS.cs" />
+     <Compile Include="Assets\Scripts\Social\socialBackgroundAudioS.cs" />
+     <Compile Include="Assets\Scripts\Social\socialCharacterAnimatorS.cs" />
+     <Compile Include="Assets\Scripts\Social\socialCharacterDestroyerS.cs" />
+     <Compile Include="Assets\Scripts\Social\socialCharactersManagerS.cs" />
+     <Compile Include="Assets\Scripts\Social\socialForkliftS.cs" />
+     <Compile Include="Assets\Scripts\Social\socialManagerS.cs" />
+     <Compile Include="Assets\Scripts\Social\socialVisualManagerS.cs" />
+     <Compile Include="Assets\iTween\Plugins\iTween.cs" />
+     <Compile Include="Assets\iTween\iTweenPath.cs" />
+     <None Include="Assets\TO DO.txt" />
+     <None Include="Assets\AVProMovieCapture\Shaders\AVProMovieCapture_RGBA2YCbCr.shader" />
+     <None Include="Assets\AVProMovieCapture\Shaders\AVProMovieCapture_RedBlueSwap.shader" />
+     <None Include="Assets\MiddleVR\Scripts\Assorted\Assets\Materials\OVRLensCorrection.shader" />
+     <None Include="Assets\AVProMovieCapture\Shaders\AVProMovieCapture_Shared.cginc" />
+ <Reference Include="UnityEngine.UI">
+ <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.7/Standalone/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="I18N">
+ <HintPath>E:/Media/Unity Projects/VR4VR/VR4VR/Assets/DataBase/Plugins/I18N.dll</HintPath>
+ </Reference>
+ <Reference Include="I18N.West">
+ <HintPath>E:/Media/Unity Projects/VR4VR/VR4VR/Assets/DataBase/Plugins/I18N.West.dll</HintPath>
+ </Reference>
+ <Reference Include="MySql.Data">
+ <HintPath>E:/Media/Unity Projects/VR4VR/VR4VR/Assets/DataBase/Plugins/MySql.Data.dll</HintPath>
+ </Reference>
+ <Reference Include="MiddleVR_dotNet">
+ <HintPath>E:/Media/Unity Projects/VR4VR/VR4VR/Assets/MiddleVR/Scripts/Assorted/Plugins/MiddleVR_dotNet.dll</HintPath>
+ </Reference>
+ <Reference Include="MiddleVR_Unity3D">
+ <HintPath>E:/Media/Unity Projects/VR4VR/VR4VR/Assets/MiddleVR/Scripts/Assorted/Plugins/MiddleVR_Unity3D.dll</HintPath>
+ </Reference>
+ <Reference Include="Photon3Unity3D">
+ <HintPath>E:/Media/Unity Projects/VR4VR/VR4VR/Assets/Photon/Photon Realtime/Plugins/Photon3Unity3D.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

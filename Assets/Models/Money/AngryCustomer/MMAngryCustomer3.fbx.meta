@@ -1,0 +1,1461 @@
+fileFormatVersion: 2
+guid: e63422b0d80d63b4db026578c8b5c1ff
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Angry_Customer_Unity:BrowInnerL
+    100002: Angry_Customer_Unity:BrowInnerR
+    100004: Angry_Customer_Unity:BrowOuterL
+    100006: Angry_Customer_Unity:BrowOuterR
+    100008: Angry_Customer_Unity:CheekL
+    100010: Angry_Customer_Unity:CheekR
+    100012: Angry_Customer_Unity:H_DDS_LowRes
+    100014: Angry_Customer_Unity:Head
+    100016: Angry_Customer_Unity:HeadEnd
+    100018: Angry_Customer_Unity:Hips
+    100020: Angry_Customer_Unity:Jaw
+    100022: Angry_Customer_Unity:l_L_eye
+    100024: Angry_Customer_Unity:l_L_gland
+    100026: Angry_Customer_Unity:l_R_eye
+    100028: Angry_Customer_Unity:l_R_gland
+    100030: Angry_Customer_Unity:l_TeethDown
+    100032: Angry_Customer_Unity:l_TeethUp
+    100034: Angry_Customer_Unity:LeftArm
+    100036: Angry_Customer_Unity:LeftEye
+    100038: Angry_Customer_Unity:LeftFingerBase
+    100040: Angry_Customer_Unity:LeftFoot
+    100042: Angry_Customer_Unity:LeftForeArm
+    100044: Angry_Customer_Unity:LeftHand
+    100046: Angry_Customer_Unity:LeftHandIndex1
+    100048: Angry_Customer_Unity:LeftHandIndex2
+    100050: Angry_Customer_Unity:LeftHandIndex3
+    100052: Angry_Customer_Unity:LeftHandIndex4
+    100054: Angry_Customer_Unity:LeftHandMiddle1
+    100056: Angry_Customer_Unity:LeftHandMiddle2
+    100058: Angry_Customer_Unity:LeftHandMiddle3
+    100060: Angry_Customer_Unity:LeftHandMiddle4
+    100062: Angry_Customer_Unity:LeftHandPinky1
+    100064: Angry_Customer_Unity:LeftHandPinky2
+    100066: Angry_Customer_Unity:LeftHandPinky3
+    100068: Angry_Customer_Unity:LeftHandPinky4
+    100070: Angry_Customer_Unity:LeftHandRing1
+    100072: Angry_Customer_Unity:LeftHandRing2
+    100074: Angry_Customer_Unity:LeftHandRing3
+    100076: Angry_Customer_Unity:LeftHandRing4
+    100078: Angry_Customer_Unity:LeftHandThumb1
+    100080: Angry_Customer_Unity:LeftHandThumb2
+    100082: Angry_Customer_Unity:LeftHandThumb3
+    100084: Angry_Customer_Unity:LeftHandThumb4
+    100086: Angry_Customer_Unity:LeftLeg
+    100088: Angry_Customer_Unity:LeftShoulder
+    100090: Angry_Customer_Unity:LeftToeBase
+    100092: Angry_Customer_Unity:LeftToeEnd
+    100094: Angry_Customer_Unity:LeftUpLeg
+    100096: Angry_Customer_Unity:Lights
+    100098: Angry_Customer_Unity:LipCornerL
+    100100: Angry_Customer_Unity:LipCornerR
+    100102: Angry_Customer_Unity:LipLowerL
+    100104: Angry_Customer_Unity:LipLowerR
+    100106: Angry_Customer_Unity:LipUpperL
+    100108: Angry_Customer_Unity:LipUpperR
+    100110: Angry_Customer_Unity:LowerLidL
+    100112: Angry_Customer_Unity:LowerLidR
+    100114: Angry_Customer_Unity:master
+    100116: Angry_Customer_Unity:Neck
+    100118: Angry_Customer_Unity:Nostrils
+    100120: Angry_Customer_Unity:Reference
+    100122: Angry_Customer_Unity:RightArm
+    100124: Angry_Customer_Unity:RightEye
+    100126: Angry_Customer_Unity:RightFingerBase
+    100128: Angry_Customer_Unity:RightFoot
+    100130: Angry_Customer_Unity:RightForeArm
+    100132: Angry_Customer_Unity:RightHand
+    100134: Angry_Customer_Unity:RightHandIndex1
+    100136: Angry_Customer_Unity:RightHandIndex2
+    100138: Angry_Customer_Unity:RightHandIndex3
+    100140: Angry_Customer_Unity:RightHandIndex4
+    100142: Angry_Customer_Unity:RightHandMiddle1
+    100144: Angry_Customer_Unity:RightHandMiddle2
+    100146: Angry_Customer_Unity:RightHandMiddle3
+    100148: Angry_Customer_Unity:RightHandMiddle4
+    100150: Angry_Customer_Unity:RightHandPinky1
+    100152: Angry_Customer_Unity:RightHandPinky2
+    100154: Angry_Customer_Unity:RightHandPinky3
+    100156: Angry_Customer_Unity:RightHandPinky4
+    100158: Angry_Customer_Unity:RightHandRing1
+    100160: Angry_Customer_Unity:RightHandRing2
+    100162: Angry_Customer_Unity:RightHandRing3
+    100164: Angry_Customer_Unity:RightHandRing4
+    100166: Angry_Customer_Unity:RightHandThumb1
+    100168: Angry_Customer_Unity:RightHandThumb2
+    100170: Angry_Customer_Unity:RightHandThumb3
+    100172: Angry_Customer_Unity:RightHandThumb4
+    100174: Angry_Customer_Unity:RightLeg
+    100176: Angry_Customer_Unity:RightShoulder
+    100178: Angry_Customer_Unity:RightToeBase
+    100180: Angry_Customer_Unity:RightToeEnd
+    100182: Angry_Customer_Unity:RightUpLeg
+    100184: Angry_Customer_Unity:Spine
+    100186: Angry_Customer_Unity:Spine1
+    100188: Angry_Customer_Unity:Spine2
+    100190: Angry_Customer_Unity:spotLight2
+    100192: Angry_Customer_Unity:spotLight3
+    100194: Angry_Customer_Unity:spotLight4
+    100196: Angry_Customer_Unity:TongueF
+    100198: Angry_Customer_Unity:TongueR
+    100200: Angry_Customer_Unity:UpperLidL
+    100202: Angry_Customer_Unity:UpperLidR
+    100204: Lids
+    100206: //RootNode
+    400000: Angry_Customer_Unity:BrowInnerL
+    400002: Angry_Customer_Unity:BrowInnerR
+    400004: Angry_Customer_Unity:BrowOuterL
+    400006: Angry_Customer_Unity:BrowOuterR
+    400008: Angry_Customer_Unity:CheekL
+    400010: Angry_Customer_Unity:CheekR
+    400012: Angry_Customer_Unity:H_DDS_LowRes
+    400014: Angry_Customer_Unity:Head
+    400016: Angry_Customer_Unity:HeadEnd
+    400018: Angry_Customer_Unity:Hips
+    400020: Angry_Customer_Unity:Jaw
+    400022: Angry_Customer_Unity:l_L_eye
+    400024: Angry_Customer_Unity:l_L_gland
+    400026: Angry_Customer_Unity:l_R_eye
+    400028: Angry_Customer_Unity:l_R_gland
+    400030: Angry_Customer_Unity:l_TeethDown
+    400032: Angry_Customer_Unity:l_TeethUp
+    400034: Angry_Customer_Unity:LeftArm
+    400036: Angry_Customer_Unity:LeftEye
+    400038: Angry_Customer_Unity:LeftFingerBase
+    400040: Angry_Customer_Unity:LeftFoot
+    400042: Angry_Customer_Unity:LeftForeArm
+    400044: Angry_Customer_Unity:LeftHand
+    400046: Angry_Customer_Unity:LeftHandIndex1
+    400048: Angry_Customer_Unity:LeftHandIndex2
+    400050: Angry_Customer_Unity:LeftHandIndex3
+    400052: Angry_Customer_Unity:LeftHandIndex4
+    400054: Angry_Customer_Unity:LeftHandMiddle1
+    400056: Angry_Customer_Unity:LeftHandMiddle2
+    400058: Angry_Customer_Unity:LeftHandMiddle3
+    400060: Angry_Customer_Unity:LeftHandMiddle4
+    400062: Angry_Customer_Unity:LeftHandPinky1
+    400064: Angry_Customer_Unity:LeftHandPinky2
+    400066: Angry_Customer_Unity:LeftHandPinky3
+    400068: Angry_Customer_Unity:LeftHandPinky4
+    400070: Angry_Customer_Unity:LeftHandRing1
+    400072: Angry_Customer_Unity:LeftHandRing2
+    400074: Angry_Customer_Unity:LeftHandRing3
+    400076: Angry_Customer_Unity:LeftHandRing4
+    400078: Angry_Customer_Unity:LeftHandThumb1
+    400080: Angry_Customer_Unity:LeftHandThumb2
+    400082: Angry_Customer_Unity:LeftHandThumb3
+    400084: Angry_Customer_Unity:LeftHandThumb4
+    400086: Angry_Customer_Unity:LeftLeg
+    400088: Angry_Customer_Unity:LeftShoulder
+    400090: Angry_Customer_Unity:LeftToeBase
+    400092: Angry_Customer_Unity:LeftToeEnd
+    400094: Angry_Customer_Unity:LeftUpLeg
+    400096: Angry_Customer_Unity:Lights
+    400098: Angry_Customer_Unity:LipCornerL
+    400100: Angry_Customer_Unity:LipCornerR
+    400102: Angry_Customer_Unity:LipLowerL
+    400104: Angry_Customer_Unity:LipLowerR
+    400106: Angry_Customer_Unity:LipUpperL
+    400108: Angry_Customer_Unity:LipUpperR
+    400110: Angry_Customer_Unity:LowerLidL
+    400112: Angry_Customer_Unity:LowerLidR
+    400114: Angry_Customer_Unity:master
+    400116: Angry_Customer_Unity:Neck
+    400118: Angry_Customer_Unity:Nostrils
+    400120: Angry_Customer_Unity:Reference
+    400122: Angry_Customer_Unity:RightArm
+    400124: Angry_Customer_Unity:RightEye
+    400126: Angry_Customer_Unity:RightFingerBase
+    400128: Angry_Customer_Unity:RightFoot
+    400130: Angry_Customer_Unity:RightForeArm
+    400132: Angry_Customer_Unity:RightHand
+    400134: Angry_Customer_Unity:RightHandIndex1
+    400136: Angry_Customer_Unity:RightHandIndex2
+    400138: Angry_Customer_Unity:RightHandIndex3
+    400140: Angry_Customer_Unity:RightHandIndex4
+    400142: Angry_Customer_Unity:RightHandMiddle1
+    400144: Angry_Customer_Unity:RightHandMiddle2
+    400146: Angry_Customer_Unity:RightHandMiddle3
+    400148: Angry_Customer_Unity:RightHandMiddle4
+    400150: Angry_Customer_Unity:RightHandPinky1
+    400152: Angry_Customer_Unity:RightHandPinky2
+    400154: Angry_Customer_Unity:RightHandPinky3
+    400156: Angry_Customer_Unity:RightHandPinky4
+    400158: Angry_Customer_Unity:RightHandRing1
+    400160: Angry_Customer_Unity:RightHandRing2
+    400162: Angry_Customer_Unity:RightHandRing3
+    400164: Angry_Customer_Unity:RightHandRing4
+    400166: Angry_Customer_Unity:RightHandThumb1
+    400168: Angry_Customer_Unity:RightHandThumb2
+    400170: Angry_Customer_Unity:RightHandThumb3
+    400172: Angry_Customer_Unity:RightHandThumb4
+    400174: Angry_Customer_Unity:RightLeg
+    400176: Angry_Customer_Unity:RightShoulder
+    400178: Angry_Customer_Unity:RightToeBase
+    400180: Angry_Customer_Unity:RightToeEnd
+    400182: Angry_Customer_Unity:RightUpLeg
+    400184: Angry_Customer_Unity:Spine
+    400186: Angry_Customer_Unity:Spine1
+    400188: Angry_Customer_Unity:Spine2
+    400190: Angry_Customer_Unity:spotLight2
+    400192: Angry_Customer_Unity:spotLight3
+    400194: Angry_Customer_Unity:spotLight4
+    400196: Angry_Customer_Unity:TongueF
+    400198: Angry_Customer_Unity:TongueR
+    400200: Angry_Customer_Unity:UpperLidL
+    400202: Angry_Customer_Unity:UpperLidR
+    400204: Lids
+    400206: //RootNode
+    4300000: Angry_Customer_Unity:l_TeethUp
+    4300002: Angry_Customer_Unity:l_L_gland
+    4300004: Angry_Customer_Unity:l_L_eye
+    4300006: Angry_Customer_Unity:l_R_gland
+    4300008: Angry_Customer_Unity:l_R_eye
+    4300010: Angry_Customer_Unity:H_DDS_LowRes
+    4300012: Angry_Customer_Unity:l_TeethDown
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Angry_Customer_Unity:H_DDS_LowRes
+    13700002: Angry_Customer_Unity:l_L_eye
+    13700004: Angry_Customer_Unity:l_L_gland
+    13700006: Angry_Customer_Unity:l_R_eye
+    13700008: Angry_Customer_Unity:l_R_gland
+    13700010: Angry_Customer_Unity:l_TeethDown
+    13700012: Angry_Customer_Unity:l_TeethUp
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 150
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Angry_Customer_Unity:H_DDS_LowRes
+        weight: 0
+      - path: Angry_Customer_Unity:l_L_eye
+        weight: 0
+      - path: Angry_Customer_Unity:l_L_gland
+        weight: 0
+      - path: Angry_Customer_Unity:l_R_eye
+        weight: 0
+      - path: Angry_Customer_Unity:l_R_gland
+        weight: 0
+      - path: Angry_Customer_Unity:l_TeethDown
+        weight: 0
+      - path: Angry_Customer_Unity:l_TeethUp
+        weight: 0
+      - path: Angry_Customer_Unity:Lights
+        weight: 0
+      - path: Angry_Customer_Unity:Lights/Angry_Customer_Unity:spotLight2
+        weight: 0
+      - path: Angry_Customer_Unity:Lights/Angry_Customer_Unity:spotLight3
+        weight: 0
+      - path: Angry_Customer_Unity:Lights/Angry_Customer_Unity:spotLight4
+        weight: 0
+      - path: Angry_Customer_Unity:master
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:LeftUpLeg
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:LeftUpLeg/Angry_Customer_Unity:LeftLeg
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:LeftUpLeg/Angry_Customer_Unity:LeftLeg/Angry_Customer_Unity:LeftFoot
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:LeftUpLeg/Angry_Customer_Unity:LeftLeg/Angry_Customer_Unity:LeftFoot/Angry_Customer_Unity:LeftToeBase
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:LeftUpLeg/Angry_Customer_Unity:LeftLeg/Angry_Customer_Unity:LeftFoot/Angry_Customer_Unity:LeftToeBase/Angry_Customer_Unity:LeftToeEnd
+        weight: 0
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:RightUpLeg
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:RightUpLeg/Angry_Customer_Unity:RightLeg
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:RightUpLeg/Angry_Customer_Unity:RightLeg/Angry_Customer_Unity:RightFoot
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:RightUpLeg/Angry_Customer_Unity:RightLeg/Angry_Customer_Unity:RightFoot/Angry_Customer_Unity:RightToeBase
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:RightUpLeg/Angry_Customer_Unity:RightLeg/Angry_Customer_Unity:RightFoot/Angry_Customer_Unity:RightToeBase/Angry_Customer_Unity:RightToeEnd
+        weight: 0
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:LeftShoulder
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:LeftShoulder/Angry_Customer_Unity:LeftArm
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:LeftShoulder/Angry_Customer_Unity:LeftArm/Angry_Customer_Unity:LeftForeArm
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:LeftShoulder/Angry_Customer_Unity:LeftArm/Angry_Customer_Unity:LeftForeArm/Angry_Customer_Unity:LeftHand
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:LeftShoulder/Angry_Customer_Unity:LeftArm/Angry_Customer_Unity:LeftForeArm/Angry_Customer_Unity:LeftHand/Angry_Customer_Unity:LeftFingerBase
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:LeftShoulder/Angry_Customer_Unity:LeftArm/Angry_Customer_Unity:LeftForeArm/Angry_Customer_Unity:LeftHand/Angry_Customer_Unity:LeftFingerBase/Angry_Customer_Unity:LeftHandIndex1
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:LeftShoulder/Angry_Customer_Unity:LeftArm/Angry_Customer_Unity:LeftForeArm/Angry_Customer_Unity:LeftHand/Angry_Customer_Unity:LeftFingerBase/Angry_Customer_Unity:LeftHandIndex1/Angry_Customer_Unity:LeftHandIndex2
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:LeftShoulder/Angry_Customer_Unity:LeftArm/Angry_Customer_Unity:LeftForeArm/Angry_Customer_Unity:LeftHand/Angry_Customer_Unity:LeftFingerBase/Angry_Customer_Unity:LeftHandIndex1/Angry_Customer_Unity:LeftHandIndex2/Angry_Customer_Unity:LeftHandIndex3
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:LeftShoulder/Angry_Customer_Unity:LeftArm/Angry_Customer_Unity:LeftForeArm/Angry_Customer_Unity:LeftHand/Angry_Customer_Unity:LeftFingerBase/Angry_Customer_Unity:LeftHandIndex1/Angry_Customer_Unity:LeftHandIndex2/Angry_Customer_Unity:LeftHandIndex3/Angry_Customer_Unity:LeftHandIndex4
+        weight: 0
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:LeftShoulder/Angry_Customer_Unity:LeftArm/Angry_Customer_Unity:LeftForeArm/Angry_Customer_Unity:LeftHand/Angry_Customer_Unity:LeftFingerBase/Angry_Customer_Unity:LeftHandMiddle1
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:LeftShoulder/Angry_Customer_Unity:LeftArm/Angry_Customer_Unity:LeftForeArm/Angry_Customer_Unity:LeftHand/Angry_Customer_Unity:LeftFingerBase/Angry_Customer_Unity:LeftHandMiddle1/Angry_Customer_Unity:LeftHandMiddle2
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:LeftShoulder/Angry_Customer_Unity:LeftArm/Angry_Customer_Unity:LeftForeArm/Angry_Customer_Unity:LeftHand/Angry_Customer_Unity:LeftFingerBase/Angry_Customer_Unity:LeftHandMiddle1/Angry_Customer_Unity:LeftHandMiddle2/Angry_Customer_Unity:LeftHandMiddle3
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:LeftShoulder/Angry_Customer_Unity:LeftArm/Angry_Customer_Unity:LeftForeArm/Angry_Customer_Unity:LeftHand/Angry_Customer_Unity:LeftFingerBase/Angry_Customer_Unity:LeftHandMiddle1/Angry_Customer_Unity:LeftHandMiddle2/Angry_Customer_Unity:LeftHandMiddle3/Angry_Customer_Unity:LeftHandMiddle4
+        weight: 0
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:LeftShoulder/Angry_Customer_Unity:LeftArm/Angry_Customer_Unity:LeftForeArm/Angry_Customer_Unity:LeftHand/Angry_Customer_Unity:LeftFingerBase/Angry_Customer_Unity:LeftHandPinky1
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:LeftShoulder/Angry_Customer_Unity:LeftArm/Angry_Customer_Unity:LeftForeArm/Angry_Customer_Unity:LeftHand/Angry_Customer_Unity:LeftFingerBase/Angry_Customer_Unity:LeftHandPinky1/Angry_Customer_Unity:LeftHandPinky2
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:LeftShoulder/Angry_Customer_Unity:LeftArm/Angry_Customer_Unity:LeftForeArm/Angry_Customer_Unity:LeftHand/Angry_Customer_Unity:LeftFingerBase/Angry_Customer_Unity:LeftHandPinky1/Angry_Customer_Unity:LeftHandPinky2/Angry_Customer_Unity:LeftHandPinky3
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:LeftShoulder/Angry_Customer_Unity:LeftArm/Angry_Customer_Unity:LeftForeArm/Angry_Customer_Unity:LeftHand/Angry_Customer_Unity:LeftFingerBase/Angry_Customer_Unity:LeftHandPinky1/Angry_Customer_Unity:LeftHandPinky2/Angry_Customer_Unity:LeftHandPinky3/Angry_Customer_Unity:LeftHandPinky4
+        weight: 0
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:LeftShoulder/Angry_Customer_Unity:LeftArm/Angry_Customer_Unity:LeftForeArm/Angry_Customer_Unity:LeftHand/Angry_Customer_Unity:LeftFingerBase/Angry_Customer_Unity:LeftHandRing1
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:LeftShoulder/Angry_Customer_Unity:LeftArm/Angry_Customer_Unity:LeftForeArm/Angry_Customer_Unity:LeftHand/Angry_Customer_Unity:LeftFingerBase/Angry_Customer_Unity:LeftHandRing1/Angry_Customer_Unity:LeftHandRing2
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:LeftShoulder/Angry_Customer_Unity:LeftArm/Angry_Customer_Unity:LeftForeArm/Angry_Customer_Unity:LeftHand/Angry_Customer_Unity:LeftFingerBase/Angry_Customer_Unity:LeftHandRing1/Angry_Customer_Unity:LeftHandRing2/Angry_Customer_Unity:LeftHandRing3
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:LeftShoulder/Angry_Customer_Unity:LeftArm/Angry_Customer_Unity:LeftForeArm/Angry_Customer_Unity:LeftHand/Angry_Customer_Unity:LeftFingerBase/Angry_Customer_Unity:LeftHandRing1/Angry_Customer_Unity:LeftHandRing2/Angry_Customer_Unity:LeftHandRing3/Angry_Customer_Unity:LeftHandRing4
+        weight: 0
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:LeftShoulder/Angry_Customer_Unity:LeftArm/Angry_Customer_Unity:LeftForeArm/Angry_Customer_Unity:LeftHand/Angry_Customer_Unity:LeftFingerBase/Angry_Customer_Unity:LeftHandThumb1
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:LeftShoulder/Angry_Customer_Unity:LeftArm/Angry_Customer_Unity:LeftForeArm/Angry_Customer_Unity:LeftHand/Angry_Customer_Unity:LeftFingerBase/Angry_Customer_Unity:LeftHandThumb1/Angry_Customer_Unity:LeftHandThumb2
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:LeftShoulder/Angry_Customer_Unity:LeftArm/Angry_Customer_Unity:LeftForeArm/Angry_Customer_Unity:LeftHand/Angry_Customer_Unity:LeftFingerBase/Angry_Customer_Unity:LeftHandThumb1/Angry_Customer_Unity:LeftHandThumb2/Angry_Customer_Unity:LeftHandThumb3
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:LeftShoulder/Angry_Customer_Unity:LeftArm/Angry_Customer_Unity:LeftForeArm/Angry_Customer_Unity:LeftHand/Angry_Customer_Unity:LeftFingerBase/Angry_Customer_Unity:LeftHandThumb1/Angry_Customer_Unity:LeftHandThumb2/Angry_Customer_Unity:LeftHandThumb3/Angry_Customer_Unity:LeftHandThumb4
+        weight: 0
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:Neck
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:Neck/Angry_Customer_Unity:Head
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:Neck/Angry_Customer_Unity:Head/Angry_Customer_Unity:BrowInnerL
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:Neck/Angry_Customer_Unity:Head/Angry_Customer_Unity:BrowInnerR
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:Neck/Angry_Customer_Unity:Head/Angry_Customer_Unity:BrowOuterL
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:Neck/Angry_Customer_Unity:Head/Angry_Customer_Unity:BrowOuterR
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:Neck/Angry_Customer_Unity:Head/Angry_Customer_Unity:CheekL
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:Neck/Angry_Customer_Unity:Head/Angry_Customer_Unity:CheekR
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:Neck/Angry_Customer_Unity:Head/Angry_Customer_Unity:HeadEnd
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:Neck/Angry_Customer_Unity:Head/Angry_Customer_Unity:Jaw
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:Neck/Angry_Customer_Unity:Head/Angry_Customer_Unity:Jaw/Angry_Customer_Unity:LipLowerL
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:Neck/Angry_Customer_Unity:Head/Angry_Customer_Unity:Jaw/Angry_Customer_Unity:LipLowerR
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:Neck/Angry_Customer_Unity:Head/Angry_Customer_Unity:Jaw/Angry_Customer_Unity:TongueR
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:Neck/Angry_Customer_Unity:Head/Angry_Customer_Unity:Jaw/Angry_Customer_Unity:TongueR/Angry_Customer_Unity:TongueF
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:Neck/Angry_Customer_Unity:Head/Angry_Customer_Unity:LeftEye
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:Neck/Angry_Customer_Unity:Head/Angry_Customer_Unity:LipCornerL
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:Neck/Angry_Customer_Unity:Head/Angry_Customer_Unity:LipCornerR
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:Neck/Angry_Customer_Unity:Head/Angry_Customer_Unity:LipUpperL
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:Neck/Angry_Customer_Unity:Head/Angry_Customer_Unity:LipUpperR
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:Neck/Angry_Customer_Unity:Head/Angry_Customer_Unity:LowerLidL
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:Neck/Angry_Customer_Unity:Head/Angry_Customer_Unity:LowerLidR
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:Neck/Angry_Customer_Unity:Head/Angry_Customer_Unity:Nostrils
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:Neck/Angry_Customer_Unity:Head/Angry_Customer_Unity:RightEye
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:Neck/Angry_Customer_Unity:Head/Lids
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:Neck/Angry_Customer_Unity:Head/Lids/Angry_Customer_Unity:UpperLidL
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:Neck/Angry_Customer_Unity:Head/Lids/Angry_Customer_Unity:UpperLidR
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:RightShoulder
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:RightShoulder/Angry_Customer_Unity:RightArm
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:RightShoulder/Angry_Customer_Unity:RightArm/Angry_Customer_Unity:RightForeArm
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:RightShoulder/Angry_Customer_Unity:RightArm/Angry_Customer_Unity:RightForeArm/Angry_Customer_Unity:RightHand
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:RightShoulder/Angry_Customer_Unity:RightArm/Angry_Customer_Unity:RightForeArm/Angry_Customer_Unity:RightHand/Angry_Customer_Unity:RightFingerBase
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:RightShoulder/Angry_Customer_Unity:RightArm/Angry_Customer_Unity:RightForeArm/Angry_Customer_Unity:RightHand/Angry_Customer_Unity:RightFingerBase/Angry_Customer_Unity:RightHandIndex1
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:RightShoulder/Angry_Customer_Unity:RightArm/Angry_Customer_Unity:RightForeArm/Angry_Customer_Unity:RightHand/Angry_Customer_Unity:RightFingerBase/Angry_Customer_Unity:RightHandIndex1/Angry_Customer_Unity:RightHandIndex2
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:RightShoulder/Angry_Customer_Unity:RightArm/Angry_Customer_Unity:RightForeArm/Angry_Customer_Unity:RightHand/Angry_Customer_Unity:RightFingerBase/Angry_Customer_Unity:RightHandIndex1/Angry_Customer_Unity:RightHandIndex2/Angry_Customer_Unity:RightHandIndex3
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:RightShoulder/Angry_Customer_Unity:RightArm/Angry_Customer_Unity:RightForeArm/Angry_Customer_Unity:RightHand/Angry_Customer_Unity:RightFingerBase/Angry_Customer_Unity:RightHandIndex1/Angry_Customer_Unity:RightHandIndex2/Angry_Customer_Unity:RightHandIndex3/Angry_Customer_Unity:RightHandIndex4
+        weight: 0
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:RightShoulder/Angry_Customer_Unity:RightArm/Angry_Customer_Unity:RightForeArm/Angry_Customer_Unity:RightHand/Angry_Customer_Unity:RightFingerBase/Angry_Customer_Unity:RightHandMiddle1
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:RightShoulder/Angry_Customer_Unity:RightArm/Angry_Customer_Unity:RightForeArm/Angry_Customer_Unity:RightHand/Angry_Customer_Unity:RightFingerBase/Angry_Customer_Unity:RightHandMiddle1/Angry_Customer_Unity:RightHandMiddle2
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:RightShoulder/Angry_Customer_Unity:RightArm/Angry_Customer_Unity:RightForeArm/Angry_Customer_Unity:RightHand/Angry_Customer_Unity:RightFingerBase/Angry_Customer_Unity:RightHandMiddle1/Angry_Customer_Unity:RightHandMiddle2/Angry_Customer_Unity:RightHandMiddle3
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:RightShoulder/Angry_Customer_Unity:RightArm/Angry_Customer_Unity:RightForeArm/Angry_Customer_Unity:RightHand/Angry_Customer_Unity:RightFingerBase/Angry_Customer_Unity:RightHandMiddle1/Angry_Customer_Unity:RightHandMiddle2/Angry_Customer_Unity:RightHandMiddle3/Angry_Customer_Unity:RightHandMiddle4
+        weight: 0
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:RightShoulder/Angry_Customer_Unity:RightArm/Angry_Customer_Unity:RightForeArm/Angry_Customer_Unity:RightHand/Angry_Customer_Unity:RightFingerBase/Angry_Customer_Unity:RightHandPinky1
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:RightShoulder/Angry_Customer_Unity:RightArm/Angry_Customer_Unity:RightForeArm/Angry_Customer_Unity:RightHand/Angry_Customer_Unity:RightFingerBase/Angry_Customer_Unity:RightHandPinky1/Angry_Customer_Unity:RightHandPinky2
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:RightShoulder/Angry_Customer_Unity:RightArm/Angry_Customer_Unity:RightForeArm/Angry_Customer_Unity:RightHand/Angry_Customer_Unity:RightFingerBase/Angry_Customer_Unity:RightHandPinky1/Angry_Customer_Unity:RightHandPinky2/Angry_Customer_Unity:RightHandPinky3
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:RightShoulder/Angry_Customer_Unity:RightArm/Angry_Customer_Unity:RightForeArm/Angry_Customer_Unity:RightHand/Angry_Customer_Unity:RightFingerBase/Angry_Customer_Unity:RightHandPinky1/Angry_Customer_Unity:RightHandPinky2/Angry_Customer_Unity:RightHandPinky3/Angry_Customer_Unity:RightHandPinky4
+        weight: 0
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:RightShoulder/Angry_Customer_Unity:RightArm/Angry_Customer_Unity:RightForeArm/Angry_Customer_Unity:RightHand/Angry_Customer_Unity:RightFingerBase/Angry_Customer_Unity:RightHandRing1
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:RightShoulder/Angry_Customer_Unity:RightArm/Angry_Customer_Unity:RightForeArm/Angry_Customer_Unity:RightHand/Angry_Customer_Unity:RightFingerBase/Angry_Customer_Unity:RightHandRing1/Angry_Customer_Unity:RightHandRing2
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:RightShoulder/Angry_Customer_Unity:RightArm/Angry_Customer_Unity:RightForeArm/Angry_Customer_Unity:RightHand/Angry_Customer_Unity:RightFingerBase/Angry_Customer_Unity:RightHandRing1/Angry_Customer_Unity:RightHandRing2/Angry_Customer_Unity:RightHandRing3
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:RightShoulder/Angry_Customer_Unity:RightArm/Angry_Customer_Unity:RightForeArm/Angry_Customer_Unity:RightHand/Angry_Customer_Unity:RightFingerBase/Angry_Customer_Unity:RightHandRing1/Angry_Customer_Unity:RightHandRing2/Angry_Customer_Unity:RightHandRing3/Angry_Customer_Unity:RightHandRing4
+        weight: 0
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:RightShoulder/Angry_Customer_Unity:RightArm/Angry_Customer_Unity:RightForeArm/Angry_Customer_Unity:RightHand/Angry_Customer_Unity:RightFingerBase/Angry_Customer_Unity:RightHandThumb1
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:RightShoulder/Angry_Customer_Unity:RightArm/Angry_Customer_Unity:RightForeArm/Angry_Customer_Unity:RightHand/Angry_Customer_Unity:RightFingerBase/Angry_Customer_Unity:RightHandThumb1/Angry_Customer_Unity:RightHandThumb2
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:RightShoulder/Angry_Customer_Unity:RightArm/Angry_Customer_Unity:RightForeArm/Angry_Customer_Unity:RightHand/Angry_Customer_Unity:RightFingerBase/Angry_Customer_Unity:RightHandThumb1/Angry_Customer_Unity:RightHandThumb2/Angry_Customer_Unity:RightHandThumb3
+        weight: 1
+      - path: Angry_Customer_Unity:master/Angry_Customer_Unity:Reference/Angry_Customer_Unity:Hips/Angry_Customer_Unity:Spine/Angry_Customer_Unity:Spine1/Angry_Customer_Unity:Spine2/Angry_Customer_Unity:RightShoulder/Angry_Customer_Unity:RightArm/Angry_Customer_Unity:RightForeArm/Angry_Customer_Unity:RightHand/Angry_Customer_Unity:RightFingerBase/Angry_Customer_Unity:RightHandThumb1/Angry_Customer_Unity:RightHandThumb2/Angry_Customer_Unity:RightHandThumb3/Angry_Customer_Unity:RightHandThumb4
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: Angry_Customer_Unity:Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Angry_Customer_Unity:LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Angry_Customer_Unity:RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Angry_Customer_Unity:LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Angry_Customer_Unity:RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Angry_Customer_Unity:LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Angry_Customer_Unity:RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Angry_Customer_Unity:Spine1
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Angry_Customer_Unity:Spine2
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Angry_Customer_Unity:Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Angry_Customer_Unity:Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Angry_Customer_Unity:LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Angry_Customer_Unity:RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Angry_Customer_Unity:LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Angry_Customer_Unity:RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Angry_Customer_Unity:LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Angry_Customer_Unity:RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Angry_Customer_Unity:LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Angry_Customer_Unity:RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Angry_Customer_Unity:LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Angry_Customer_Unity:RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Angry_Customer_Unity:LeftEye
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Angry_Customer_Unity:RightEye
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Angry_Customer_Unity:LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Angry_Customer_Unity:LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Angry_Customer_Unity:LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Angry_Customer_Unity:LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Angry_Customer_Unity:LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Angry_Customer_Unity:LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Angry_Customer_Unity:LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Angry_Customer_Unity:LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Angry_Customer_Unity:LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Angry_Customer_Unity:LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Angry_Customer_Unity:LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Angry_Customer_Unity:LeftHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Angry_Customer_Unity:LeftHandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Angry_Customer_Unity:LeftHandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Angry_Customer_Unity:LeftHandPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Angry_Customer_Unity:RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Angry_Customer_Unity:RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Angry_Customer_Unity:RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Angry_Customer_Unity:RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Angry_Customer_Unity:RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Angry_Customer_Unity:RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Angry_Customer_Unity:RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Angry_Customer_Unity:RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Angry_Customer_Unity:RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Angry_Customer_Unity:RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Angry_Customer_Unity:RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Angry_Customer_Unity:RightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Angry_Customer_Unity:RightHandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Angry_Customer_Unity:RightHandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Angry_Customer_Unity:RightHandPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: MMAngryCustomer3(Clone)
+      position: {x: -9.99999997e-07, y: 0, z: .0285560004}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:H_DDS_LowRes
+      position: {x: 9.99999997e-07, y: 0, z: -.0285560004}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:l_L_eye
+      position: {x: 9.99999997e-07, y: 0, z: -.0285560004}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:l_L_gland
+      position: {x: 9.99999997e-07, y: 0, z: -.0285560004}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:l_R_eye
+      position: {x: 9.99999997e-07, y: 0, z: -.0285560004}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:l_R_gland
+      position: {x: 9.99999997e-07, y: 0, z: -.0285560004}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:l_TeethDown
+      position: {x: 9.99999997e-07, y: 0, z: -.0285560004}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:l_TeethUp
+      position: {x: 9.99999997e-07, y: 0, z: -.0285560004}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:Lights
+      position: {x: 9.99999997e-07, y: .304799974, z: .168344796}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:spotLight2
+      position: {x: .932170093, y: 1.08293843, z: .763126075}
+      rotation: {x: -.0291235484, y: .374421746, z: .0117666777, w: .926726341}
+      scale: {x: 9.19260693, y: 9.19260693, z: 9.19260693}
+      transformModified: 1
+    - name: Angry_Customer_Unity:spotLight3
+      position: {x: -.866818607, y: 1.0580579, z: -.898855329}
+      rotation: {x: .00681818509, y: .945311189, z: .0198014472, w: -.325496763}
+      scale: {x: 9.19260693, y: 9.19260693, z: 9.19260693}
+      transformModified: 1
+    - name: Angry_Customer_Unity:spotLight4
+      position: {x: .467900455, y: 1.12377429, z: -.7910375}
+      rotation: {x: -.0156153673, y: .966671884, z: .0608178414, w: .24819915}
+      scale: {x: 9.19260693, y: 9.19260693, z: 9.19260693}
+      transformModified: 1
+    - name: Angry_Customer_Unity:master
+      position: {x: 9.99999997e-07, y: 0, z: -.0285560004}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:Reference
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:Hips
+      position: {x: -0, y: 1.02476692, z: -.059548296}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:Spine
+      position: {x: -0, y: 1.21265885e-17, z: .0546132997}
+      rotation: {x: .5, y: -.5, z: -.5, w: -.5}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:Spine1
+      position: {x: -.109226599, y: -2.42531771e-17, z: 1.7763568e-17}
+      rotation: {x: 0, y: .0433557592, z: 0, w: .999059737}
+      scale: {x: .999999762, y: .999999821, z: .999999583}
+      transformModified: 1
+    - name: Angry_Customer_Unity:Spine2
+      position: {x: -.117451474, y: -2.59814221e-17, z: -2.22044592e-17}
+      rotation: {x: -1.82730886e-09, y: .0020412805, z: 4.21072208e-08, w: .999997973}
+      scale: {x: 1.00000012, y: 1.00000024, z: 1.00000024}
+      transformModified: 1
+    - name: Angry_Customer_Unity:Neck
+      position: {x: -.296181023, y: -6.94757665e-17, z: -.114529528}
+      rotation: {x: 1.28636204e-08, y: -.258857459, z: -2.82835377e-09, w: .96591562}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Angry_Customer_Unity:Head
+      position: {x: -.0963687524, y: -2.39125292e-17, z: 6.21724896e-17}
+      rotation: {x: -4.21468407e-08, y: .214742839, z: -4.21468407e-08, w: .976670623}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:HeadEnd
+      position: {x: -.197425246, y: 7.05384258e-33, z: -3.08003911e-17}
+      rotation: {x: .707106829, y: -.707106829, z: 4.32978063e-17, w: -4.32978063e-17}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Lids
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:UpperLidR
+      position: {x: -.0627942458, y: -.0351845436, z: -.088383615}
+      rotation: {x: 6.12323426e-17, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:UpperLidL
+      position: {x: -.0627947673, y: .0351844989, z: -.0883837268}
+      rotation: {x: 0, y: 1, z: -2.06795169e-23, w: 0}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:RightEye
+      position: {x: -.0584431998, y: -.0351845436, z: -.0718968734}
+      rotation: {x: 0, y: .707106829, z: 0, w: -.707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:Jaw
+      position: {x: -.00816442259, y: 3.18502851e-17, z: -.00640680129}
+      rotation: {x: 6.12323426e-17, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:TongueR
+      position: {x: .0275532529, y: 1.18990907e-17, z: -.0260354914}
+      rotation: {x: 6.1232336e-17, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:TongueF
+      position: {x: -0, y: 6.70418513e-18, z: -.0301929656}
+      rotation: {x: 6.1232336e-17, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:LipLowerL
+      position: {x: .0215196479, y: .00966862962, z: -.0947989225}
+      rotation: {x: 0, y: 1, z: 0, w: 0}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:LipLowerR
+      position: {x: .0215229038, y: -.00966863148, z: -.0947989896}
+      rotation: {x: 6.12323426e-17, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:Nostrils
+      position: {x: -.0158664491, y: .000100452897, z: -.0991770178}
+      rotation: {x: 6.12323426e-17, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:BrowInnerL
+      position: {x: -.0793347731, y: .0261299983, z: -.0989907309}
+      rotation: {x: 0, y: 1, z: 0, w: 0}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:LipUpperL
+      position: {x: .0113252271, y: .00741451979, z: -.105883732}
+      rotation: {x: 0, y: 1, z: 0, w: 0}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:LipUpperR
+      position: {x: .0113263912, y: -.00741452212, z: -.105883703}
+      rotation: {x: 6.12323426e-17, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:LipCornerR
+      position: {x: .0163617916, y: -.0320849232, z: -.0870083198}
+      rotation: {x: 6.12323426e-17, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:LipCornerL
+      position: {x: .0163652301, y: .0320848972, z: -.0870087296}
+      rotation: {x: 0, y: 1, z: 0, w: 0}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:BrowOuterL
+      position: {x: -.0794547647, y: .0563050956, z: -.0853817239}
+      rotation: {x: 0, y: 1, z: 0, w: 0}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:BrowInnerR
+      position: {x: -.079330802, y: -.0261300486, z: -.0989905968}
+      rotation: {x: 6.12323426e-17, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:BrowOuterR
+      position: {x: -.0794577599, y: -.0563051067, z: -.0853812322}
+      rotation: {x: 6.12323426e-17, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:LowerLidR
+      position: {x: -.0527712032, y: -.0351845436, z: -.0867297947}
+      rotation: {x: 6.12323426e-17, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:LowerLidL
+      position: {x: -.052774772, y: .0351844989, z: -.0867297277}
+      rotation: {x: 0, y: 1, z: 0, w: 0}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:CheekL
+      position: {x: -.0278047714, y: .0422922969, z: -.0884147361}
+      rotation: {x: 0, y: 1, z: 0, w: 0}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:CheekR
+      position: {x: -.0278043151, y: -.0422922932, z: -.0884148031}
+      rotation: {x: 6.12323426e-17, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:LeftEye
+      position: {x: -.0584447719, y: .0351844989, z: -.0718967244}
+      rotation: {x: 0, y: .707106829, z: 0, w: -.707106829}
+      scale: {x: .999999881, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: Angry_Customer_Unity:RightShoulder
+      position: {x: -.251808435, y: -.035437502, z: -.0847402662}
+      rotation: {x: .040982943, y: .0219595805, z: -.757167339, w: -.651564181}
+      scale: {x: 1.00000024, y: 1.00000024, z: 1.00000036}
+      transformModified: 1
+    - name: Angry_Customer_Unity:RightArm
+      position: {x: -.145658299, y: 1.20385497e-16, z: 1.110223e-18}
+      rotation: {x: -.000415426184, y: -.0081158448, z: -.0992572308, w: .995028615}
+      scale: {x: .99999994, y: .999999881, z: .999999642}
+      transformModified: 1
+    - name: Angry_Customer_Unity:RightForeArm
+      position: {x: -.284330696, y: 5.68434176e-16, z: -2.22044592e-17}
+      rotation: {x: .000317013531, y: -.0406732, z: .0388666987, w: .998416245}
+      scale: {x: 1, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: Angry_Customer_Unity:RightHand
+      position: {x: -.246178627, y: -1.98951967e-15, z: 6.66133815e-16}
+      rotation: {x: .00125387998, y: -.00903823413, z: -.0717778131, w: .997378886}
+      scale: {x: 1.00000012, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: Angry_Customer_Unity:RightFingerBase
+      position: {x: -.0247838404, y: -1.33192066e-16, z: 1.49880098e-17}
+      rotation: {x: 2.54596131e-08, y: -5.54021184e-09, z: 4.05877678e-08, w: 1}
+      scale: {x: .99999994, y: .99999994, z: 1.00000012}
+      transformModified: 1
+    - name: Angry_Customer_Unity:RightHandMiddle1
+      position: {x: -.0756072178, y: .00176460564, z: -.0125109237}
+      rotation: {x: .00572052458, y: -.0278264154, z: .0606216826, w: .997756541}
+      scale: {x: .999999881, y: 1.00000012, z: 1.00000024}
+      transformModified: 1
+    - name: Angry_Customer_Unity:RightHandMiddle2
+      position: {x: -.0519874878, y: -1.08478762e-16, z: 2.02615691e-17}
+      rotation: {x: .000303944049, y: .00142402179, z: .0412760079, w: .99914676}
+      scale: {x: 1.00000012, y: 1.00000012, z: .999999821}
+      transformModified: 1
+    - name: Angry_Customer_Unity:RightHandMiddle3
+      position: {x: -.0311028454, y: -3.46944687e-20, z: 6.1062266e-18}
+      rotation: {x: .00115290913, y: .00585095072, z: -.0393426791, w: .999208033}
+      scale: {x: 1.00000036, y: 1.00000024, z: 1.00000012}
+      transformModified: 1
+    - name: Angry_Customer_Unity:RightHandMiddle4
+      position: {x: -.0268304311, y: 5.56831042e-16, z: -5.13478156e-18}
+      rotation: {x: .0775182918, y: .99690938, z: .000988819287, w: -.0127165243}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:RightHandThumb1
+      position: {x: -.00401215628, y: -.0311983004, z: -.030207824}
+      rotation: {x: .0468395986, y: -.439048022, z: .0979920924, w: .891874671}
+      scale: {x: 1.00000024, y: 1.00000024, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:RightHandThumb2
+      position: {x: -.0237283148, y: -5.3290704e-17, z: 5.4400926e-17}
+      rotation: {x: .0469223857, y: .0302474573, z: -.0188154448, w: .99826318}
+      scale: {x: .999999702, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Angry_Customer_Unity:RightHandThumb3
+      position: {x: -.0357989296, y: 4.16333634e-16, z: 8.21565049e-17}
+      rotation: {x: .00270577171, y: .00263141003, z: .0382091999, w: .999262691}
+      scale: {x: .99999994, y: 1.00000012, z: .999999881}
+      transformModified: 1
+    - name: Angry_Customer_Unity:RightHandThumb4
+      position: {x: -.0340948291, y: 3.0975222e-16, z: -7.1054272e-17}
+      rotation: {x: .214458153, y: .915952325, z: .0773220062, w: -.330242842}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:RightHandPinky1
+      position: {x: -.0684314519, y: -.008696042, z: .0366151035}
+      rotation: {x: .00552189536, y: -.0322935618, z: .0637085065, w: .997430623}
+      scale: {x: .999999821, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Angry_Customer_Unity:RightHandPinky2
+      position: {x: -.0401873477, y: -3.88291814e-16, z: 1.93178807e-16}
+      rotation: {x: .00492616044, y: .0275932252, z: .0306569692, w: .999136925}
+      scale: {x: 1.00000024, y: 1, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:RightHandPinky3
+      position: {x: -.0211675204, y: 4.06493123e-16, z: -6.80011574e-18}
+      rotation: {x: .00543570844, y: .0310423374, z: -.0156927146, w: .999380171}
+      scale: {x: .999999642, y: .999999881, z: .999999702}
+      transformModified: 1
+    - name: Angry_Customer_Unity:RightHandPinky4
+      position: {x: -.0208906457, y: 4.68531457e-16, z: -2.63677965e-18}
+      rotation: {x: .0787217394, y: .996623874, z: -.00183625158, w: .0232471004}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:RightHandIndex1
+      position: {x: -.076728873, y: -.00480834628, z: -.0382005312}
+      rotation: {x: -.000957289885, y: -.00926512107, z: .0518370979, w: .998612165}
+      scale: {x: 1.00000012, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:RightHandIndex2
+      position: {x: -.0447633192, y: -2.65518392e-17, z: 7.38298269e-17}
+      rotation: {x: -.00127542182, y: -.0130151948, z: .0377830379, w: .999200404}
+      scale: {x: 1.00000036, y: 1.00000012, z: 1.00000024}
+      transformModified: 1
+    - name: Angry_Customer_Unity:RightHandIndex3
+      position: {x: -.0258428957, y: 4.82417927e-16, z: 8.60422851e-18}
+      rotation: {x: .00594599312, y: .0412153192, z: .000208525715, w: .999132633}
+      scale: {x: .999999702, y: .99999994, z: .999999762}
+      transformModified: 1
+    - name: Angry_Customer_Unity:RightHandIndex4
+      position: {x: -.0284451805, y: -2.26751726e-16, z: 2.15105704e-17}
+      rotation: {x: .0615156926, y: .998093128, z: -.000313299533, w: .00508328993}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:RightHandRing1
+      position: {x: -.0730958134, y: -.00176460564, z: .0125109237}
+      rotation: {x: .00449781399, y: -.0260006767, z: .060488902, w: .997820079}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000024}
+      transformModified: 1
+    - name: Angry_Customer_Unity:RightHandRing2
+      position: {x: -.0487496667, y: 1.84127876e-16, z: 1.16573414e-17}
+      rotation: {x: -.000385480147, y: -.0011820388, z: .0400539674, w: .999196827}
+      scale: {x: .99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:RightHandRing3
+      position: {x: -.0296435747, y: -1.35124109e-16, z: -9.15933949e-18}
+      rotation: {x: .00973131973, y: .0355441719, z: .0144950291, w: .999215662}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Angry_Customer_Unity:RightHandRing4
+      position: {x: -.024891004, y: 7.3492369e-16, z: -2.6090241e-17}
+      rotation: {x: .140394136, y: .990030408, z: -.00159672752, w: .0112597924}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:LeftShoulder
+      position: {x: -.251805454, y: .0354374982, z: -.0847399905}
+      rotation: {x: .757167339, y: .651564181, z: .0409829579, w: .0219595619}
+      scale: {x: 1.00000036, y: 1.00000036, z: 1.00000024}
+      transformModified: 1
+    - name: Angry_Customer_Unity:LeftArm
+      position: {x: .145657405, y: -7.92135415e-06, z: 3.78384826e-08}
+      rotation: {x: -.000415425864, y: -.00811587088, z: -.0992571339, w: .995028615}
+      scale: {x: .999999821, y: .999999642, z: .99999994}
+      transformModified: 1
+    - name: Angry_Customer_Unity:LeftForeArm
+      position: {x: .284330368, y: 3.80739766e-06, z: -7.30709786e-08}
+      rotation: {x: .000316948601, y: -.0406709723, z: .0388655327, w: .998416424}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:LeftHand
+      position: {x: .246178433, y: 2.93149606e-06, z: 6.65325572e-08}
+      rotation: {x: .00125411642, y: -.00903827976, z: -.0717396736, w: .997381628}
+      scale: {x: .999999881, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Angry_Customer_Unity:LeftFingerBase
+      position: {x: .0247838069, y: 1.65037704e-06, z: -2.80672303e-08}
+      rotation: {x: -1.54428079e-08, y: -1.05974367e-08, z: 7.11445054e-08, w: 1}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Angry_Customer_Unity:LeftHandMiddle1
+      position: {x: .0756083503, y: -.00177224423, z: .0125109432}
+      rotation: {x: .00572502567, y: -.0278372262, z: .0605570599, w: .997760117}
+      scale: {x: 1, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Angry_Customer_Unity:LeftHandMiddle2
+      position: {x: .0519881137, y: 3.97586655e-06, z: 3.34967609e-08}
+      rotation: {x: .000304020563, y: .00142467674, z: .0413016491, w: .999145687}
+      scale: {x: 1.00000012, y: 1.00000012, z: .999999881}
+      transformModified: 1
+    - name: Angry_Customer_Unity:LeftHandMiddle3
+      position: {x: .0311034024, y: 7.49048297e-07, z: -5.08391516e-08}
+      rotation: {x: .00115290924, y: .00585095072, z: -.0393426642, w: .999208033}
+      scale: {x: 1.00000036, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:LeftHandMiddle4
+      position: {x: .0268305168, y: 2.49994991e-06, z: 5.02451343e-08}
+      rotation: {x: .0775182918, y: .99690938, z: .000988819287, w: -.0127165243}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:LeftHandThumb1
+      position: {x: .00401181821, y: .0311996602, z: .0302077997}
+      rotation: {x: .59757185, y: .379849046, z: .241061702, w: -.663710713}
+      scale: {x: 1.00000024, y: 1.00000024, z: 1.00000024}
+      transformModified: 1
+    - name: Angry_Customer_Unity:LeftHandThumb2
+      position: {x: .023724379, y: -4.97858025e-07, z: -8.23184928e-06}
+      rotation: {x: .0469068885, y: .0189910643, z: .0302557945, w: .998260319}
+      scale: {x: .999999762, y: .999999642, z: .999999821}
+      transformModified: 1
+    - name: Angry_Customer_Unity:LeftHandThumb3
+      position: {x: .0357996412, y: 9.54597184e-08, z: 2.67595306e-06}
+      rotation: {x: .00270613842, y: -.0381965935, z: .00263375067, w: .999263108}
+      scale: {x: 1, y: .99999994, z: .999999881}
+      transformModified: 1
+    - name: Angry_Customer_Unity:LeftHandThumb4
+      position: {x: .0340969488, y: -1.91078342e-07, z: 3.46296952e-06}
+      rotation: {x: -.0818721354, y: .593001187, z: .702351034, w: -.385161787}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:LeftHandPinky1
+      position: {x: .0684320852, y: .00869265758, z: -.0366151296}
+      rotation: {x: .00552760065, y: -.0323055871, z: .063631393, w: .997435153}
+      scale: {x: 1, y: 1, z: 1.00000024}
+      transformModified: 1
+    - name: Angry_Customer_Unity:LeftHandPinky2
+      position: {x: .0401877016, y: 4.09698077e-06, z: 6.79794283e-08}
+      rotation: {x: .00492542237, y: .0277020577, z: .0308092162, w: .999129236}
+      scale: {x: 1.00000024, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Angry_Customer_Unity:LeftHandPinky3
+      position: {x: .0211664364, y: -7.90291597e-06, z: 1.77625612e-08}
+      rotation: {x: .0054357918, y: .0310423244, z: -.015692737, w: .999380112}
+      scale: {x: .999999702, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:LeftHandPinky4
+      position: {x: .0208905414, y: 2.44559658e-07, z: -3.1609332e-08}
+      rotation: {x: .0787217394, y: .996623874, z: -.00183625158, w: .0232471004}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:LeftHandIndex1
+      position: {x: .0767297372, y: .00480553834, z: .0382005051}
+      rotation: {x: -.000957258337, y: -.00927301776, z: .0518160649, w: .998613179}
+      scale: {x: 1.00000024, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:LeftHandIndex2
+      position: {x: .0447628908, y: -2.35800925e-07, z: 2.23387921e-08}
+      rotation: {x: -.00127520575, y: -.0130181257, z: .0378011204, w: .999199748}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000024}
+      transformModified: 1
+    - name: Angry_Customer_Unity:LeftHandIndex3
+      position: {x: .0258426089, y: -1.00871011e-06, z: 5.07794589e-08}
+      rotation: {x: .00594547484, y: .0412132815, z: .00021295849, w: .999132633}
+      scale: {x: .999999821, y: .999999881, z: .999999821}
+      transformModified: 1
+    - name: Angry_Customer_Unity:LeftHandIndex4
+      position: {x: .0284453724, y: -3.1143752e-06, z: -5.18394216e-08}
+      rotation: {x: .0615156926, y: .998093128, z: -.000313299533, w: .00508328993}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:LeftHandRing1
+      position: {x: .0730967075, y: .00176216953, z: -.0125109619}
+      rotation: {x: .00449330639, y: -.025998177, z: .0605003908, w: .997819483}
+      scale: {x: 1.00000012, y: 1.00000024, z: .99999994}
+      transformModified: 1
+    - name: Angry_Customer_Unity:LeftHandRing2
+      position: {x: .0487486459, y: -4.1207004e-06, z: 2.07294466e-08}
+      rotation: {x: -.000385513587, y: -.00117899093, z: .0398787782, w: .999203801}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:LeftHandRing3
+      position: {x: .0296458658, y: 7.42688462e-06, z: -1.68608274e-08}
+      rotation: {x: .00973135978, y: .0355441608, z: .01449503, w: .999215662}
+      scale: {x: .99999994, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:LeftHandRing4
+      position: {x: .0248904694, y: -1.76673979e-07, z: -3.50164586e-09}
+      rotation: {x: .140394136, y: .990030408, z: -.00159672752, w: .0112597924}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:RightUpLeg
+      position: {x: .0905273482, y: -.10789299, z: -.01106086}
+      rotation: {x: .497418374, y: .504440069, z: .502568424, w: -.495520234}
+      scale: {x: .99999994, y: .999999762, z: .999999702}
+      transformModified: 1
+    - name: Angry_Customer_Unity:RightLeg
+      position: {x: -.446947157, y: -1.42108544e-16, z: -1.68753898e-16}
+      rotation: {x: -.000343074877, y: .0211418793, z: .0197395012, w: .999581575}
+      scale: {x: .99999994, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Angry_Customer_Unity:RightFoot
+      position: {x: -.460540146, y: -1.59872109e-16, z: 7.1054272e-17}
+      rotation: {x: -.589359581, y: -.396894962, z: -.407980025, w: .573308051}
+      scale: {x: 1.00000012, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:RightToeBase
+      position: {x: -.182660729, y: 4.44089183e-17, z: -3.80251387e-17}
+      rotation: {x: 1.05340149e-07, y: -4.66713352e-08, z: -.0623406433, w: .998054922}
+      scale: {x: .999999821, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:RightToeEnd
+      position: {x: -.0874335766, y: -3.01980666e-16, z: 7.1054272e-17}
+      rotation: {x: -.0958391652, y: -.696743309, z: -.0968728289, w: .704257965}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:LeftUpLeg
+      position: {x: -.0905274004, y: -.107892998, z: -.0110568898}
+      rotation: {x: .495520234, y: .502568424, z: -.504440069, w: .497418374}
+      scale: {x: .99999994, y: .999999762, z: .99999994}
+      transformModified: 1
+    - name: Angry_Customer_Unity:LeftLeg
+      position: {x: .446951389, y: 5.68365337e-08, z: -5.20684758e-08}
+      rotation: {x: -.000343075721, y: .0211418811, z: .0197394155, w: .999581575}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:LeftFoot
+      position: {x: .460540354, y: 6.64677735e-09, z: 7.40405497e-08}
+      rotation: {x: .589359522, y: .396894991, z: .407979935, w: -.573308051}
+      scale: {x: .999999881, y: 1.00000036, z: 1.00000012}
+      transformModified: 1
+    - name: Angry_Customer_Unity:LeftToeBase
+      position: {x: .182660848, y: -5.34076037e-07, z: 2.05535446e-08}
+      rotation: {x: 9.58997788e-08, y: 4.01697768e-08, z: -.0623406842, w: .998054981}
+      scale: {x: 1, y: .999999821, z: 1}
+      transformModified: 1
+    - name: Angry_Customer_Unity:LeftToeEnd
+      position: {x: .0874330401, y: 9.93138443e-08, z: 1.77858457e-08}
+      rotation: {x: -.0958391652, y: -.696743309, z: -.0968728289, w: .704257965}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,1891 @@
+fileFormatVersion: 2
+guid: cb598868421ecdd4fba16b0a8f178f7f
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Box1
+    100002: Box2
+    100004: Box3
+    100006: Box4
+    100008: Foreman5_Unity1:BrowInnerL
+    100010: Foreman5_Unity1:BrowInnerR
+    100012: Foreman5_Unity1:BrowOuterL
+    100014: Foreman5_Unity1:BrowOuterR
+    100016: Foreman5_Unity1:CheekL
+    100018: Foreman5_Unity1:CheekR
+    100020: Foreman5_Unity1:H_DDS_LowRes
+    100022: Foreman5_Unity1:Head
+    100024: Foreman5_Unity1:HeadEnd
+    100026: Foreman5_Unity1:Hips
+    100028: Foreman5_Unity1:Jaw
+    100030: Foreman5_Unity1:l_L_eye
+    100032: Foreman5_Unity1:l_L_gland
+    100034: Foreman5_Unity1:l_R_eye
+    100036: Foreman5_Unity1:l_R_gland
+    100038: Foreman5_Unity1:l_TeethDown
+    100040: Foreman5_Unity1:l_TeethUp
+    100042: Foreman5_Unity1:LeftArm
+    100044: Foreman5_Unity1:LeftEye
+    100046: Foreman5_Unity1:LeftFingerBase
+    100048: Foreman5_Unity1:LeftFoot
+    100050: Foreman5_Unity1:LeftForeArm
+    100052: Foreman5_Unity1:LeftHand
+    100054: Foreman5_Unity1:LeftHandIndex1
+    100056: Foreman5_Unity1:LeftHandIndex2
+    100058: Foreman5_Unity1:LeftHandIndex3
+    100060: Foreman5_Unity1:LeftHandIndex4
+    100062: Foreman5_Unity1:LeftHandMiddle1
+    100064: Foreman5_Unity1:LeftHandMiddle2
+    100066: Foreman5_Unity1:LeftHandMiddle3
+    100068: Foreman5_Unity1:LeftHandMiddle4
+    100070: Foreman5_Unity1:LeftHandPinky1
+    100072: Foreman5_Unity1:LeftHandPinky2
+    100074: Foreman5_Unity1:LeftHandPinky3
+    100076: Foreman5_Unity1:LeftHandPinky4
+    100078: Foreman5_Unity1:LeftHandRing1
+    100080: Foreman5_Unity1:LeftHandRing2
+    100082: Foreman5_Unity1:LeftHandRing3
+    100084: Foreman5_Unity1:LeftHandRing4
+    100086: Foreman5_Unity1:LeftHandThumb1
+    100088: Foreman5_Unity1:LeftHandThumb2
+    100090: Foreman5_Unity1:LeftHandThumb3
+    100092: Foreman5_Unity1:LeftHandThumb4
+    100094: Foreman5_Unity1:LeftLeg
+    100096: Foreman5_Unity1:LeftShoulder
+    100098: Foreman5_Unity1:LeftToeBase
+    100100: Foreman5_Unity1:LeftToeEnd
+    100102: Foreman5_Unity1:LeftUpLeg
+    100104: Foreman5_Unity1:LipCornerL
+    100106: Foreman5_Unity1:LipCornerR
+    100108: Foreman5_Unity1:LipLowerL
+    100110: Foreman5_Unity1:LipLowerR
+    100112: Foreman5_Unity1:LipUpperL
+    100114: Foreman5_Unity1:LipUpperR
+    100116: Foreman5_Unity1:LowerLidL
+    100118: Foreman5_Unity1:LowerLidR
+    100120: Foreman5_Unity1:master
+    100122: Foreman5_Unity1:Neck
+    100124: Foreman5_Unity1:Nostrils
+    100126: Foreman5_Unity1:Reference
+    100128: Foreman5_Unity1:RightArm
+    100130: Foreman5_Unity1:RightEye
+    100132: Foreman5_Unity1:RightFingerBase
+    100134: Foreman5_Unity1:RightFoot
+    100136: Foreman5_Unity1:RightForeArm
+    100138: Foreman5_Unity1:RightHand
+    100140: Foreman5_Unity1:RightHandIndex1
+    100142: Foreman5_Unity1:RightHandIndex2
+    100144: Foreman5_Unity1:RightHandIndex3
+    100146: Foreman5_Unity1:RightHandIndex4
+    100148: Foreman5_Unity1:RightHandMiddle1
+    100150: Foreman5_Unity1:RightHandMiddle2
+    100152: Foreman5_Unity1:RightHandMiddle3
+    100154: Foreman5_Unity1:RightHandMiddle4
+    100156: Foreman5_Unity1:RightHandPinky1
+    100158: Foreman5_Unity1:RightHandPinky2
+    100160: Foreman5_Unity1:RightHandPinky3
+    100162: Foreman5_Unity1:RightHandPinky4
+    100164: Foreman5_Unity1:RightHandRing1
+    100166: Foreman5_Unity1:RightHandRing2
+    100168: Foreman5_Unity1:RightHandRing3
+    100170: Foreman5_Unity1:RightHandRing4
+    100172: Foreman5_Unity1:RightHandThumb1
+    100174: Foreman5_Unity1:RightHandThumb2
+    100176: Foreman5_Unity1:RightHandThumb3
+    100178: Foreman5_Unity1:RightHandThumb4
+    100180: Foreman5_Unity1:RightLeg
+    100182: Foreman5_Unity1:RightShoulder
+    100184: Foreman5_Unity1:RightToeBase
+    100186: Foreman5_Unity1:RightToeEnd
+    100188: Foreman5_Unity1:RightUpLeg
+    100190: Foreman5_Unity1:Spine
+    100192: Foreman5_Unity1:Spine1
+    100194: Foreman5_Unity1:Spine2
+    100196: Foreman5_Unity1:TongueF
+    100198: Foreman5_Unity1:TongueR
+    100200: Foreman5_Unity1:UpperLidL
+    100202: Foreman5_Unity1:UpperLidR
+    100204: ForemanShelving
+    100206: magicBoxFinal3:belt
+    100208: magicBoxFinal3:magicBox
+    100210: magicBoxFinal3:magicBoxFinal
+    100212: magicBoxFinal3:monitor
+    100214: magicBoxFinal3:pCube6
+    100216: magicBoxFinal3:pCube8
+    100218: magicBoxFinal3:pCube9
+    100220: magicBoxFinal3:polySurface8476
+    100222: magicBoxFinal3:polySurface8477
+    100224: magicBoxFinal3:polySurface8478
+    100226: magicBoxFinal3:polySurface8479
+    100228: magicBoxFinal3:polySurface8483
+    100230: magicBoxFinal3:polySurface8484
+    100232: magicBoxFinal3:pSphere1
+    100234: magicBoxFinal3:ShelvingTutorialBoxes
+    100236: magicBoxFinal3:transform21
+    100238: magicBoxFinal3:Tutorial
+    100240: MagicBoxTutorial
+    100242: Monitor1
+    100244: Monitor2
+    100246: Monitor3
+    100248: pasted__pPlane1
+    100250: pasted__pPlane2
+    100252: pCube11
+    100254: pCube2
+    100256: pCube6
+    100258: pCylinder1
+    100260: pCylinder2
+    100262: pCylinder3
+    100264: pCylinder4
+    100266: polySurface1
+    100268: polySurface2
+    100270: polySurface3
+    100272: pPlane1
+    100274: pPlane2
+    100276: shelf
+    100278: Shelf:pCylinder1
+    100280: Shelf:pCylinder2
+    100282: Shelf:pCylinder3
+    100284: Shelf:pCylinder4
+    100286: Shelf:polySurface1
+    100288: Shelf:polySurface2
+    100290: Shelf:polySurface3
+    100292: Shelf:shelf
+    100294: ShelfATutorial
+    100296: ShelfBLabels
+    100298: shelfBLabels:pasted__pPlane1
+    100300: shelfBLabels:pasted__pPlane2
+    100302: shelfBLabels:pPlane1
+    100304: shelfBLabels:pPlane2
+    100306: shelfBLabels:ShelfBLabels
+    100308: ShelfBTutorial
+    100310: ShelvesTutorial
+    100312: //RootNode
+    100314: TutorialShelves
+    400000: Box1
+    400002: Box2
+    400004: Box3
+    400006: Box4
+    400008: Foreman5_Unity1:BrowInnerL
+    400010: Foreman5_Unity1:BrowInnerR
+    400012: Foreman5_Unity1:BrowOuterL
+    400014: Foreman5_Unity1:BrowOuterR
+    400016: Foreman5_Unity1:CheekL
+    400018: Foreman5_Unity1:CheekR
+    400020: Foreman5_Unity1:H_DDS_LowRes
+    400022: Foreman5_Unity1:Head
+    400024: Foreman5_Unity1:HeadEnd
+    400026: Foreman5_Unity1:Hips
+    400028: Foreman5_Unity1:Jaw
+    400030: Foreman5_Unity1:l_L_eye
+    400032: Foreman5_Unity1:l_L_gland
+    400034: Foreman5_Unity1:l_R_eye
+    400036: Foreman5_Unity1:l_R_gland
+    400038: Foreman5_Unity1:l_TeethDown
+    400040: Foreman5_Unity1:l_TeethUp
+    400042: Foreman5_Unity1:LeftArm
+    400044: Foreman5_Unity1:LeftEye
+    400046: Foreman5_Unity1:LeftFingerBase
+    400048: Foreman5_Unity1:LeftFoot
+    400050: Foreman5_Unity1:LeftForeArm
+    400052: Foreman5_Unity1:LeftHand
+    400054: Foreman5_Unity1:LeftHandIndex1
+    400056: Foreman5_Unity1:LeftHandIndex2
+    400058: Foreman5_Unity1:LeftHandIndex3
+    400060: Foreman5_Unity1:LeftHandIndex4
+    400062: Foreman5_Unity1:LeftHandMiddle1
+    400064: Foreman5_Unity1:LeftHandMiddle2
+    400066: Foreman5_Unity1:LeftHandMiddle3
+    400068: Foreman5_Unity1:LeftHandMiddle4
+    400070: Foreman5_Unity1:LeftHandPinky1
+    400072: Foreman5_Unity1:LeftHandPinky2
+    400074: Foreman5_Unity1:LeftHandPinky3
+    400076: Foreman5_Unity1:LeftHandPinky4
+    400078: Foreman5_Unity1:LeftHandRing1
+    400080: Foreman5_Unity1:LeftHandRing2
+    400082: Foreman5_Unity1:LeftHandRing3
+    400084: Foreman5_Unity1:LeftHandRing4
+    400086: Foreman5_Unity1:LeftHandThumb1
+    400088: Foreman5_Unity1:LeftHandThumb2
+    400090: Foreman5_Unity1:LeftHandThumb3
+    400092: Foreman5_Unity1:LeftHandThumb4
+    400094: Foreman5_Unity1:LeftLeg
+    400096: Foreman5_Unity1:LeftShoulder
+    400098: Foreman5_Unity1:LeftToeBase
+    400100: Foreman5_Unity1:LeftToeEnd
+    400102: Foreman5_Unity1:LeftUpLeg
+    400104: Foreman5_Unity1:LipCornerL
+    400106: Foreman5_Unity1:LipCornerR
+    400108: Foreman5_Unity1:LipLowerL
+    400110: Foreman5_Unity1:LipLowerR
+    400112: Foreman5_Unity1:LipUpperL
+    400114: Foreman5_Unity1:LipUpperR
+    400116: Foreman5_Unity1:LowerLidL
+    400118: Foreman5_Unity1:LowerLidR
+    400120: Foreman5_Unity1:master
+    400122: Foreman5_Unity1:Neck
+    400124: Foreman5_Unity1:Nostrils
+    400126: Foreman5_Unity1:Reference
+    400128: Foreman5_Unity1:RightArm
+    400130: Foreman5_Unity1:RightEye
+    400132: Foreman5_Unity1:RightFingerBase
+    400134: Foreman5_Unity1:RightFoot
+    400136: Foreman5_Unity1:RightForeArm
+    400138: Foreman5_Unity1:RightHand
+    400140: Foreman5_Unity1:RightHandIndex1
+    400142: Foreman5_Unity1:RightHandIndex2
+    400144: Foreman5_Unity1:RightHandIndex3
+    400146: Foreman5_Unity1:RightHandIndex4
+    400148: Foreman5_Unity1:RightHandMiddle1
+    400150: Foreman5_Unity1:RightHandMiddle2
+    400152: Foreman5_Unity1:RightHandMiddle3
+    400154: Foreman5_Unity1:RightHandMiddle4
+    400156: Foreman5_Unity1:RightHandPinky1
+    400158: Foreman5_Unity1:RightHandPinky2
+    400160: Foreman5_Unity1:RightHandPinky3
+    400162: Foreman5_Unity1:RightHandPinky4
+    400164: Foreman5_Unity1:RightHandRing1
+    400166: Foreman5_Unity1:RightHandRing2
+    400168: Foreman5_Unity1:RightHandRing3
+    400170: Foreman5_Unity1:RightHandRing4
+    400172: Foreman5_Unity1:RightHandThumb1
+    400174: Foreman5_Unity1:RightHandThumb2
+    400176: Foreman5_Unity1:RightHandThumb3
+    400178: Foreman5_Unity1:RightHandThumb4
+    400180: Foreman5_Unity1:RightLeg
+    400182: Foreman5_Unity1:RightShoulder
+    400184: Foreman5_Unity1:RightToeBase
+    400186: Foreman5_Unity1:RightToeEnd
+    400188: Foreman5_Unity1:RightUpLeg
+    400190: Foreman5_Unity1:Spine
+    400192: Foreman5_Unity1:Spine1
+    400194: Foreman5_Unity1:Spine2
+    400196: Foreman5_Unity1:TongueF
+    400198: Foreman5_Unity1:TongueR
+    400200: Foreman5_Unity1:UpperLidL
+    400202: Foreman5_Unity1:UpperLidR
+    400204: ForemanShelving
+    400206: magicBoxFinal3:belt
+    400208: magicBoxFinal3:magicBox
+    400210: magicBoxFinal3:magicBoxFinal
+    400212: magicBoxFinal3:monitor
+    400214: magicBoxFinal3:pCube6
+    400216: magicBoxFinal3:pCube8
+    400218: magicBoxFinal3:pCube9
+    400220: magicBoxFinal3:polySurface8476
+    400222: magicBoxFinal3:polySurface8477
+    400224: magicBoxFinal3:polySurface8478
+    400226: magicBoxFinal3:polySurface8479
+    400228: magicBoxFinal3:polySurface8483
+    400230: magicBoxFinal3:polySurface8484
+    400232: magicBoxFinal3:pSphere1
+    400234: magicBoxFinal3:ShelvingTutorialBoxes
+    400236: magicBoxFinal3:transform21
+    400238: magicBoxFinal3:Tutorial
+    400240: MagicBoxTutorial
+    400242: Monitor1
+    400244: Monitor2
+    400246: Monitor3
+    400248: pasted__pPlane1
+    400250: pasted__pPlane2
+    400252: pCube11
+    400254: pCube2
+    400256: pCube6
+    400258: pCylinder1
+    400260: pCylinder2
+    400262: pCylinder3
+    400264: pCylinder4
+    400266: polySurface1
+    400268: polySurface2
+    400270: polySurface3
+    400272: pPlane1
+    400274: pPlane2
+    400276: shelf
+    400278: Shelf:pCylinder1
+    400280: Shelf:pCylinder2
+    400282: Shelf:pCylinder3
+    400284: Shelf:pCylinder4
+    400286: Shelf:polySurface1
+    400288: Shelf:polySurface2
+    400290: Shelf:polySurface3
+    400292: Shelf:shelf
+    400294: ShelfATutorial
+    400296: ShelfBLabels
+    400298: shelfBLabels:pasted__pPlane1
+    400300: shelfBLabels:pasted__pPlane2
+    400302: shelfBLabels:pPlane1
+    400304: shelfBLabels:pPlane2
+    400306: shelfBLabels:ShelfBLabels
+    400308: ShelfBTutorial
+    400310: ShelvesTutorial
+    400312: //RootNode
+    400314: TutorialShelves
+    2300000: Box1
+    2300002: Box2
+    2300004: Box3
+    2300006: Box4
+    2300008: magicBoxFinal3:belt
+    2300010: magicBoxFinal3:pCube6
+    2300012: magicBoxFinal3:pCube8
+    2300014: magicBoxFinal3:pCube9
+    2300016: magicBoxFinal3:polySurface8476
+    2300018: magicBoxFinal3:polySurface8477
+    2300020: magicBoxFinal3:polySurface8478
+    2300022: magicBoxFinal3:polySurface8479
+    2300024: magicBoxFinal3:polySurface8483
+    2300026: magicBoxFinal3:polySurface8484
+    2300028: magicBoxFinal3:pSphere1
+    2300030: Monitor1
+    2300032: Monitor2
+    2300034: Monitor3
+    2300036: pasted__pPlane1
+    2300038: pasted__pPlane2
+    2300040: pCube11
+    2300042: pCube2
+    2300044: pCube6
+    2300046: pCylinder1
+    2300048: pCylinder2
+    2300050: pCylinder3
+    2300052: pCylinder4
+    2300054: polySurface1
+    2300056: polySurface2
+    2300058: polySurface3
+    2300060: pPlane1
+    2300062: pPlane2
+    2300064: Shelf:pCylinder1
+    2300066: Shelf:pCylinder2
+    2300068: Shelf:pCylinder3
+    2300070: Shelf:pCylinder4
+    2300072: Shelf:polySurface1
+    2300074: Shelf:polySurface2
+    2300076: Shelf:polySurface3
+    2300078: shelfBLabels:pasted__pPlane1
+    2300080: shelfBLabels:pasted__pPlane2
+    2300082: shelfBLabels:pPlane1
+    2300084: shelfBLabels:pPlane2
+    3300000: Box1
+    3300002: Box2
+    3300004: Box3
+    3300006: Box4
+    3300008: magicBoxFinal3:belt
+    3300010: magicBoxFinal3:pCube6
+    3300012: magicBoxFinal3:pCube8
+    3300014: magicBoxFinal3:pCube9
+    3300016: magicBoxFinal3:polySurface8476
+    3300018: magicBoxFinal3:polySurface8477
+    3300020: magicBoxFinal3:polySurface8478
+    3300022: magicBoxFinal3:polySurface8479
+    3300024: magicBoxFinal3:polySurface8483
+    3300026: magicBoxFinal3:polySurface8484
+    3300028: magicBoxFinal3:pSphere1
+    3300030: Monitor1
+    3300032: Monitor2
+    3300034: Monitor3
+    3300036: pasted__pPlane1
+    3300038: pasted__pPlane2
+    3300040: pCube11
+    3300042: pCube2
+    3300044: pCube6
+    3300046: pCylinder1
+    3300048: pCylinder2
+    3300050: pCylinder3
+    3300052: pCylinder4
+    3300054: polySurface1
+    3300056: polySurface2
+    3300058: polySurface3
+    3300060: pPlane1
+    3300062: pPlane2
+    3300064: Shelf:pCylinder1
+    3300066: Shelf:pCylinder2
+    3300068: Shelf:pCylinder3
+    3300070: Shelf:pCylinder4
+    3300072: Shelf:polySurface1
+    3300074: Shelf:polySurface2
+    3300076: Shelf:polySurface3
+    3300078: shelfBLabels:pasted__pPlane1
+    3300080: shelfBLabels:pasted__pPlane2
+    3300082: shelfBLabels:pPlane1
+    3300084: shelfBLabels:pPlane2
+    4300000: magicBoxFinal3:polySurface8476
+    4300002: magicBoxFinal3:polySurface8477
+    4300004: magicBoxFinal3:polySurface8479
+    4300006: magicBoxFinal3:polySurface8478
+    4300008: magicBoxFinal3:pCube8
+    4300010: magicBoxFinal3:pCube6
+    4300012: magicBoxFinal3:pCube9
+    4300014: magicBoxFinal3:polySurface8484
+    4300016: magicBoxFinal3:belt
+    4300018: magicBoxFinal3:polySurface8483
+    4300020: Monitor1
+    4300022: magicBoxFinal3:pSphere1
+    4300024: Monitor2
+    4300026: Monitor3
+    4300028: pCube2
+    4300030: pCube6
+    4300032: pCube11
+    4300034: Box1
+    4300036: Box2
+    4300038: Box3
+    4300040: Box4
+    4300042: Shelf:pCylinder1
+    4300044: Shelf:polySurface1
+    4300046: Shelf:polySurface2
+    4300048: Shelf:polySurface3
+    4300050: Shelf:pCylinder2
+    4300052: Shelf:pCylinder3
+    4300054: Shelf:pCylinder4
+    4300056: pCylinder1
+    4300058: polySurface1
+    4300060: polySurface2
+    4300062: polySurface3
+    4300064: pCylinder2
+    4300066: pCylinder3
+    4300068: pCylinder4
+    4300070: shelfBLabels:pPlane1
+    4300072: shelfBLabels:pPlane2
+    4300074: shelfBLabels:pasted__pPlane1
+    4300076: shelfBLabels:pasted__pPlane2
+    4300078: pPlane1
+    4300080: pPlane2
+    4300082: pasted__pPlane1
+    4300084: pasted__pPlane2
+    4300086: Foreman5_Unity1:l_TeethUp
+    4300088: Foreman5_Unity1:l_L_gland
+    4300090: Foreman5_Unity1:l_L_eye
+    4300092: Foreman5_Unity1:l_R_gland
+    4300094: Foreman5_Unity1:l_R_eye
+    4300096: Foreman5_Unity1:H_DDS_LowRes
+    4300098: Foreman5_Unity1:l_TeethDown
+    7400000: Talking1
+    7400002: Tutorial
+    7400004: Talking2
+    7400006: Idle
+    9500000: //RootNode
+    13700000: Foreman5_Unity1:H_DDS_LowRes
+    13700002: Foreman5_Unity1:l_L_eye
+    13700004: Foreman5_Unity1:l_L_gland
+    13700006: Foreman5_Unity1:l_R_eye
+    13700008: Foreman5_Unity1:l_R_gland
+    13700010: Foreman5_Unity1:l_TeethDown
+    13700012: Foreman5_Unity1:l_TeethUp
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Talking1
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 96
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ForemanShelving
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:H_DDS_LowRes
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:l_L_eye
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:l_L_gland
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:l_R_eye
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:l_R_gland
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:l_TeethDown
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:l_TeethUp
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:LeftUpLeg
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:LeftUpLeg/Foreman5_Unity1:LeftLeg
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:LeftUpLeg/Foreman5_Unity1:LeftLeg/Foreman5_Unity1:LeftFoot
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:LeftUpLeg/Foreman5_Unity1:LeftLeg/Foreman5_Unity1:LeftFoot/Foreman5_Unity1:LeftToeBase
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:LeftUpLeg/Foreman5_Unity1:LeftLeg/Foreman5_Unity1:LeftFoot/Foreman5_Unity1:LeftToeBase/Foreman5_Unity1:LeftToeEnd
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:RightUpLeg
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:RightUpLeg/Foreman5_Unity1:RightLeg
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:RightUpLeg/Foreman5_Unity1:RightLeg/Foreman5_Unity1:RightFoot
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:RightUpLeg/Foreman5_Unity1:RightLeg/Foreman5_Unity1:RightFoot/Foreman5_Unity1:RightToeBase
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:RightUpLeg/Foreman5_Unity1:RightLeg/Foreman5_Unity1:RightFoot/Foreman5_Unity1:RightToeBase/Foreman5_Unity1:RightToeEnd
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandIndex1
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandIndex1/Foreman5_Unity1:LeftHandIndex2
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandIndex1/Foreman5_Unity1:LeftHandIndex2/Foreman5_Unity1:LeftHandIndex3
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandIndex1/Foreman5_Unity1:LeftHandIndex2/Foreman5_Unity1:LeftHandIndex3/Foreman5_Unity1:LeftHandIndex4
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandMiddle1
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandMiddle1/Foreman5_Unity1:LeftHandMiddle2
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandMiddle1/Foreman5_Unity1:LeftHandMiddle2/Foreman5_Unity1:LeftHandMiddle3
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandMiddle1/Foreman5_Unity1:LeftHandMiddle2/Foreman5_Unity1:LeftHandMiddle3/Foreman5_Unity1:LeftHandMiddle4
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandPinky1
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandPinky1/Foreman5_Unity1:LeftHandPinky2
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandPinky1/Foreman5_Unity1:LeftHandPinky2/Foreman5_Unity1:LeftHandPinky3
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandPinky1/Foreman5_Unity1:LeftHandPinky2/Foreman5_Unity1:LeftHandPinky3/Foreman5_Unity1:LeftHandPinky4
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandRing1
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandRing1/Foreman5_Unity1:LeftHandRing2
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandRing1/Foreman5_Unity1:LeftHandRing2/Foreman5_Unity1:LeftHandRing3
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandRing1/Foreman5_Unity1:LeftHandRing2/Foreman5_Unity1:LeftHandRing3/Foreman5_Unity1:LeftHandRing4
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandThumb1
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandThumb1/Foreman5_Unity1:LeftHandThumb2
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandThumb1/Foreman5_Unity1:LeftHandThumb2/Foreman5_Unity1:LeftHandThumb3
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandThumb1/Foreman5_Unity1:LeftHandThumb2/Foreman5_Unity1:LeftHandThumb3/Foreman5_Unity1:LeftHandThumb4
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:BrowInnerL
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:BrowInnerR
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:BrowOuterL
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:BrowOuterR
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:CheekL
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:CheekR
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:HeadEnd
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:Jaw
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:Jaw/Foreman5_Unity1:LipLowerL
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:Jaw/Foreman5_Unity1:LipLowerR
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:Jaw/Foreman5_Unity1:TongueR
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:Jaw/Foreman5_Unity1:TongueR/Foreman5_Unity1:TongueF
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:LeftEye
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:LipCornerL
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:LipCornerR
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:LipUpperL
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:LipUpperR
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:LowerLidL
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:LowerLidR
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:Nostrils
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:RightEye
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:UpperLidL
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:UpperLidR
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandIndex1
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandIndex1/Foreman5_Unity1:RightHandIndex2
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandIndex1/Foreman5_Unity1:RightHandIndex2/Foreman5_Unity1:RightHandIndex3
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandIndex1/Foreman5_Unity1:RightHandIndex2/Foreman5_Unity1:RightHandIndex3/Foreman5_Unity1:RightHandIndex4
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandMiddle1
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandMiddle1/Foreman5_Unity1:RightHandMiddle2
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandMiddle1/Foreman5_Unity1:RightHandMiddle2/Foreman5_Unity1:RightHandMiddle3
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandMiddle1/Foreman5_Unity1:RightHandMiddle2/Foreman5_Unity1:RightHandMiddle3/Foreman5_Unity1:RightHandMiddle4
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandPinky1
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandPinky1/Foreman5_Unity1:RightHandPinky2
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandPinky1/Foreman5_Unity1:RightHandPinky2/Foreman5_Unity1:RightHandPinky3
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandPinky1/Foreman5_Unity1:RightHandPinky2/Foreman5_Unity1:RightHandPinky3/Foreman5_Unity1:RightHandPinky4
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandRing1
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandRing1/Foreman5_Unity1:RightHandRing2
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandRing1/Foreman5_Unity1:RightHandRing2/Foreman5_Unity1:RightHandRing3
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandRing1/Foreman5_Unity1:RightHandRing2/Foreman5_Unity1:RightHandRing3/Foreman5_Unity1:RightHandRing4
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandThumb1
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandThumb1/Foreman5_Unity1:RightHandThumb2
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandThumb1/Foreman5_Unity1:RightHandThumb2/Foreman5_Unity1:RightHandThumb3
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandThumb1/Foreman5_Unity1:RightHandThumb2/Foreman5_Unity1:RightHandThumb3/Foreman5_Unity1:RightHandThumb4
+        weight: 1
+      - path: magicBoxFinal3:Tutorial
+        weight: 1
+      - path: MagicBoxTutorial
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:magicBox
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:magicBox/magicBoxFinal3:belt
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:magicBox/magicBoxFinal3:pCube6
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:magicBox/magicBoxFinal3:pCube8
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:magicBox/magicBoxFinal3:pCube9
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:magicBox/magicBoxFinal3:polySurface8476
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:magicBox/magicBoxFinal3:polySurface8477
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:magicBox/magicBoxFinal3:polySurface8478
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:magicBox/magicBoxFinal3:polySurface8479
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:magicBox/magicBoxFinal3:polySurface8483
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:magicBox/magicBoxFinal3:polySurface8484
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:magicBox/magicBoxFinal3:transform21
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:monitor
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:monitor/magicBoxFinal3:pSphere1
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:monitor/Monitor1
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:monitor/Monitor2
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:monitor/Monitor3
+        weight: 1
+      - path: TutorialShelves
+        weight: 1
+      - path: TutorialShelves/magicBoxFinal3:ShelvingTutorialBoxes
+        weight: 1
+      - path: TutorialShelves/magicBoxFinal3:ShelvingTutorialBoxes/Box1
+        weight: 1
+      - path: TutorialShelves/magicBoxFinal3:ShelvingTutorialBoxes/Box2
+        weight: 1
+      - path: TutorialShelves/magicBoxFinal3:ShelvingTutorialBoxes/Box3
+        weight: 1
+      - path: TutorialShelves/magicBoxFinal3:ShelvingTutorialBoxes/Box4
+        weight: 1
+      - path: TutorialShelves/magicBoxFinal3:ShelvingTutorialBoxes/pCube2
+        weight: 1
+      - path: TutorialShelves/magicBoxFinal3:ShelvingTutorialBoxes/pCube6
+        weight: 1
+      - path: TutorialShelves/magicBoxFinal3:ShelvingTutorialBoxes/pCube11
+        weight: 1
+      - path: TutorialShelves/ShelfBLabels
+        weight: 1
+      - path: TutorialShelves/ShelfBLabels/pasted__pPlane1
+        weight: 1
+      - path: TutorialShelves/ShelfBLabels/pasted__pPlane2
+        weight: 1
+      - path: TutorialShelves/ShelfBLabels/pPlane1
+        weight: 1
+      - path: TutorialShelves/ShelfBLabels/pPlane2
+        weight: 1
+      - path: TutorialShelves/shelfBLabels:ShelfBLabels
+        weight: 1
+      - path: TutorialShelves/shelfBLabels:ShelfBLabels/shelfBLabels:pasted__pPlane1
+        weight: 1
+      - path: TutorialShelves/shelfBLabels:ShelfBLabels/shelfBLabels:pasted__pPlane2
+        weight: 1
+      - path: TutorialShelves/shelfBLabels:ShelfBLabels/shelfBLabels:pPlane1
+        weight: 1
+      - path: TutorialShelves/shelfBLabels:ShelfBLabels/shelfBLabels:pPlane2
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfATutorial
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfATutorial/Shelf:shelf
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfATutorial/Shelf:shelf/Shelf:pCylinder1
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfATutorial/Shelf:shelf/Shelf:pCylinder2
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfATutorial/Shelf:shelf/Shelf:pCylinder3
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfATutorial/Shelf:shelf/Shelf:pCylinder4
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfATutorial/Shelf:shelf/Shelf:polySurface1
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfATutorial/Shelf:shelf/Shelf:polySurface2
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfATutorial/Shelf:shelf/Shelf:polySurface3
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfBTutorial
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfBTutorial/shelf
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfBTutorial/shelf/pCylinder1
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfBTutorial/shelf/pCylinder2
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfBTutorial/shelf/pCylinder3
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfBTutorial/shelf/pCylinder4
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfBTutorial/shelf/polySurface1
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfBTutorial/shelf/polySurface2
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfBTutorial/shelf/polySurface3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Tutorial
+      takeName: Take 001
+      firstFrame: 97
+      lastFrame: 504
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ForemanShelving
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:H_DDS_LowRes
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:l_L_eye
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:l_L_gland
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:l_R_eye
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:l_R_gland
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:l_TeethDown
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:l_TeethUp
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:LeftUpLeg
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:LeftUpLeg/Foreman5_Unity1:LeftLeg
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:LeftUpLeg/Foreman5_Unity1:LeftLeg/Foreman5_Unity1:LeftFoot
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:LeftUpLeg/Foreman5_Unity1:LeftLeg/Foreman5_Unity1:LeftFoot/Foreman5_Unity1:LeftToeBase
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:LeftUpLeg/Foreman5_Unity1:LeftLeg/Foreman5_Unity1:LeftFoot/Foreman5_Unity1:LeftToeBase/Foreman5_Unity1:LeftToeEnd
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:RightUpLeg
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:RightUpLeg/Foreman5_Unity1:RightLeg
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:RightUpLeg/Foreman5_Unity1:RightLeg/Foreman5_Unity1:RightFoot
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:RightUpLeg/Foreman5_Unity1:RightLeg/Foreman5_Unity1:RightFoot/Foreman5_Unity1:RightToeBase
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:RightUpLeg/Foreman5_Unity1:RightLeg/Foreman5_Unity1:RightFoot/Foreman5_Unity1:RightToeBase/Foreman5_Unity1:RightToeEnd
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandIndex1
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandIndex1/Foreman5_Unity1:LeftHandIndex2
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandIndex1/Foreman5_Unity1:LeftHandIndex2/Foreman5_Unity1:LeftHandIndex3
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandIndex1/Foreman5_Unity1:LeftHandIndex2/Foreman5_Unity1:LeftHandIndex3/Foreman5_Unity1:LeftHandIndex4
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandMiddle1
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandMiddle1/Foreman5_Unity1:LeftHandMiddle2
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandMiddle1/Foreman5_Unity1:LeftHandMiddle2/Foreman5_Unity1:LeftHandMiddle3
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandMiddle1/Foreman5_Unity1:LeftHandMiddle2/Foreman5_Unity1:LeftHandMiddle3/Foreman5_Unity1:LeftHandMiddle4
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandPinky1
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandPinky1/Foreman5_Unity1:LeftHandPinky2
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandPinky1/Foreman5_Unity1:LeftHandPinky2/Foreman5_Unity1:LeftHandPinky3
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandPinky1/Foreman5_Unity1:LeftHandPinky2/Foreman5_Unity1:LeftHandPinky3/Foreman5_Unity1:LeftHandPinky4
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandRing1
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandRing1/Foreman5_Unity1:LeftHandRing2
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandRing1/Foreman5_Unity1:LeftHandRing2/Foreman5_Unity1:LeftHandRing3
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandRing1/Foreman5_Unity1:LeftHandRing2/Foreman5_Unity1:LeftHandRing3/Foreman5_Unity1:LeftHandRing4
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandThumb1
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandThumb1/Foreman5_Unity1:LeftHandThumb2
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandThumb1/Foreman5_Unity1:LeftHandThumb2/Foreman5_Unity1:LeftHandThumb3
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandThumb1/Foreman5_Unity1:LeftHandThumb2/Foreman5_Unity1:LeftHandThumb3/Foreman5_Unity1:LeftHandThumb4
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:BrowInnerL
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:BrowInnerR
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:BrowOuterL
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:BrowOuterR
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:CheekL
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:CheekR
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:HeadEnd
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:Jaw
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:Jaw/Foreman5_Unity1:LipLowerL
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:Jaw/Foreman5_Unity1:LipLowerR
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:Jaw/Foreman5_Unity1:TongueR
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:Jaw/Foreman5_Unity1:TongueR/Foreman5_Unity1:TongueF
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:LeftEye
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:LipCornerL
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:LipCornerR
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:LipUpperL
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:LipUpperR
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:LowerLidL
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:LowerLidR
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:Nostrils
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:RightEye
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:UpperLidL
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:UpperLidR
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandIndex1
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandIndex1/Foreman5_Unity1:RightHandIndex2
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandIndex1/Foreman5_Unity1:RightHandIndex2/Foreman5_Unity1:RightHandIndex3
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandIndex1/Foreman5_Unity1:RightHandIndex2/Foreman5_Unity1:RightHandIndex3/Foreman5_Unity1:RightHandIndex4
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandMiddle1
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandMiddle1/Foreman5_Unity1:RightHandMiddle2
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandMiddle1/Foreman5_Unity1:RightHandMiddle2/Foreman5_Unity1:RightHandMiddle3
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandMiddle1/Foreman5_Unity1:RightHandMiddle2/Foreman5_Unity1:RightHandMiddle3/Foreman5_Unity1:RightHandMiddle4
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandPinky1
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandPinky1/Foreman5_Unity1:RightHandPinky2
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandPinky1/Foreman5_Unity1:RightHandPinky2/Foreman5_Unity1:RightHandPinky3
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandPinky1/Foreman5_Unity1:RightHandPinky2/Foreman5_Unity1:RightHandPinky3/Foreman5_Unity1:RightHandPinky4
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandRing1
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandRing1/Foreman5_Unity1:RightHandRing2
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandRing1/Foreman5_Unity1:RightHandRing2/Foreman5_Unity1:RightHandRing3
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandRing1/Foreman5_Unity1:RightHandRing2/Foreman5_Unity1:RightHandRing3/Foreman5_Unity1:RightHandRing4
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandThumb1
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandThumb1/Foreman5_Unity1:RightHandThumb2
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandThumb1/Foreman5_Unity1:RightHandThumb2/Foreman5_Unity1:RightHandThumb3
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandThumb1/Foreman5_Unity1:RightHandThumb2/Foreman5_Unity1:RightHandThumb3/Foreman5_Unity1:RightHandThumb4
+        weight: 1
+      - path: magicBoxFinal3:Tutorial
+        weight: 1
+      - path: MagicBoxTutorial
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:magicBox
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:magicBox/magicBoxFinal3:belt
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:magicBox/magicBoxFinal3:pCube6
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:magicBox/magicBoxFinal3:pCube8
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:magicBox/magicBoxFinal3:pCube9
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:magicBox/magicBoxFinal3:polySurface8476
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:magicBox/magicBoxFinal3:polySurface8477
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:magicBox/magicBoxFinal3:polySurface8478
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:magicBox/magicBoxFinal3:polySurface8479
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:magicBox/magicBoxFinal3:polySurface8483
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:magicBox/magicBoxFinal3:polySurface8484
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:magicBox/magicBoxFinal3:transform21
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:monitor
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:monitor/magicBoxFinal3:pSphere1
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:monitor/Monitor1
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:monitor/Monitor2
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:monitor/Monitor3
+        weight: 1
+      - path: TutorialShelves
+        weight: 1
+      - path: TutorialShelves/magicBoxFinal3:ShelvingTutorialBoxes
+        weight: 1
+      - path: TutorialShelves/magicBoxFinal3:ShelvingTutorialBoxes/Box1
+        weight: 1
+      - path: TutorialShelves/magicBoxFinal3:ShelvingTutorialBoxes/Box2
+        weight: 1
+      - path: TutorialShelves/magicBoxFinal3:ShelvingTutorialBoxes/Box3
+        weight: 1
+      - path: TutorialShelves/magicBoxFinal3:ShelvingTutorialBoxes/Box4
+        weight: 1
+      - path: TutorialShelves/magicBoxFinal3:ShelvingTutorialBoxes/pCube2
+        weight: 1
+      - path: TutorialShelves/magicBoxFinal3:ShelvingTutorialBoxes/pCube6
+        weight: 1
+      - path: TutorialShelves/magicBoxFinal3:ShelvingTutorialBoxes/pCube11
+        weight: 1
+      - path: TutorialShelves/ShelfBLabels
+        weight: 1
+      - path: TutorialShelves/ShelfBLabels/pasted__pPlane1
+        weight: 1
+      - path: TutorialShelves/ShelfBLabels/pasted__pPlane2
+        weight: 1
+      - path: TutorialShelves/ShelfBLabels/pPlane1
+        weight: 1
+      - path: TutorialShelves/ShelfBLabels/pPlane2
+        weight: 1
+      - path: TutorialShelves/shelfBLabels:ShelfBLabels
+        weight: 1
+      - path: TutorialShelves/shelfBLabels:ShelfBLabels/shelfBLabels:pasted__pPlane1
+        weight: 1
+      - path: TutorialShelves/shelfBLabels:ShelfBLabels/shelfBLabels:pasted__pPlane2
+        weight: 1
+      - path: TutorialShelves/shelfBLabels:ShelfBLabels/shelfBLabels:pPlane1
+        weight: 1
+      - path: TutorialShelves/shelfBLabels:ShelfBLabels/shelfBLabels:pPlane2
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfATutorial
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfATutorial/Shelf:shelf
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfATutorial/Shelf:shelf/Shelf:pCylinder1
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfATutorial/Shelf:shelf/Shelf:pCylinder2
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfATutorial/Shelf:shelf/Shelf:pCylinder3
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfATutorial/Shelf:shelf/Shelf:pCylinder4
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfATutorial/Shelf:shelf/Shelf:polySurface1
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfATutorial/Shelf:shelf/Shelf:polySurface2
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfATutorial/Shelf:shelf/Shelf:polySurface3
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfBTutorial
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfBTutorial/shelf
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfBTutorial/shelf/pCylinder1
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfBTutorial/shelf/pCylinder2
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfBTutorial/shelf/pCylinder3
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfBTutorial/shelf/pCylinder4
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfBTutorial/shelf/polySurface1
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfBTutorial/shelf/polySurface2
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfBTutorial/shelf/polySurface3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Talking2
+      takeName: Take 001
+      firstFrame: 505
+      lastFrame: 600
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ForemanShelving
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:H_DDS_LowRes
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:l_L_eye
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:l_L_gland
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:l_R_eye
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:l_R_gland
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:l_TeethDown
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:l_TeethUp
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:LeftUpLeg
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:LeftUpLeg/Foreman5_Unity1:LeftLeg
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:LeftUpLeg/Foreman5_Unity1:LeftLeg/Foreman5_Unity1:LeftFoot
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:LeftUpLeg/Foreman5_Unity1:LeftLeg/Foreman5_Unity1:LeftFoot/Foreman5_Unity1:LeftToeBase
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:LeftUpLeg/Foreman5_Unity1:LeftLeg/Foreman5_Unity1:LeftFoot/Foreman5_Unity1:LeftToeBase/Foreman5_Unity1:LeftToeEnd
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:RightUpLeg
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:RightUpLeg/Foreman5_Unity1:RightLeg
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:RightUpLeg/Foreman5_Unity1:RightLeg/Foreman5_Unity1:RightFoot
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:RightUpLeg/Foreman5_Unity1:RightLeg/Foreman5_Unity1:RightFoot/Foreman5_Unity1:RightToeBase
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:RightUpLeg/Foreman5_Unity1:RightLeg/Foreman5_Unity1:RightFoot/Foreman5_Unity1:RightToeBase/Foreman5_Unity1:RightToeEnd
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandIndex1
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandIndex1/Foreman5_Unity1:LeftHandIndex2
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandIndex1/Foreman5_Unity1:LeftHandIndex2/Foreman5_Unity1:LeftHandIndex3
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandIndex1/Foreman5_Unity1:LeftHandIndex2/Foreman5_Unity1:LeftHandIndex3/Foreman5_Unity1:LeftHandIndex4
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandMiddle1
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandMiddle1/Foreman5_Unity1:LeftHandMiddle2
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandMiddle1/Foreman5_Unity1:LeftHandMiddle2/Foreman5_Unity1:LeftHandMiddle3
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandMiddle1/Foreman5_Unity1:LeftHandMiddle2/Foreman5_Unity1:LeftHandMiddle3/Foreman5_Unity1:LeftHandMiddle4
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandPinky1
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandPinky1/Foreman5_Unity1:LeftHandPinky2
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandPinky1/Foreman5_Unity1:LeftHandPinky2/Foreman5_Unity1:LeftHandPinky3
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandPinky1/Foreman5_Unity1:LeftHandPinky2/Foreman5_Unity1:LeftHandPinky3/Foreman5_Unity1:LeftHandPinky4
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandRing1
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandRing1/Foreman5_Unity1:LeftHandRing2
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandRing1/Foreman5_Unity1:LeftHandRing2/Foreman5_Unity1:LeftHandRing3
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandRing1/Foreman5_Unity1:LeftHandRing2/Foreman5_Unity1:LeftHandRing3/Foreman5_Unity1:LeftHandRing4
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandThumb1
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandThumb1/Foreman5_Unity1:LeftHandThumb2
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandThumb1/Foreman5_Unity1:LeftHandThumb2/Foreman5_Unity1:LeftHandThumb3
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandThumb1/Foreman5_Unity1:LeftHandThumb2/Foreman5_Unity1:LeftHandThumb3/Foreman5_Unity1:LeftHandThumb4
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:BrowInnerL
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:BrowInnerR
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:BrowOuterL
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:BrowOuterR
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:CheekL
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:CheekR
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:HeadEnd
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:Jaw
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:Jaw/Foreman5_Unity1:LipLowerL
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:Jaw/Foreman5_Unity1:LipLowerR
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:Jaw/Foreman5_Unity1:TongueR
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:Jaw/Foreman5_Unity1:TongueR/Foreman5_Unity1:TongueF
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:LeftEye
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:LipCornerL
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:LipCornerR
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:LipUpperL
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:LipUpperR
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:LowerLidL
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:LowerLidR
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:Nostrils
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:RightEye
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:UpperLidL
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:UpperLidR
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandIndex1
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandIndex1/Foreman5_Unity1:RightHandIndex2
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandIndex1/Foreman5_Unity1:RightHandIndex2/Foreman5_Unity1:RightHandIndex3
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandIndex1/Foreman5_Unity1:RightHandIndex2/Foreman5_Unity1:RightHandIndex3/Foreman5_Unity1:RightHandIndex4
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandMiddle1
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandMiddle1/Foreman5_Unity1:RightHandMiddle2
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandMiddle1/Foreman5_Unity1:RightHandMiddle2/Foreman5_Unity1:RightHandMiddle3
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandMiddle1/Foreman5_Unity1:RightHandMiddle2/Foreman5_Unity1:RightHandMiddle3/Foreman5_Unity1:RightHandMiddle4
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandPinky1
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandPinky1/Foreman5_Unity1:RightHandPinky2
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandPinky1/Foreman5_Unity1:RightHandPinky2/Foreman5_Unity1:RightHandPinky3
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandPinky1/Foreman5_Unity1:RightHandPinky2/Foreman5_Unity1:RightHandPinky3/Foreman5_Unity1:RightHandPinky4
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandRing1
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandRing1/Foreman5_Unity1:RightHandRing2
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandRing1/Foreman5_Unity1:RightHandRing2/Foreman5_Unity1:RightHandRing3
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandRing1/Foreman5_Unity1:RightHandRing2/Foreman5_Unity1:RightHandRing3/Foreman5_Unity1:RightHandRing4
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandThumb1
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandThumb1/Foreman5_Unity1:RightHandThumb2
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandThumb1/Foreman5_Unity1:RightHandThumb2/Foreman5_Unity1:RightHandThumb3
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandThumb1/Foreman5_Unity1:RightHandThumb2/Foreman5_Unity1:RightHandThumb3/Foreman5_Unity1:RightHandThumb4
+        weight: 1
+      - path: magicBoxFinal3:Tutorial
+        weight: 1
+      - path: MagicBoxTutorial
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:magicBox
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:magicBox/magicBoxFinal3:belt
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:magicBox/magicBoxFinal3:pCube6
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:magicBox/magicBoxFinal3:pCube8
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:magicBox/magicBoxFinal3:pCube9
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:magicBox/magicBoxFinal3:polySurface8476
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:magicBox/magicBoxFinal3:polySurface8477
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:magicBox/magicBoxFinal3:polySurface8478
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:magicBox/magicBoxFinal3:polySurface8479
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:magicBox/magicBoxFinal3:polySurface8483
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:magicBox/magicBoxFinal3:polySurface8484
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:magicBox/magicBoxFinal3:transform21
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:monitor
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:monitor/magicBoxFinal3:pSphere1
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:monitor/Monitor1
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:monitor/Monitor2
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:monitor/Monitor3
+        weight: 1
+      - path: TutorialShelves
+        weight: 1
+      - path: TutorialShelves/magicBoxFinal3:ShelvingTutorialBoxes
+        weight: 1
+      - path: TutorialShelves/magicBoxFinal3:ShelvingTutorialBoxes/Box1
+        weight: 1
+      - path: TutorialShelves/magicBoxFinal3:ShelvingTutorialBoxes/Box2
+        weight: 1
+      - path: TutorialShelves/magicBoxFinal3:ShelvingTutorialBoxes/Box3
+        weight: 1
+      - path: TutorialShelves/magicBoxFinal3:ShelvingTutorialBoxes/Box4
+        weight: 1
+      - path: TutorialShelves/magicBoxFinal3:ShelvingTutorialBoxes/pCube2
+        weight: 1
+      - path: TutorialShelves/magicBoxFinal3:ShelvingTutorialBoxes/pCube6
+        weight: 1
+      - path: TutorialShelves/magicBoxFinal3:ShelvingTutorialBoxes/pCube11
+        weight: 1
+      - path: TutorialShelves/ShelfBLabels
+        weight: 1
+      - path: TutorialShelves/ShelfBLabels/pasted__pPlane1
+        weight: 1
+      - path: TutorialShelves/ShelfBLabels/pasted__pPlane2
+        weight: 1
+      - path: TutorialShelves/ShelfBLabels/pPlane1
+        weight: 1
+      - path: TutorialShelves/ShelfBLabels/pPlane2
+        weight: 1
+      - path: TutorialShelves/shelfBLabels:ShelfBLabels
+        weight: 1
+      - path: TutorialShelves/shelfBLabels:ShelfBLabels/shelfBLabels:pasted__pPlane1
+        weight: 1
+      - path: TutorialShelves/shelfBLabels:ShelfBLabels/shelfBLabels:pasted__pPlane2
+        weight: 1
+      - path: TutorialShelves/shelfBLabels:ShelfBLabels/shelfBLabels:pPlane1
+        weight: 1
+      - path: TutorialShelves/shelfBLabels:ShelfBLabels/shelfBLabels:pPlane2
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfATutorial
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfATutorial/Shelf:shelf
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfATutorial/Shelf:shelf/Shelf:pCylinder1
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfATutorial/Shelf:shelf/Shelf:pCylinder2
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfATutorial/Shelf:shelf/Shelf:pCylinder3
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfATutorial/Shelf:shelf/Shelf:pCylinder4
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfATutorial/Shelf:shelf/Shelf:polySurface1
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfATutorial/Shelf:shelf/Shelf:polySurface2
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfATutorial/Shelf:shelf/Shelf:polySurface3
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfBTutorial
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfBTutorial/shelf
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfBTutorial/shelf/pCylinder1
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfBTutorial/shelf/pCylinder2
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfBTutorial/shelf/pCylinder3
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfBTutorial/shelf/pCylinder4
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfBTutorial/shelf/polySurface1
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfBTutorial/shelf/polySurface2
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfBTutorial/shelf/polySurface3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 601
+      lastFrame: 699
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ForemanShelving
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:H_DDS_LowRes
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:l_L_eye
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:l_L_gland
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:l_R_eye
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:l_R_gland
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:l_TeethDown
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:l_TeethUp
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:LeftUpLeg
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:LeftUpLeg/Foreman5_Unity1:LeftLeg
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:LeftUpLeg/Foreman5_Unity1:LeftLeg/Foreman5_Unity1:LeftFoot
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:LeftUpLeg/Foreman5_Unity1:LeftLeg/Foreman5_Unity1:LeftFoot/Foreman5_Unity1:LeftToeBase
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:LeftUpLeg/Foreman5_Unity1:LeftLeg/Foreman5_Unity1:LeftFoot/Foreman5_Unity1:LeftToeBase/Foreman5_Unity1:LeftToeEnd
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:RightUpLeg
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:RightUpLeg/Foreman5_Unity1:RightLeg
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:RightUpLeg/Foreman5_Unity1:RightLeg/Foreman5_Unity1:RightFoot
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:RightUpLeg/Foreman5_Unity1:RightLeg/Foreman5_Unity1:RightFoot/Foreman5_Unity1:RightToeBase
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:RightUpLeg/Foreman5_Unity1:RightLeg/Foreman5_Unity1:RightFoot/Foreman5_Unity1:RightToeBase/Foreman5_Unity1:RightToeEnd
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandIndex1
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandIndex1/Foreman5_Unity1:LeftHandIndex2
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandIndex1/Foreman5_Unity1:LeftHandIndex2/Foreman5_Unity1:LeftHandIndex3
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandIndex1/Foreman5_Unity1:LeftHandIndex2/Foreman5_Unity1:LeftHandIndex3/Foreman5_Unity1:LeftHandIndex4
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandMiddle1
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandMiddle1/Foreman5_Unity1:LeftHandMiddle2
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandMiddle1/Foreman5_Unity1:LeftHandMiddle2/Foreman5_Unity1:LeftHandMiddle3
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandMiddle1/Foreman5_Unity1:LeftHandMiddle2/Foreman5_Unity1:LeftHandMiddle3/Foreman5_Unity1:LeftHandMiddle4
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandPinky1
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandPinky1/Foreman5_Unity1:LeftHandPinky2
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandPinky1/Foreman5_Unity1:LeftHandPinky2/Foreman5_Unity1:LeftHandPinky3
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandPinky1/Foreman5_Unity1:LeftHandPinky2/Foreman5_Unity1:LeftHandPinky3/Foreman5_Unity1:LeftHandPinky4
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandRing1
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandRing1/Foreman5_Unity1:LeftHandRing2
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandRing1/Foreman5_Unity1:LeftHandRing2/Foreman5_Unity1:LeftHandRing3
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandRing1/Foreman5_Unity1:LeftHandRing2/Foreman5_Unity1:LeftHandRing3/Foreman5_Unity1:LeftHandRing4
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandThumb1
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandThumb1/Foreman5_Unity1:LeftHandThumb2
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandThumb1/Foreman5_Unity1:LeftHandThumb2/Foreman5_Unity1:LeftHandThumb3
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:LeftShoulder/Foreman5_Unity1:LeftArm/Foreman5_Unity1:LeftForeArm/Foreman5_Unity1:LeftHand/Foreman5_Unity1:LeftFingerBase/Foreman5_Unity1:LeftHandThumb1/Foreman5_Unity1:LeftHandThumb2/Foreman5_Unity1:LeftHandThumb3/Foreman5_Unity1:LeftHandThumb4
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:BrowInnerL
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:BrowInnerR
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:BrowOuterL
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:BrowOuterR
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:CheekL
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:CheekR
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:HeadEnd
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:Jaw
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:Jaw/Foreman5_Unity1:LipLowerL
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:Jaw/Foreman5_Unity1:LipLowerR
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:Jaw/Foreman5_Unity1:TongueR
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:Jaw/Foreman5_Unity1:TongueR/Foreman5_Unity1:TongueF
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:LeftEye
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:LipCornerL
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:LipCornerR
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:LipUpperL
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:LipUpperR
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:LowerLidL
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:LowerLidR
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:Nostrils
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:RightEye
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:UpperLidL
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:Neck/Foreman5_Unity1:Head/Foreman5_Unity1:UpperLidR
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandIndex1
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandIndex1/Foreman5_Unity1:RightHandIndex2
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandIndex1/Foreman5_Unity1:RightHandIndex2/Foreman5_Unity1:RightHandIndex3
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandIndex1/Foreman5_Unity1:RightHandIndex2/Foreman5_Unity1:RightHandIndex3/Foreman5_Unity1:RightHandIndex4
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandMiddle1
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandMiddle1/Foreman5_Unity1:RightHandMiddle2
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandMiddle1/Foreman5_Unity1:RightHandMiddle2/Foreman5_Unity1:RightHandMiddle3
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandMiddle1/Foreman5_Unity1:RightHandMiddle2/Foreman5_Unity1:RightHandMiddle3/Foreman5_Unity1:RightHandMiddle4
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandPinky1
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandPinky1/Foreman5_Unity1:RightHandPinky2
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandPinky1/Foreman5_Unity1:RightHandPinky2/Foreman5_Unity1:RightHandPinky3
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandPinky1/Foreman5_Unity1:RightHandPinky2/Foreman5_Unity1:RightHandPinky3/Foreman5_Unity1:RightHandPinky4
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandRing1
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandRing1/Foreman5_Unity1:RightHandRing2
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandRing1/Foreman5_Unity1:RightHandRing2/Foreman5_Unity1:RightHandRing3
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandRing1/Foreman5_Unity1:RightHandRing2/Foreman5_Unity1:RightHandRing3/Foreman5_Unity1:RightHandRing4
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandThumb1
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandThumb1/Foreman5_Unity1:RightHandThumb2
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandThumb1/Foreman5_Unity1:RightHandThumb2/Foreman5_Unity1:RightHandThumb3
+        weight: 1
+      - path: ForemanShelving/Foreman5_Unity1:master/Foreman5_Unity1:Reference/Foreman5_Unity1:Hips/Foreman5_Unity1:Spine/Foreman5_Unity1:Spine1/Foreman5_Unity1:Spine2/Foreman5_Unity1:RightShoulder/Foreman5_Unity1:RightArm/Foreman5_Unity1:RightForeArm/Foreman5_Unity1:RightHand/Foreman5_Unity1:RightFingerBase/Foreman5_Unity1:RightHandThumb1/Foreman5_Unity1:RightHandThumb2/Foreman5_Unity1:RightHandThumb3/Foreman5_Unity1:RightHandThumb4
+        weight: 1
+      - path: magicBoxFinal3:Tutorial
+        weight: 1
+      - path: MagicBoxTutorial
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:magicBox
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:magicBox/magicBoxFinal3:belt
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:magicBox/magicBoxFinal3:pCube6
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:magicBox/magicBoxFinal3:pCube8
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:magicBox/magicBoxFinal3:pCube9
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:magicBox/magicBoxFinal3:polySurface8476
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:magicBox/magicBoxFinal3:polySurface8477
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:magicBox/magicBoxFinal3:polySurface8478
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:magicBox/magicBoxFinal3:polySurface8479
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:magicBox/magicBoxFinal3:polySurface8483
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:magicBox/magicBoxFinal3:polySurface8484
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:magicBox/magicBoxFinal3:transform21
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:monitor
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:monitor/magicBoxFinal3:pSphere1
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:monitor/Monitor1
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:monitor/Monitor2
+        weight: 1
+      - path: MagicBoxTutorial/magicBoxFinal3:magicBoxFinal/magicBoxFinal3:monitor/Monitor3
+        weight: 1
+      - path: TutorialShelves
+        weight: 1
+      - path: TutorialShelves/magicBoxFinal3:ShelvingTutorialBoxes
+        weight: 1
+      - path: TutorialShelves/magicBoxFinal3:ShelvingTutorialBoxes/Box1
+        weight: 1
+      - path: TutorialShelves/magicBoxFinal3:ShelvingTutorialBoxes/Box2
+        weight: 1
+      - path: TutorialShelves/magicBoxFinal3:ShelvingTutorialBoxes/Box3
+        weight: 1
+      - path: TutorialShelves/magicBoxFinal3:ShelvingTutorialBoxes/Box4
+        weight: 1
+      - path: TutorialShelves/magicBoxFinal3:ShelvingTutorialBoxes/pCube2
+        weight: 1
+      - path: TutorialShelves/magicBoxFinal3:ShelvingTutorialBoxes/pCube6
+        weight: 1
+      - path: TutorialShelves/magicBoxFinal3:ShelvingTutorialBoxes/pCube11
+        weight: 1
+      - path: TutorialShelves/ShelfBLabels
+        weight: 1
+      - path: TutorialShelves/ShelfBLabels/pasted__pPlane1
+        weight: 1
+      - path: TutorialShelves/ShelfBLabels/pasted__pPlane2
+        weight: 1
+      - path: TutorialShelves/ShelfBLabels/pPlane1
+        weight: 1
+      - path: TutorialShelves/ShelfBLabels/pPlane2
+        weight: 1
+      - path: TutorialShelves/shelfBLabels:ShelfBLabels
+        weight: 1
+      - path: TutorialShelves/shelfBLabels:ShelfBLabels/shelfBLabels:pasted__pPlane1
+        weight: 1
+      - path: TutorialShelves/shelfBLabels:ShelfBLabels/shelfBLabels:pasted__pPlane2
+        weight: 1
+      - path: TutorialShelves/shelfBLabels:ShelfBLabels/shelfBLabels:pPlane1
+        weight: 1
+      - path: TutorialShelves/shelfBLabels:ShelfBLabels/shelfBLabels:pPlane2
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfATutorial
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfATutorial/Shelf:shelf
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfATutorial/Shelf:shelf/Shelf:pCylinder1
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfATutorial/Shelf:shelf/Shelf:pCylinder2
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfATutorial/Shelf:shelf/Shelf:pCylinder3
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfATutorial/Shelf:shelf/Shelf:pCylinder4
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfATutorial/Shelf:shelf/Shelf:polySurface1
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfATutorial/Shelf:shelf/Shelf:polySurface2
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfATutorial/Shelf:shelf/Shelf:polySurface3
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfBTutorial
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfBTutorial/shelf
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfBTutorial/shelf/pCylinder1
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfBTutorial/shelf/pCylinder2
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfBTutorial/shelf/pCylinder3
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfBTutorial/shelf/pCylinder4
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfBTutorial/shelf/polySurface1
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfBTutorial/shelf/polySurface2
+        weight: 1
+      - path: TutorialShelves/ShelvesTutorial/ShelfBTutorial/shelf/polySurface3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

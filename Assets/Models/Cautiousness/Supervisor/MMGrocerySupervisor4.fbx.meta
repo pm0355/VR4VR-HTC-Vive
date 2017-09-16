@@ -1,0 +1,1200 @@
+fileFormatVersion: 2
+guid: c3aed674156ad31429981fe26ceb2dc0
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: GrocerySupervisor_Unity:BrowInnerL
+    100002: GrocerySupervisor_Unity:BrowInnerR
+    100004: GrocerySupervisor_Unity:BrowOuterL
+    100006: GrocerySupervisor_Unity:BrowOuterR
+    100008: GrocerySupervisor_Unity:CheekL
+    100010: GrocerySupervisor_Unity:CheekR
+    100012: GrocerySupervisor_Unity:H_DDS_LowRes
+    100014: GrocerySupervisor_Unity:Head
+    100016: GrocerySupervisor_Unity:HeadEnd
+    100018: GrocerySupervisor_Unity:Hips
+    100020: GrocerySupervisor_Unity:Jaw
+    100022: GrocerySupervisor_Unity:l_L_eye
+    100024: GrocerySupervisor_Unity:l_L_gland
+    100026: GrocerySupervisor_Unity:l_R_eye
+    100028: GrocerySupervisor_Unity:l_R_gland
+    100030: GrocerySupervisor_Unity:l_TeethDown
+    100032: GrocerySupervisor_Unity:l_TeethUp
+    100034: GrocerySupervisor_Unity:l_wig
+    100036: GrocerySupervisor_Unity:LeftArm
+    100038: GrocerySupervisor_Unity:LeftEye
+    100040: GrocerySupervisor_Unity:LeftFingerBase
+    100042: GrocerySupervisor_Unity:LeftFoot
+    100044: GrocerySupervisor_Unity:LeftForeArm
+    100046: GrocerySupervisor_Unity:LeftHand
+    100048: GrocerySupervisor_Unity:LeftHandIndex1
+    100050: GrocerySupervisor_Unity:LeftHandIndex2
+    100052: GrocerySupervisor_Unity:LeftHandIndex3
+    100054: GrocerySupervisor_Unity:LeftHandIndex4
+    100056: GrocerySupervisor_Unity:LeftHandMiddle1
+    100058: GrocerySupervisor_Unity:LeftHandMiddle2
+    100060: GrocerySupervisor_Unity:LeftHandMiddle3
+    100062: GrocerySupervisor_Unity:LeftHandMiddle4
+    100064: GrocerySupervisor_Unity:LeftHandPinky1
+    100066: GrocerySupervisor_Unity:LeftHandPinky2
+    100068: GrocerySupervisor_Unity:LeftHandPinky3
+    100070: GrocerySupervisor_Unity:LeftHandPinky4
+    100072: GrocerySupervisor_Unity:LeftHandRing1
+    100074: GrocerySupervisor_Unity:LeftHandRing2
+    100076: GrocerySupervisor_Unity:LeftHandRing3
+    100078: GrocerySupervisor_Unity:LeftHandRing4
+    100080: GrocerySupervisor_Unity:LeftHandThumb1
+    100082: GrocerySupervisor_Unity:LeftHandThumb2
+    100084: GrocerySupervisor_Unity:LeftHandThumb3
+    100086: GrocerySupervisor_Unity:LeftHandThumb4
+    100088: GrocerySupervisor_Unity:LeftLeg
+    100090: GrocerySupervisor_Unity:LeftShoulder
+    100092: GrocerySupervisor_Unity:LeftToeBase
+    100094: GrocerySupervisor_Unity:LeftToeEnd
+    100096: GrocerySupervisor_Unity:LeftUpLeg
+    100098: GrocerySupervisor_Unity:LipCornerL
+    100100: GrocerySupervisor_Unity:LipCornerR
+    100102: GrocerySupervisor_Unity:LipLowerL
+    100104: GrocerySupervisor_Unity:LipLowerR
+    100106: GrocerySupervisor_Unity:LipUpperL
+    100108: GrocerySupervisor_Unity:LipUpperR
+    100110: GrocerySupervisor_Unity:LowerLidL
+    100112: GrocerySupervisor_Unity:LowerLidR
+    100114: GrocerySupervisor_Unity:master
+    100116: GrocerySupervisor_Unity:Neck
+    100118: GrocerySupervisor_Unity:Nostrils
+    100120: GrocerySupervisor_Unity:Reference
+    100122: GrocerySupervisor_Unity:RightArm
+    100124: GrocerySupervisor_Unity:RightEye
+    100126: GrocerySupervisor_Unity:RightFingerBase
+    100128: GrocerySupervisor_Unity:RightFoot
+    100130: GrocerySupervisor_Unity:RightForeArm
+    100132: GrocerySupervisor_Unity:RightHand
+    100134: GrocerySupervisor_Unity:RightHandIndex1
+    100136: GrocerySupervisor_Unity:RightHandIndex2
+    100138: GrocerySupervisor_Unity:RightHandIndex3
+    100140: GrocerySupervisor_Unity:RightHandIndex4
+    100142: GrocerySupervisor_Unity:RightHandMiddle1
+    100144: GrocerySupervisor_Unity:RightHandMiddle2
+    100146: GrocerySupervisor_Unity:RightHandMiddle3
+    100148: GrocerySupervisor_Unity:RightHandMiddle4
+    100150: GrocerySupervisor_Unity:RightHandPinky1
+    100152: GrocerySupervisor_Unity:RightHandPinky2
+    100154: GrocerySupervisor_Unity:RightHandPinky3
+    100156: GrocerySupervisor_Unity:RightHandPinky4
+    100158: GrocerySupervisor_Unity:RightHandRing1
+    100160: GrocerySupervisor_Unity:RightHandRing2
+    100162: GrocerySupervisor_Unity:RightHandRing3
+    100164: GrocerySupervisor_Unity:RightHandRing4
+    100166: GrocerySupervisor_Unity:RightHandThumb1
+    100168: GrocerySupervisor_Unity:RightHandThumb2
+    100170: GrocerySupervisor_Unity:RightHandThumb3
+    100172: GrocerySupervisor_Unity:RightHandThumb4
+    100174: GrocerySupervisor_Unity:RightLeg
+    100176: GrocerySupervisor_Unity:RightShoulder
+    100178: GrocerySupervisor_Unity:RightToeBase
+    100180: GrocerySupervisor_Unity:RightToeEnd
+    100182: GrocerySupervisor_Unity:RightUpLeg
+    100184: GrocerySupervisor_Unity:Spine
+    100186: GrocerySupervisor_Unity:Spine1
+    100188: GrocerySupervisor_Unity:Spine2
+    100190: GrocerySupervisor_Unity:TongueF
+    100192: GrocerySupervisor_Unity:TongueR
+    100194: GrocerySupervisor_Unity:UpperLidL
+    100196: GrocerySupervisor_Unity:UpperLidR
+    100198: //RootNode
+    400000: GrocerySupervisor_Unity:BrowInnerL
+    400002: GrocerySupervisor_Unity:BrowInnerR
+    400004: GrocerySupervisor_Unity:BrowOuterL
+    400006: GrocerySupervisor_Unity:BrowOuterR
+    400008: GrocerySupervisor_Unity:CheekL
+    400010: GrocerySupervisor_Unity:CheekR
+    400012: GrocerySupervisor_Unity:H_DDS_LowRes
+    400014: GrocerySupervisor_Unity:Head
+    400016: GrocerySupervisor_Unity:HeadEnd
+    400018: GrocerySupervisor_Unity:Hips
+    400020: GrocerySupervisor_Unity:Jaw
+    400022: GrocerySupervisor_Unity:l_L_eye
+    400024: GrocerySupervisor_Unity:l_L_gland
+    400026: GrocerySupervisor_Unity:l_R_eye
+    400028: GrocerySupervisor_Unity:l_R_gland
+    400030: GrocerySupervisor_Unity:l_TeethDown
+    400032: GrocerySupervisor_Unity:l_TeethUp
+    400034: GrocerySupervisor_Unity:l_wig
+    400036: GrocerySupervisor_Unity:LeftArm
+    400038: GrocerySupervisor_Unity:LeftEye
+    400040: GrocerySupervisor_Unity:LeftFingerBase
+    400042: GrocerySupervisor_Unity:LeftFoot
+    400044: GrocerySupervisor_Unity:LeftForeArm
+    400046: GrocerySupervisor_Unity:LeftHand
+    400048: GrocerySupervisor_Unity:LeftHandIndex1
+    400050: GrocerySupervisor_Unity:LeftHandIndex2
+    400052: GrocerySupervisor_Unity:LeftHandIndex3
+    400054: GrocerySupervisor_Unity:LeftHandIndex4
+    400056: GrocerySupervisor_Unity:LeftHandMiddle1
+    400058: GrocerySupervisor_Unity:LeftHandMiddle2
+    400060: GrocerySupervisor_Unity:LeftHandMiddle3
+    400062: GrocerySupervisor_Unity:LeftHandMiddle4
+    400064: GrocerySupervisor_Unity:LeftHandPinky1
+    400066: GrocerySupervisor_Unity:LeftHandPinky2
+    400068: GrocerySupervisor_Unity:LeftHandPinky3
+    400070: GrocerySupervisor_Unity:LeftHandPinky4
+    400072: GrocerySupervisor_Unity:LeftHandRing1
+    400074: GrocerySupervisor_Unity:LeftHandRing2
+    400076: GrocerySupervisor_Unity:LeftHandRing3
+    400078: GrocerySupervisor_Unity:LeftHandRing4
+    400080: GrocerySupervisor_Unity:LeftHandThumb1
+    400082: GrocerySupervisor_Unity:LeftHandThumb2
+    400084: GrocerySupervisor_Unity:LeftHandThumb3
+    400086: GrocerySupervisor_Unity:LeftHandThumb4
+    400088: GrocerySupervisor_Unity:LeftLeg
+    400090: GrocerySupervisor_Unity:LeftShoulder
+    400092: GrocerySupervisor_Unity:LeftToeBase
+    400094: GrocerySupervisor_Unity:LeftToeEnd
+    400096: GrocerySupervisor_Unity:LeftUpLeg
+    400098: GrocerySupervisor_Unity:LipCornerL
+    400100: GrocerySupervisor_Unity:LipCornerR
+    400102: GrocerySupervisor_Unity:LipLowerL
+    400104: GrocerySupervisor_Unity:LipLowerR
+    400106: GrocerySupervisor_Unity:LipUpperL
+    400108: GrocerySupervisor_Unity:LipUpperR
+    400110: GrocerySupervisor_Unity:LowerLidL
+    400112: GrocerySupervisor_Unity:LowerLidR
+    400114: GrocerySupervisor_Unity:master
+    400116: GrocerySupervisor_Unity:Neck
+    400118: GrocerySupervisor_Unity:Nostrils
+    400120: GrocerySupervisor_Unity:Reference
+    400122: GrocerySupervisor_Unity:RightArm
+    400124: GrocerySupervisor_Unity:RightEye
+    400126: GrocerySupervisor_Unity:RightFingerBase
+    400128: GrocerySupervisor_Unity:RightFoot
+    400130: GrocerySupervisor_Unity:RightForeArm
+    400132: GrocerySupervisor_Unity:RightHand
+    400134: GrocerySupervisor_Unity:RightHandIndex1
+    400136: GrocerySupervisor_Unity:RightHandIndex2
+    400138: GrocerySupervisor_Unity:RightHandIndex3
+    400140: GrocerySupervisor_Unity:RightHandIndex4
+    400142: GrocerySupervisor_Unity:RightHandMiddle1
+    400144: GrocerySupervisor_Unity:RightHandMiddle2
+    400146: GrocerySupervisor_Unity:RightHandMiddle3
+    400148: GrocerySupervisor_Unity:RightHandMiddle4
+    400150: GrocerySupervisor_Unity:RightHandPinky1
+    400152: GrocerySupervisor_Unity:RightHandPinky2
+    400154: GrocerySupervisor_Unity:RightHandPinky3
+    400156: GrocerySupervisor_Unity:RightHandPinky4
+    400158: GrocerySupervisor_Unity:RightHandRing1
+    400160: GrocerySupervisor_Unity:RightHandRing2
+    400162: GrocerySupervisor_Unity:RightHandRing3
+    400164: GrocerySupervisor_Unity:RightHandRing4
+    400166: GrocerySupervisor_Unity:RightHandThumb1
+    400168: GrocerySupervisor_Unity:RightHandThumb2
+    400170: GrocerySupervisor_Unity:RightHandThumb3
+    400172: GrocerySupervisor_Unity:RightHandThumb4
+    400174: GrocerySupervisor_Unity:RightLeg
+    400176: GrocerySupervisor_Unity:RightShoulder
+    400178: GrocerySupervisor_Unity:RightToeBase
+    400180: GrocerySupervisor_Unity:RightToeEnd
+    400182: GrocerySupervisor_Unity:RightUpLeg
+    400184: GrocerySupervisor_Unity:Spine
+    400186: GrocerySupervisor_Unity:Spine1
+    400188: GrocerySupervisor_Unity:Spine2
+    400190: GrocerySupervisor_Unity:TongueF
+    400192: GrocerySupervisor_Unity:TongueR
+    400194: GrocerySupervisor_Unity:UpperLidL
+    400196: GrocerySupervisor_Unity:UpperLidR
+    400198: //RootNode
+    4300000: GrocerySupervisor_Unity:l_TeethUp
+    4300002: GrocerySupervisor_Unity:l_L_gland
+    4300004: GrocerySupervisor_Unity:l_L_eye
+    4300006: GrocerySupervisor_Unity:l_R_gland
+    4300008: GrocerySupervisor_Unity:l_R_eye
+    4300010: GrocerySupervisor_Unity:l_wig
+    4300012: GrocerySupervisor_Unity:H_DDS_LowRes
+    4300014: GrocerySupervisor_Unity:l_TeethDown
+    9500000: //RootNode
+    13700000: GrocerySupervisor_Unity:H_DDS_LowRes
+    13700002: GrocerySupervisor_Unity:l_L_eye
+    13700004: GrocerySupervisor_Unity:l_L_gland
+    13700006: GrocerySupervisor_Unity:l_R_eye
+    13700008: GrocerySupervisor_Unity:l_R_gland
+    13700010: GrocerySupervisor_Unity:l_TeethDown
+    13700012: GrocerySupervisor_Unity:l_TeethUp
+    13700014: GrocerySupervisor_Unity:l_wig
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: GrocerySupervisor_Unity:Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GrocerySupervisor_Unity:LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GrocerySupervisor_Unity:RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GrocerySupervisor_Unity:LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GrocerySupervisor_Unity:RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GrocerySupervisor_Unity:LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GrocerySupervisor_Unity:RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GrocerySupervisor_Unity:Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GrocerySupervisor_Unity:Spine2
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GrocerySupervisor_Unity:Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GrocerySupervisor_Unity:Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GrocerySupervisor_Unity:LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GrocerySupervisor_Unity:RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GrocerySupervisor_Unity:LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GrocerySupervisor_Unity:RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GrocerySupervisor_Unity:LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GrocerySupervisor_Unity:RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GrocerySupervisor_Unity:LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GrocerySupervisor_Unity:RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GrocerySupervisor_Unity:LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GrocerySupervisor_Unity:RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GrocerySupervisor_Unity:LeftEye
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GrocerySupervisor_Unity:RightEye
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GrocerySupervisor_Unity:LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GrocerySupervisor_Unity:LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GrocerySupervisor_Unity:LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GrocerySupervisor_Unity:LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GrocerySupervisor_Unity:LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GrocerySupervisor_Unity:LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GrocerySupervisor_Unity:LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GrocerySupervisor_Unity:LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GrocerySupervisor_Unity:LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GrocerySupervisor_Unity:LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GrocerySupervisor_Unity:LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GrocerySupervisor_Unity:LeftHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GrocerySupervisor_Unity:LeftHandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GrocerySupervisor_Unity:LeftHandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GrocerySupervisor_Unity:LeftHandPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GrocerySupervisor_Unity:RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GrocerySupervisor_Unity:RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GrocerySupervisor_Unity:RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GrocerySupervisor_Unity:RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GrocerySupervisor_Unity:RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GrocerySupervisor_Unity:RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GrocerySupervisor_Unity:RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GrocerySupervisor_Unity:RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GrocerySupervisor_Unity:RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GrocerySupervisor_Unity:RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GrocerySupervisor_Unity:RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GrocerySupervisor_Unity:RightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GrocerySupervisor_Unity:RightHandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GrocerySupervisor_Unity:RightHandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GrocerySupervisor_Unity:RightHandPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: MMGrocerySupervisor4(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:H_DDS_LowRes
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:l_L_eye
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:l_L_gland
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:l_R_eye
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:l_R_gland
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:l_TeethDown
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:l_TeethUp
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:l_wig
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:master
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:Reference
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:Hips
+      position: {x: -0, y: .924757421, z: -.0259252395}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:Spine
+      position: {x: -0, y: -1.87163659e-17, z: .0421455093}
+      rotation: {x: .5, y: -.5, z: -.5, w: -.5}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:Spine1
+      position: {x: -.0842910185, y: -4.21118212e-17, z: -4.88498128e-17}
+      rotation: {x: 0, y: -.00941616576, z: 0, w: .999955654}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:Spine2
+      position: {x: -.0833134502, y: -3.69920464e-17, z: 2.30371273e-17}
+      rotation: {x: 3.9686282e-10, y: .0790564865, z: 4.21449791e-08, w: .99687016}
+      scale: {x: 1.00000024, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:Neck
+      position: {x: -.260958731, y: -8.2564563e-17, z: -.0968709067}
+      rotation: {x: -2.91979791e-08, y: -.201759353, z: -1.23853269e-07, w: .979435146}
+      scale: {x: .999999821, y: .999999762, z: .999999583}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:Head
+      position: {x: -.0896554813, y: -1.31243361e-18, z: 1.11022302e-16}
+      rotation: {x: 5.79519153e-08, y: .133035541, z: 4.21468478e-08, w: .991111279}
+      scale: {x: 1.00000024, y: 1.00000024, z: 1.0000006}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:HeadEnd
+      position: {x: -.159124345, y: -3.53327022e-17, z: 3.53327022e-17}
+      rotation: {x: .707106829, y: -.707106829, z: -4.32978063e-17, w: 4.32978063e-17}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:LeftEye
+      position: {x: -.0506452136, y: .0314062983, z: -.0551966242}
+      rotation: {x: 0, y: .707106829, z: 0, w: -.707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:Jaw
+      position: {x: -.00650220178, y: -1.37616927e-16, z: -.00557791814}
+      rotation: {x: -4.47034836e-08, y: 1.49011612e-08, z: 4.21468478e-08, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:TongueR
+      position: {x: .0250658412, y: 1.27131382e-17, z: -.0216388702}
+      rotation: {x: 6.1232336e-17, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:TongueF
+      position: {x: -0, y: -1.4261028e-18, z: -.0256903842}
+      rotation: {x: 6.1232336e-17, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:LipLowerL
+      position: {x: .0206269883, y: .00952195935, z: -.0813106969}
+      rotation: {x: 0, y: 1, z: 1.49011612e-08, w: 1.49011612e-08}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:LipLowerR
+      position: {x: .0206233971, y: -.00952195469, z: -.0813102797}
+      rotation: {x: 1.49011612e-08, y: -1.49011612e-08, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:Nostrils
+      position: {x: -.0105772913, y: 2.26259235e-05, z: -.0874476954}
+      rotation: {x: -4.47034836e-08, y: 1.49011612e-08, z: 4.21468478e-08, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:BrowInnerL
+      position: {x: -.0791652054, y: .019469399, z: -.0859746262}
+      rotation: {x: -4.21468478e-08, y: 1, z: -4.47034836e-08, w: -1.49011612e-08}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:LipUpperL
+      position: {x: .0116347866, y: .00814144965, z: -.0935676172}
+      rotation: {x: -4.21468478e-08, y: 1, z: -4.47034836e-08, w: -1.49011612e-08}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:LipUpperR
+      position: {x: .0116366064, y: -.00814144965, z: -.0935671404}
+      rotation: {x: -4.47034836e-08, y: 1.49011612e-08, z: 4.21468478e-08, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:LipCornerR
+      position: {x: .0149236545, y: -.0232115686, z: -.0762465}
+      rotation: {x: -4.47034836e-08, y: 1.49011612e-08, z: 4.21468478e-08, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:LipCornerL
+      position: {x: .014924787, y: .0232116003, z: -.0762466192}
+      rotation: {x: -4.21468478e-08, y: 1, z: -4.47034836e-08, w: -1.49011612e-08}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:BrowOuterL
+      position: {x: -.0768952146, y: .0507592, z: -.0701136217}
+      rotation: {x: -4.21468478e-08, y: 1, z: -4.47034836e-08, w: -1.49011612e-08}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:BrowInnerR
+      position: {x: -.079166308, y: -.0194693692, z: -.0859745219}
+      rotation: {x: -4.47034836e-08, y: 1.49011612e-08, z: 4.21468478e-08, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:BrowOuterR
+      position: {x: -.0768964142, y: -.0507592112, z: -.0701135024}
+      rotation: {x: -4.47034836e-08, y: 1.49011612e-08, z: 4.21468478e-08, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:UpperLidR
+      position: {x: -.0557507835, y: -.031406302, z: -.075378485}
+      rotation: {x: -4.47034836e-08, y: 1.49011612e-08, z: 4.21468478e-08, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:LowerLidR
+      position: {x: -.0430238843, y: -.031406302, z: -.0731806383}
+      rotation: {x: -4.47034836e-08, y: 1.49011612e-08, z: 4.21468478e-08, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:UpperLidL
+      position: {x: -.0557552129, y: .0314062983, z: -.0753786191}
+      rotation: {x: -4.21468478e-08, y: 1, z: -4.47034836e-08, w: -1.49011612e-08}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:LowerLidL
+      position: {x: -.0430252105, y: .0314062983, z: -.0731806234}
+      rotation: {x: -4.21468478e-08, y: 1, z: -4.47034836e-08, w: -1.49011612e-08}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:CheekL
+      position: {x: -.0196152125, y: .0398555994, z: -.0849656165}
+      rotation: {x: -4.21468478e-08, y: 1, z: -4.47034836e-08, w: -1.49011612e-08}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:CheekR
+      position: {x: -.0196172073, y: -.0398556329, z: -.0849657208}
+      rotation: {x: -4.47034836e-08, y: 1.49011612e-08, z: 4.21468478e-08, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:RightEye
+      position: {x: -.0506483987, y: -.031406302, z: -.0551968366}
+      rotation: {x: 1.8078159e-09, y: .707106769, z: -6.14124573e-08, w: -.707106829}
+      scale: {x: 1.00000012, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:RightShoulder
+      position: {x: -.228421092, y: -.0354067571, z: -.0682923272}
+      rotation: {x: .0480325334, y: .0510263816, z: -.758791029, w: -.647553384}
+      scale: {x: .999999642, y: .999999762, z: .999999583}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:RightArm
+      position: {x: -.135077775, y: 1.07715484e-17, z: 1.69309015e-17}
+      rotation: {x: .00116499932, y: .0384395011, z: -.104805008, w: .993749022}
+      scale: {x: 1.00000012, y: 1, z: 1.00000024}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:RightForeArm
+      position: {x: -.241750956, y: 5.68434176e-16, z: -4.440892e-18}
+      rotation: {x: .000620790001, y: -.0615826957, z: .0528651103, w: .996700764}
+      scale: {x: 1.00000024, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:RightHand
+      position: {x: -.220624074, y: -5.68434176e-16, z: 2.22044605e-16}
+      rotation: {x: .0018447527, y: -.0138814868, z: -.0765525624, w: .996967256}
+      scale: {x: .999999523, y: 1, z: .999999464}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:RightFingerBase
+      position: {x: -.0219975505, y: -1.15844832e-16, z: 6.661338e-18}
+      rotation: {x: 5.49057999e-09, y: 6.7635022e-09, z: 4.03697946e-08, w: 1}
+      scale: {x: 1.00000012, y: 1, z: .999999881}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:RightHandMiddle1
+      position: {x: -.0670560971, y: .000621847226, z: -.0112035163}
+      rotation: {x: .00291962945, y: -.0190413278, z: .0616364256, w: .997912824}
+      scale: {x: 1.00000024, y: 1, z: 1.00000036}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:RightHandMiddle2
+      position: {x: -.0429022126, y: 5.71821752e-17, z: -7.07767165e-18}
+      rotation: {x: -.000454750028, y: -.00264168507, z: .0410125591, w: .999155045}
+      scale: {x: 1.00000012, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:RightHandMiddle3
+      position: {x: -.0261830613, y: -2.45636842e-17, z: -2.35922395e-18}
+      rotation: {x: -.00103746483, y: -.00542648416, z: -.000635120843, w: .999984622}
+      scale: {x: .999999821, y: 1, z: .999999881}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:RightHandMiddle4
+      position: {x: -.0246586408, y: -1.92208438e-16, z: 8.36830568e-17}
+      rotation: {x: .0939787552, y: .995413661, z: .00168052805, w: -.0177999865}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:RightHandThumb1
+      position: {x: -.00415985705, y: -.0256167166, z: -.0277510546}
+      rotation: {x: .0408322364, y: -.446968079, z: .0980818942, w: .888218582}
+      scale: {x: .999999881, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:RightHandThumb2
+      position: {x: -.0196381118, y: -4.99600348e-17, z: -1.73194785e-16}
+      rotation: {x: .0661798865, y: .0312832519, z: -.013102903, w: .997231185}
+      scale: {x: .999999821, y: .999999762, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:RightHandThumb3
+      position: {x: -.0306912605, y: -1.98174806e-16, z: -8.88178367e-17}
+      rotation: {x: -.00492324168, y: -.00674558291, z: .0391464569, w: .999198616}
+      scale: {x: 1.00000048, y: 1.00000024, z: 1.0000006}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:RightHandThumb4
+      position: {x: -.0284553282, y: -3.58602039e-16, z: -1.06581408e-16}
+      rotation: {x: .201279581, y: .916398346, z: .0742220059, w: -.337922633}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:RightHandPinky1
+      position: {x: -.0604556203, y: -.00565205421, z: .0328913108}
+      rotation: {x: .00583497342, y: -.0284260251, z: .0663524792, w: .997374237}
+      scale: {x: .999999881, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:RightHandPinky2
+      position: {x: -.0344618186, y: 1.57825134e-16, z: -2.44249064e-17}
+      rotation: {x: .000948364032, y: .00689873239, z: -.00363545236, w: .999969125}
+      scale: {x: 1.00000012, y: .999999881, z: 1.00000012}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:RightHandPinky3
+      position: {x: -.0171906371, y: -2.1483249e-16, z: 6.5433765e-17}
+      rotation: {x: .00227562082, y: .0148039814, z: .0195394363, w: .99969691}
+      scale: {x: 1.00000012, y: 1, z: .999999881}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:RightHandPinky4
+      position: {x: -.0188902915, y: -2.00383213e-17, z: 1.80064299e-17}
+      rotation: {x: .0859272778, y: .996300042, z: .000144233287, w: -.00167234009}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:RightHandIndex1
+      position: {x: -.0678722635, y: -.00395841897, z: -.032443855}
+      rotation: {x: -.000919232785, y: -.0064882962, z: .0553627796, w: .998444796}
+      scale: {x: 1.00000036, y: 1, z: 1.0000006}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:RightHandIndex2
+      position: {x: -.037550889, y: 6.42443984e-17, z: -3.74700277e-17}
+      rotation: {x: -.000172813248, y: -.0134014534, z: .0386934578, w: .999161243}
+      scale: {x: .999999821, y: .99999994, z: .999999642}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:RightHandIndex3
+      position: {x: -.0217626207, y: -1.91277112e-16, z: 3.6082247e-18}
+      rotation: {x: .0041589383, y: .0318151116, z: .0256030485, w: .999157131}
+      scale: {x: .999999881, y: .999999881, z: .999999821}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:RightHandIndex4
+      position: {x: -.0246610772, y: -4.81040969e-16, z: 4.97865618e-18}
+      rotation: {x: .0651503578, y: .9978742, z: .000104733524, w: -.00160414923}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:RightHandRing1
+      position: {x: -.0649292096, y: -.000621847226, z: .0112035163}
+      rotation: {x: .00431006448, y: -.0229502097, z: .0636962205, w: .997696102}
+      scale: {x: 1.00000012, y: 1, z: 1.00000024}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:RightHandRing2
+      position: {x: -.040909756, y: -1.62980521e-16, z: -1.27675642e-17}
+      rotation: {x: -.00207011099, y: -.0111988252, z: .0397019573, w: .99914664}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:RightHandRing3
+      position: {x: -.0244078822, y: 2.27951336e-16, z: -1.58206779e-17}
+      rotation: {x: .00930655096, y: .0243364926, z: .0325240679, w: .999131322}
+      scale: {x: .999999762, y: .999999821, z: .999999821}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:RightHandRing4
+      position: {x: -.0226815678, y: -1.02535707e-16, z: 2.01227913e-17}
+      rotation: {x: .150015876, y: .98862803, z: -.00157281535, w: .0103650987}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:LeftShoulder
+      position: {x: -.228422314, y: .0354067981, z: -.0682924688}
+      rotation: {x: .758791149, y: .647553265, z: .048032511, w: .0510264039}
+      scale: {x: .999999762, y: .999999583, z: .999999881}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:LeftArm
+      position: {x: .135077253, y: -3.67236521e-06, z: 7.49922506e-08}
+      rotation: {x: .00116521015, y: .0384415537, z: -.104808562, w: .993748486}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:LeftForeArm
+      position: {x: .241750196, y: 2.88409524e-06, z: -8.80196254e-08}
+      rotation: {x: .000620784995, y: -.0615873523, z: .0528715253, w: .996700227}
+      scale: {x: 1.00000012, y: 1.0000006, z: .99999994}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:LeftHand
+      position: {x: .220624804, y: -2.3619084e-06, z: -6.54186536e-08}
+      rotation: {x: .00184445409, y: -.0138814664, z: -.0765677989, w: .996966064}
+      scale: {x: .999999762, y: .999999523, z: 1.00000012}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:LeftFingerBase
+      position: {x: .0219953191, y: 7.98259589e-06, z: 8.99979113e-08}
+      rotation: {x: 4.57758382e-08, y: 1.39086804e-08, z: -1.47629988e-08, w: 1}
+      scale: {x: 1, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:LeftHandMiddle1
+      position: {x: .0670571551, y: -.000628237089, z: .0112035209}
+      rotation: {x: .0029198085, y: -.0190403592, z: .0616442412, w: .997912347}
+      scale: {x: 1.00000036, y: .999999881, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:LeftHandMiddle2
+      position: {x: .0429026596, y: -3.78164771e-08, z: 2.13586908e-08}
+      rotation: {x: -.00045486982, y: -.00263433554, z: .040873643, w: .999160826}
+      scale: {x: 1.00000024, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:LeftHandMiddle3
+      position: {x: .0261840727, y: 6.94580694e-06, z: -3.95285547e-08}
+      rotation: {x: -.00103742373, y: -.0054264986, z: -.000635094068, w: .999984622}
+      scale: {x: .999999762, y: 1, z: .99999994}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:LeftHandMiddle4
+      position: {x: .0246582497, y: -5.01049908e-06, z: -5.18383771e-08}
+      rotation: {x: .0939787552, y: .995413661, z: .00168052805, w: -.0177999865}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:LeftHandThumb1
+      position: {x: .00416162377, y: .0256081857, z: .0277510062}
+      rotation: {x: .599179506, y: .38536346, z: .246730134, w: -.656965137}
+      scale: {x: 1, y: 1.00000036, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:LeftHandThumb2
+      position: {x: .0196390953, y: -3.05968854e-07, z: 2.4066494e-06}
+      rotation: {x: .0662041679, y: .0131424675, z: .0312851891, w: .99722898}
+      scale: {x: 1.00000024, y: .999999821, z: .999999881}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:LeftHandThumb3
+      position: {x: .0306933299, y: 2.03224943e-07, z: 6.62565253e-06}
+      rotation: {x: -.00492344517, y: -.0393349752, z: -.00676093902, w: .999191165}
+      scale: {x: 1, y: .999999821, z: .99999994}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:LeftHandThumb4
+      position: {x: .0284533855, y: 3.89898176e-08, z: -4.27157966e-06}
+      rotation: {x: -.0966212377, y: .595508575, z: .700474381, w: -.381273538}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:LeftHandPinky1
+      position: {x: .0604565032, y: .00565026933, z: -.0328914113}
+      rotation: {x: .00583958672, y: -.0284309778, z: .0663248822, w: .997375906}
+      scale: {x: 1.00000012, y: .999999821, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:LeftHandPinky2
+      position: {x: .0344618112, y: 2.51244069e-06, z: 8.31004527e-08}
+      rotation: {x: .000948362809, y: .00689873239, z: -.00363554154, w: .999969125}
+      scale: {x: 1.00000012, y: 1.00000024, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:LeftHandPinky3
+      position: {x: .0171889998, y: -9.17092621e-06, z: -1.28746942e-08}
+      rotation: {x: .00227562198, y: .0148039944, z: .0195394307, w: .99969691}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:LeftHandPinky4
+      position: {x: .0188920088, y: 5.40576457e-06, z: 1.74556138e-08}
+      rotation: {x: .0859272778, y: .996300042, z: .000144233287, w: -.00167234009}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:LeftHandIndex1
+      position: {x: .0678736418, y: .00395032996, z: .0324438401}
+      rotation: {x: -.000912439253, y: -.00652215583, z: .0552996807, w: .998448074}
+      scale: {x: 1.00000048, y: 1.00000036, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:LeftHandIndex2
+      position: {x: .0375515334, y: 7.43710007e-06, z: -7.38755759e-08}
+      rotation: {x: -.000172818196, y: -.0134485438, z: .0388750471, w: .999153614}
+      scale: {x: .999999821, y: .999999583, z: .99999994}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:LeftHandIndex3
+      position: {x: .0217623562, y: -4.0274108e-06, z: 5.00244077e-08}
+      rotation: {x: .00415871944, y: .0317519754, z: .0255082808, w: .999161541}
+      scale: {x: .99999994, y: .999999762, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:LeftHandIndex4
+      position: {x: .0246609319, y: 3.51567633e-06, z: -1.34212179e-08}
+      rotation: {x: .0651503578, y: .9978742, z: .000104733524, w: -.00160414923}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:LeftHandRing1
+      position: {x: .0649300814, y: .000618048012, z: -.0112035526}
+      rotation: {x: .00431211898, y: -.0229527652, z: .0636895224, w: .997696519}
+      scale: {x: 1.00000048, y: 1, z: .999999821}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:LeftHandRing2
+      position: {x: .0409100428, y: 1.27023941e-06, z: -1.04981996e-08}
+      rotation: {x: -.00207012473, y: -.0111958086, z: .0396897458, w: .999147177}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:LeftHandRing3
+      position: {x: .0244082995, y: 1.40290308e-06, z: -1.15888063e-10}
+      rotation: {x: .00930710789, y: .0243376102, z: .0325259864, w: .999131203}
+      scale: {x: .99999994, y: .999999821, z: .99999994}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:LeftHandRing4
+      position: {x: .0226821844, y: 1.33613219e-06, z: -2.92494629e-09}
+      rotation: {x: .150015876, y: .98862803, z: -.00157281535, w: .0103650987}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:RightUpLeg
+      position: {x: .0848147646, y: -.082116276, z: -.0499885082}
+      rotation: {x: .490410626, y: .490052909, z: .509408891, w: -.509752989}
+      scale: {x: 1, y: .99999994, z: .999999762}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:RightLeg
+      position: {x: -.386706561, y: 1.59872109e-16, z: -1.24344979e-16}
+      rotation: {x: -.000242810653, y: -.00508560333, z: .00722110923, w: .999961019}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000024}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:RightFoot
+      position: {x: -.420600057, y: -1.39444006e-15, z: -8.48210376e-16}
+      rotation: {x: -.577983856, y: -.414797902, z: -.418554097, w: .56452632}
+      scale: {x: .99999994, y: 1, z: .99999994}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:RightToeBase
+      position: {x: -.128167734, y: -4.44089183e-17, z: 4.7184479e-18}
+      rotation: {x: -1.07082663e-07, y: 5.00740462e-08, z: -.0540106259, w: .998540342}
+      scale: {x: .99999994, y: .99999994, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:RightToeEnd
+      position: {x: -.0620858409, y: -1.1546319e-16, z: 4.44089183e-17}
+      rotation: {x: -.0808932185, y: -.697936296, z: -.0819257349, w: .706844747}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:LeftUpLeg
+      position: {x: -.0848147944, y: -.0821162388, z: -.0499884933}
+      rotation: {x: .509752989, y: .509408891, z: -.490052909, w: .490410626}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:LeftLeg
+      position: {x: .38670665, y: 2.82076051e-08, z: 7.77467868e-09}
+      rotation: {x: -.000242810653, y: -.00508560473, z: .00722110923, w: .999961019}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:LeftFoot
+      position: {x: .420599997, y: 7.98773225e-09, z: 7.35834931e-08}
+      rotation: {x: .577983856, y: .414797932, z: .418554127, w: -.56452626}
+      scale: {x: .999999881, y: .999999821, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:LeftToeBase
+      position: {x: .128167495, y: 2.57492179e-08, z: 4.01004812e-08}
+      rotation: {x: -3.87918107e-08, y: 4.18778896e-08, z: -.0540105775, w: .998540342}
+      scale: {x: .999999821, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: GrocerySupervisor_Unity:LeftToeEnd
+      position: {x: .0620858334, y: 5.10320284e-08, z: -3.12139932e-08}
+      rotation: {x: -.0808932185, y: -.697936296, z: -.0819257349, w: .706844747}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 0
+  userData: 
