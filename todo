@@ -1,0 +1,3 @@
+to succesfully integrate htc vive across vr4vr modules:
+ - load startup user interface onto desktop view, ie maintaining desktop resolution, size and functionality.
+ - load Loading module successfully from desktop to Vive, controlling with game mechanics wih mouse.  
